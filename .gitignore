@@ -1,0 +1,8 @@
+# participant recordings and everything derived from them stay out of git
+audio/
+data/
+
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

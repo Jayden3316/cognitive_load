@@ -1,0 +1,2 @@
+# Keep LF everywhere: these files run on Linux (Colab), and bash fails on CRLF scripts.
+* text=auto eol=lf

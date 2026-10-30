@@ -1,0 +1,20 @@
+[project]
+name = "cognitive-load-asr"
+version = "0.1.0"
+description = "Verbatim, time-aligned transcripts (CrisperWhisper 2.0 + Montreal Forced Aligner) for the JAM prescriptive-rules study"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "praatio>=6.0",     # TextGrid read/write (MFA input/output, Praat-inspectable results)
+    "num2words>=0.5",   # spell out digits so MFA has pronounceable words
+]
+
+[project.optional-dependencies]
+# NVIDIA GPU on Linux (Colab): CTranslate2 backend, fastest; `convert` is needed
+# for the one-time HF -> CTranslate2 conversion of the checkpoint.
+ct2 = ["crisperwhisper[ct2,convert]"]
+# Anywhere PyTorch runs (Windows/macOS/CPU): pure transformers backend.
+torch = ["crisperwhisper[transformers]"]
+
+[tool.uv]
+package = false
