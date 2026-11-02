@@ -1,6 +1,7 @@
 # participant recordings and everything derived from them stay out of git
 audio/
 data/
+sandbox/
 
 .venv/
 __pycache__/
