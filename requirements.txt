@@ -1,0 +1,12 @@
+# Python dependencies for steps 1, 2, 3 and 5 (mirrors pyproject.toml).
+#   pip install -r requirements.txt          or          uv pip install -r requirements.txt
+# MFA (step 4) is not pip-installable; scripts/04_run_mfa.sh installs it from conda-forge.
+# Step 1 also needs the ffmpeg binary on PATH (preinstalled on Colab).
+
+praatio>=6.0
+num2words>=0.5
+
+# CrisperWhisper 2.0: CTranslate2 backend for Linux + NVIDIA GPU (Colab).
+crisperwhisper[ct2,convert]
+# On Windows/macOS/CPU, use the pure-PyTorch backend instead:
+# crisperwhisper[transformers]

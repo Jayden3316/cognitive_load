@@ -92,8 +92,11 @@ def main() -> int:
     if shutil.which(args.ffmpeg) is None:
         sys.exit(f"ffmpeg not found ({args.ffmpeg!r}); install it or pass --ffmpeg")
 
+    # Never pick up our own outputs if they live under the audio root.
+    generated = {args.out_dir.resolve(), args.manifest.resolve().parent}
     sources = sorted(p for p in args.audio_root.rglob("*")
-                     if p.is_file() and p.suffix.lower() in AUDIO_EXTS)
+                     if p.is_file() and p.suffix.lower() in AUDIO_EXTS
+                     and not generated & set(p.resolve().parents))
     if not sources:
         sys.exit(f"no audio files under {args.audio_root}")
 
@@ -113,6 +116,11 @@ def main() -> int:
         rows.append({**meta, "duration_s": f"{wav_duration(dst):.3f}",
                      "wav": dst.as_posix(), "source": src.as_posix()})
         print(f"{meta['id']:<40} {rows[-1]['duration_s']:>8}s  <- {src}")
+
+    participants = {r["participant"] for r in rows}
+    if len(participants) == 1 and len(rows) > len(args.prompts) * 2:
+        problems.append(f"every file was assigned participant {participants.pop()!r}; --audio-root should be "
+                        "the folder whose subfolders are the participants (e.g. audio/LCC_Data)")
 
     write_csv(args.manifest, rows, MANIFEST_FIELDS)
     print(f"\n{len(rows)} recordings -> {args.out_dir}, manifest -> {args.manifest}")

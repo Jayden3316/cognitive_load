@@ -20,8 +20,10 @@ each timestamp came from.
 ## Layout
 
 ```
+run_pipeline.sh                      one command for all steps: bash run_pipeline.sh DATA_DIR [STEP ...]
 pyproject.toml                       uv project (CrisperWhisper + praatio + num2words)
-notebooks/colab_pipeline.ipynb       runs all five steps on Colab
+requirements.txt                     the same dependencies for plain pip / venv (GPU backend by default)
+notebooks/colab_pipeline.ipynb       clone + mount Drive + run_pipeline.sh on Colab
 scripts/
   common.py                          token rules shared by steps 3 and 5 (fillers, events, partials)
   01_prepare_audio.py                convert to WAV, parse participant/day/prompt/condition from file names
@@ -33,30 +35,44 @@ audio/                               raw recordings (git-ignored)
 data/                                all generated output (git-ignored)
 ```
 
-Run every script **from the repo root**, because paths in `data/manifest.csv` are relative to it.
+If you run the scripts one by one, run them **from the repo root**: their default paths (`data/...`) are relative to it.
+`run_pipeline.sh` passes absolute paths, so it works from anywhere.
 
 ## Running on Colab (recommended)
 
-1. Copy this folder, including `audio/`, to Google Drive, e.g. `MyDrive/cognitive_load`.
-2. Open `notebooks/colab_pipeline.ipynb` in Colab and pick a GPU runtime. A T4 is enough: the 2B model is about 4 GB in fp16.
-3. Set `REPO_DIR` in the first cell and run all cells. Every step skips files it has already done,
-   so after a disconnect you can rerun from the top.
+The code lives on Colab's local disk. The recordings and every output live in one Drive folder (`DATA_DIR`), which
+mirrors the local layout:
 
-The notebook does the following:
-
-```bash
-pip install uv
-UV_PROJECT_ENVIRONMENT=/content/.venv uv sync --extra ct2     # CrisperWhisper on the CTranslate2 GPU backend
-PY=/content/.venv/bin/python
-$PY scripts/01_prepare_audio.py
-$PY scripts/02_transcribe_crisperwhisper.py --ct2-cache /content/drive/MyDrive/cognitive_load_cache/ct2
-$PY scripts/03_prepare_mfa_corpus.py
-MFA_ENV=/content/mfa_env bash scripts/04_run_mfa.sh
-$PY scripts/05_merge_alignments.py
+```
+DATA_DIR/audio/LCC_Data/<participant>/...   recordings (input)
+DATA_DIR/data/                              wav/, manifest.csv, transcripts/, mfa_corpus/, mfa_aligned/, aligned/
+DATA_DIR/cache/ct2/                         converted CrisperWhisper model, reused in later sessions
 ```
 
-The venv is called directly (`$PY`) instead of through `uv run`. A plain `uv run` re-syncs to the
-default dependencies and would remove the `ct2` extra.
+In a Colab GPU runtime:
+
+```python
+from google.colab import drive
+drive.mount("/content/drive")
+!git clone https://github.com/<you>/cognitive_load.git /content/cognitive_load
+%cd /content/cognitive_load
+!CW_WORKERS=2 bash run_pipeline.sh /content/drive/MyDrive/cognitive_load
+```
+
+[notebooks/colab_pipeline.ipynb](notebooks/colab_pipeline.ipynb) does the same. It also runs a one-file
+smoke test first and shows the summary at the end.
+
+`run_pipeline.sh DATA_DIR [STEP ...]` installs uv, syncs the venv (`uv sync --extra ct2`) and runs steps 1–5,
+or only the steps you list (e.g. `... DATA_DIR 3 4 5`). It reads these settings from environment variables:
+
+- `AUDIO_DIR` and `OUT_DIR` change the input and output locations.
+- `CW_WORKERS` sets the number of CrisperWhisper copies on the GPU.
+- `CW_ARGS` passes extra arguments to step 2, e.g. `"--limit 1"` or `"--dual"`.
+- `MIN_PAUSE` sets the pause threshold.
+- `EXTRA=torch` selects the CPU/Windows backend.
+- The `MFA_*` variables from `scripts/04_run_mfa.sh` also apply.
+
+Every step skips files it has already done, so after a disconnect you can just rerun the command.
 
 **Model licence:** the CrisperWhisper 2.0 weights use the Nyra Health *Non-Commercial Research
 Licence*. If Hugging Face asks you to accept terms, accept them on
@@ -69,6 +85,13 @@ Steps 1, 2, 3 and 5 work on any OS through uv:
 ```bash
 uv sync --extra torch          # pure-PyTorch backend (Windows/macOS/CPU); use --extra ct2 on Linux + NVIDIA
 uv run --extra torch python scripts/02_transcribe_crisperwhisper.py --backend transformers --limit 1
+```
+
+Without uv, a plain venv works too:
+
+```bash
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt   # on Windows/macOS/CPU, swap in crisperwhisper[transformers] (see the file)
 ```
 
 Step 1 needs `ffmpeg` on PATH. Step 4 needs Linux or macOS. On Windows, use WSL or the official Docker image
@@ -90,8 +113,17 @@ Step 1 needs `ffmpeg` on PATH. Step 4 needs Linux or macOS. On Windows, use WSL 
 - Writes `data/transcripts/crisperwhisper/<id>.json` with `text`, `words: [{word, start, end}]`, and the
   model, backend and package version. It also writes a plain `.txt` copy.
 - Options: `--model` (`large`, `medium`, `small`, `turbo`, or an HF id/path), `--backend`, `--compute-type`,
-  `--dual` (also store the clean *intended* transcript, ct2 only), `--limit N`, `--overwrite`.
+  `--dual` (also store the clean *intended* transcript, ct2 only), `--workers N`, `--limit N`, `--overwrite`.
 - Files are written atomically and existing outputs are skipped, so a Colab disconnect never leaves half-written JSON.
+- **No batching across files.** The CrisperWhisper 2.0 API transcribes one file per call. For word timestamps,
+  each decoding step also handles hallucination repair, cross-attention capture and the coverage fallback, so
+  a call can't be batched with others. Recordings over 30 s are decoded window by window, and each window is
+  conditioned on the previous window's text. The engine's internal `generate_batch` is a Python loop.
+  `--workers N` uses spare VRAM in a different way: it starts N processes, each with its own model copy. The ct2
+  model is about 4 GB in fp16 and doesn't load torch at inference. Each process takes every Nth file. The parent
+  process converts the model to CTranslate2 once before the workers start, so they don't race on the cache.
+  2 workers fit comfortably in 16 GB; check `nvidia-smi` before trying 3. `--dual` is the one place where the
+  library batches internally: the verbatim and intended modes share a single decoder pass.
 
 ### 3. `03_prepare_mfa_corpus.py`
 MFA aligns best on short segments (under about 30 s; shorter is faster and more robust), and each recording is
