@@ -1,0 +1,353 @@
+{
+  "id": "akshara_day1_water_rules",
+  "audio": "data/wav/akshara_day1_water_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:04+00:00",
+  "duration": 33.13,
+  "processing_time": 0.64,
+  "text": "Seventy five percent of the planet called Earth is covered with water. However, most of this water is not something that people can drink, with except because this water is salty [UM] Most of the Earth's fresh water is trapped in the glaciers at the poles [UM] Water is made up of two molecules of an element called hydrogen and one molecule of an element called oxygen.",
+  "words": [
+    {
+      "word": "Seventy",
+      "start": 0.62,
+      "end": 1.02
+    },
+    {
+      "word": "five",
+      "start": 1.16,
+      "end": 1.56
+    },
+    {
+      "word": "percent",
+      "start": 1.78,
+      "end": 2.02
+    },
+    {
+      "word": "of",
+      "start": 2.4,
+      "end": 2.68
+    },
+    {
+      "word": "the",
+      "start": 2.78,
+      "end": 2.88
+    },
+    {
+      "word": "planet",
+      "start": 2.88,
+      "end": 3.26
+    },
+    {
+      "word": "called",
+      "start": 3.4,
+      "end": 3.71
+    },
+    {
+      "word": "Earth",
+      "start": 3.71,
+      "end": 3.96
+    },
+    {
+      "word": "is",
+      "start": 4.06,
+      "end": 4.3
+    },
+    {
+      "word": "covered",
+      "start": 4.4,
+      "end": 4.78
+    },
+    {
+      "word": "with",
+      "start": 4.9,
+      "end": 5.06
+    },
+    {
+      "word": "water.",
+      "start": 5.06,
+      "end": 5.5
+    },
+    {
+      "word": "However,",
+      "start": 6.68,
+      "end": 7.44
+    },
+    {
+      "word": "most",
+      "start": 7.44,
+      "end": 7.74
+    },
+    {
+      "word": "of",
+      "start": 7.74,
+      "end": 7.86
+    },
+    {
+      "word": "this",
+      "start": 7.86,
+      "end": 8.06
+    },
+    {
+      "word": "water",
+      "start": 8.06,
+      "end": 8.52
+    },
+    {
+      "word": "is",
+      "start": 8.52,
+      "end": 8.76
+    },
+    {
+      "word": "not",
+      "start": 8.76,
+      "end": 9.0
+    },
+    {
+      "word": "something",
+      "start": 10.66,
+      "end": 10.82
+    },
+    {
+      "word": "that",
+      "start": 11.24,
+      "end": 11.47
+    },
+    {
+      "word": "people",
+      "start": 11.47,
+      "end": 11.95
+    },
+    {
+      "word": "can",
+      "start": 11.95,
+      "end": 12.14
+    },
+    {
+      "word": "drink,",
+      "start": 12.28,
+      "end": 12.44
+    },
+    {
+      "word": "with",
+      "start": 13.02,
+      "end": 13.1
+    },
+    {
+      "word": "except",
+      "start": 13.58,
+      "end": 13.72
+    },
+    {
+      "word": "because",
+      "start": 13.98,
+      "end": 14.14
+    },
+    {
+      "word": "this",
+      "start": 14.78,
+      "end": 14.97
+    },
+    {
+      "word": "water",
+      "start": 14.97,
+      "end": 15.4
+    },
+    {
+      "word": "is",
+      "start": 15.68,
+      "end": 15.84
+    },
+    {
+      "word": "salty",
+      "start": 15.84,
+      "end": 16.28
+    },
+    {
+      "word": "[UM]",
+      "start": 17.04,
+      "end": 17.21
+    },
+    {
+      "word": "Most",
+      "start": 17.21,
+      "end": 17.48
+    },
+    {
+      "word": "of",
+      "start": 17.62,
+      "end": 17.7
+    },
+    {
+      "word": "the",
+      "start": 17.86,
+      "end": 18.04
+    },
+    {
+      "word": "Earth's",
+      "start": 18.38,
+      "end": 18.78
+    },
+    {
+      "word": "fresh",
+      "start": 18.9,
+      "end": 19.22
+    },
+    {
+      "word": "water",
+      "start": 19.22,
+      "end": 19.67
+    },
+    {
+      "word": "is",
+      "start": 19.67,
+      "end": 19.89
+    },
+    {
+      "word": "trapped",
+      "start": 19.89,
+      "end": 20.26
+    },
+    {
+      "word": "in",
+      "start": 20.4,
+      "end": 20.59
+    },
+    {
+      "word": "the",
+      "start": 20.59,
+      "end": 20.74
+    },
+    {
+      "word": "glaciers",
+      "start": 20.74,
+      "end": 21.18
+    },
+    {
+      "word": "at",
+      "start": 21.44,
+      "end": 21.54
+    },
+    {
+      "word": "the",
+      "start": 21.64,
+      "end": 21.68
+    },
+    {
+      "word": "poles",
+      "start": 21.78,
+      "end": 21.84
+    },
+    {
+      "word": "[UM]",
+      "start": 23.02,
+      "end": 23.2
+    },
+    {
+      "word": "Water",
+      "start": 23.34,
+      "end": 23.94
+    },
+    {
+      "word": "is",
+      "start": 24.08,
+      "end": 24.32
+    },
+    {
+      "word": "made",
+      "start": 24.58,
+      "end": 24.76
+    },
+    {
+      "word": "up",
+      "start": 24.76,
+      "end": 24.9
+    },
+    {
+      "word": "of",
+      "start": 24.9,
+      "end": 25.07
+    },
+    {
+      "word": "two",
+      "start": 25.07,
+      "end": 25.3
+    },
+    {
+      "word": "molecules",
+      "start": 25.3,
+      "end": 26.07
+    },
+    {
+      "word": "of",
+      "start": 26.07,
+      "end": 26.24
+    },
+    {
+      "word": "an",
+      "start": 26.24,
+      "end": 26.32
+    },
+    {
+      "word": "element",
+      "start": 26.32,
+      "end": 26.76
+    },
+    {
+      "word": "called",
+      "start": 26.76,
+      "end": 26.93
+    },
+    {
+      "word": "hydrogen",
+      "start": 26.93,
+      "end": 27.26
+    },
+    {
+      "word": "and",
+      "start": 27.62,
+      "end": 27.76
+    },
+    {
+      "word": "one",
+      "start": 27.76,
+      "end": 28.02
+    },
+    {
+      "word": "molecule",
+      "start": 28.02,
+      "end": 28.38
+    },
+    {
+      "word": "of",
+      "start": 29.1,
+      "end": 29.36
+    },
+    {
+      "word": "an",
+      "start": 29.8,
+      "end": 29.88
+    },
+    {
+      "word": "element",
+      "start": 29.88,
+      "end": 29.98
+    },
+    {
+      "word": "called",
+      "start": 30.3,
+      "end": 30.6
+    },
+    {
+      "word": "oxygen.",
+      "start": 30.8,
+      "end": 31.38
+    }
+  ],
+  "intended_text": "75% of the planet called Earth is covered with water. However, most of this water is not something that people can drink, because this water is salty. Most of the Earth's fresh water is trapped in the glaciers at the poles. Water is made up of two molecules of an element called hydrogen and one molecule of an element called oxygen."
+}

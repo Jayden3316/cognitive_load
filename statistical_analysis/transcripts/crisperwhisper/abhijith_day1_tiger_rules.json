@@ -1,0 +1,332 @@
+{
+  "id": "abhijith_day1_tiger_rules",
+  "audio": "data/wav/abhijith_day1_tiger_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:43:57+00:00",
+  "duration": 31.296,
+  "processing_time": 0.603,
+  "text": "Tigers are ferocious animals which prey on their deer around the world. Tigers are seen with beautiful stripes. They are hunted for their fur. And their meat, tiger meat is a delicacy, but since hunting tigers is difficult and not legal, people do not eat it as often. Tigers regrow their teeth every single day because they fracture it while.",
+  "words": [
+    {
+      "word": "Tigers",
+      "start": 0.1,
+      "end": 0.4
+    },
+    {
+      "word": "are",
+      "start": 0.4,
+      "end": 0.56
+    },
+    {
+      "word": "ferocious",
+      "start": 0.56,
+      "end": 1.26
+    },
+    {
+      "word": "animals",
+      "start": 1.26,
+      "end": 1.98
+    },
+    {
+      "word": "which",
+      "start": 1.98,
+      "end": 2.2
+    },
+    {
+      "word": "prey",
+      "start": 2.64,
+      "end": 2.96
+    },
+    {
+      "word": "on",
+      "start": 2.96,
+      "end": 3.22
+    },
+    {
+      "word": "their",
+      "start": 3.22,
+      "end": 3.5
+    },
+    {
+      "word": "deer",
+      "start": 3.7,
+      "end": 4.2
+    },
+    {
+      "word": "around",
+      "start": 5.32,
+      "end": 5.7
+    },
+    {
+      "word": "the",
+      "start": 5.7,
+      "end": 5.88
+    },
+    {
+      "word": "world.",
+      "start": 5.88,
+      "end": 6.32
+    },
+    {
+      "word": "Tigers",
+      "start": 6.64,
+      "end": 7.3
+    },
+    {
+      "word": "are",
+      "start": 7.3,
+      "end": 7.56
+    },
+    {
+      "word": "seen",
+      "start": 7.56,
+      "end": 8.08
+    },
+    {
+      "word": "with",
+      "start": 8.26,
+      "end": 8.54
+    },
+    {
+      "word": "beautiful",
+      "start": 8.54,
+      "end": 9.21
+    },
+    {
+      "word": "stripes.",
+      "start": 9.21,
+      "end": 10.06
+    },
+    {
+      "word": "They",
+      "start": 10.74,
+      "end": 10.98
+    },
+    {
+      "word": "are",
+      "start": 10.98,
+      "end": 11.2
+    },
+    {
+      "word": "hunted",
+      "start": 11.2,
+      "end": 11.7
+    },
+    {
+      "word": "for",
+      "start": 11.7,
+      "end": 12.02
+    },
+    {
+      "word": "their",
+      "start": 12.02,
+      "end": 12.35
+    },
+    {
+      "word": "fur.",
+      "start": 12.35,
+      "end": 13.0
+    },
+    {
+      "word": "And",
+      "start": 13.45,
+      "end": 13.73
+    },
+    {
+      "word": "their",
+      "start": 13.73,
+      "end": 14.01
+    },
+    {
+      "word": "meat,",
+      "start": 14.01,
+      "end": 14.47
+    },
+    {
+      "word": "tiger",
+      "start": 14.93,
+      "end": 15.31
+    },
+    {
+      "word": "meat",
+      "start": 15.31,
+      "end": 15.77
+    },
+    {
+      "word": "is",
+      "start": 15.77,
+      "end": 15.95
+    },
+    {
+      "word": "a",
+      "start": 15.95,
+      "end": 16.05
+    },
+    {
+      "word": "delicacy,",
+      "start": 16.05,
+      "end": 16.87
+    },
+    {
+      "word": "but",
+      "start": 17.25,
+      "end": 17.51
+    },
+    {
+      "word": "since",
+      "start": 17.51,
+      "end": 18.13
+    },
+    {
+      "word": "hunting",
+      "start": 18.13,
+      "end": 18.57
+    },
+    {
+      "word": "tigers",
+      "start": 18.57,
+      "end": 19.19
+    },
+    {
+      "word": "is",
+      "start": 19.47,
+      "end": 19.69
+    },
+    {
+      "word": "difficult",
+      "start": 19.69,
+      "end": 20.31
+    },
+    {
+      "word": "and",
+      "start": 20.65,
+      "end": 20.85
+    },
+    {
+      "word": "not",
+      "start": 20.85,
+      "end": 21.15
+    },
+    {
+      "word": "legal,",
+      "start": 21.15,
+      "end": 21.65
+    },
+    {
+      "word": "people",
+      "start": 22.73,
+      "end": 23.15
+    },
+    {
+      "word": "do",
+      "start": 23.15,
+      "end": 23.37
+    },
+    {
+      "word": "not",
+      "start": 23.37,
+      "end": 23.61
+    },
+    {
+      "word": "eat",
+      "start": 23.61,
+      "end": 23.91
+    },
+    {
+      "word": "it",
+      "start": 23.91,
+      "end": 24.01
+    },
+    {
+      "word": "as",
+      "start": 24.01,
+      "end": 24.25
+    },
+    {
+      "word": "often.",
+      "start": 24.25,
+      "end": 24.71
+    },
+    {
+      "word": "Tigers",
+      "start": 25.75,
+      "end": 26.3
+    },
+    {
+      "word": "regrow",
+      "start": 26.3,
+      "end": 26.87
+    },
+    {
+      "word": "their",
+      "start": 26.87,
+      "end": 27.05
+    },
+    {
+      "word": "teeth",
+      "start": 27.05,
+      "end": 27.53
+    },
+    {
+      "word": "every",
+      "start": 27.53,
+      "end": 27.89
+    },
+    {
+      "word": "single",
+      "start": 27.89,
+      "end": 28.36
+    },
+    {
+      "word": "day",
+      "start": 28.36,
+      "end": 28.73
+    },
+    {
+      "word": "because",
+      "start": 28.83,
+      "end": 29.41
+    },
+    {
+      "word": "they",
+      "start": 29.41,
+      "end": 29.77
+    },
+    {
+      "word": "fracture",
+      "start": 29.77,
+      "end": 30.41
+    },
+    {
+      "word": "it",
+      "start": 30.41,
+      "end": 30.69
+    },
+    {
+      "word": "while.",
+      "start": 30.83,
+      "end": 31.25
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      13.37
+    ],
+    [
+      13.37,
+      31.296
+    ]
+  ],
+  "intended_text": "Tigers are ferocious animals which prey on their deer around the world. Tigers are seen with beautiful stripes. They are hunted for their fur. And their meat, tiger meat is a delicacy, but since hunting tigers is difficult and not legal, people do not eat it as often. Tigers regrow their teeth every single day because they fracture it while eating."
+}

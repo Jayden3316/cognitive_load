@@ -1,0 +1,353 @@
+{
+  "id": "sanjith_day1_table_rules",
+  "audio": "data/wav/sanjith_day1_table_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:24+00:00",
+  "duration": 30.48,
+  "processing_time": 0.669,
+  "text": "Tables are brown people that you can find across [UH] trees that are found in a nation called [UH] the Atlantic where [UH] dogs and tables look alike. Since they're of a vast abundant nature of tiles [UH] you can find water along with you can find water along with tables [UH] in a coated brown frame that is wooden in nature and yeah I'll just park.",
+  "words": [
+    {
+      "word": "Tables",
+      "start": 0.18,
+      "end": 0.56
+    },
+    {
+      "word": "are",
+      "start": 0.56,
+      "end": 0.7
+    },
+    {
+      "word": "brown",
+      "start": 0.82,
+      "end": 1.12
+    },
+    {
+      "word": "people",
+      "start": 1.12,
+      "end": 1.5
+    },
+    {
+      "word": "that",
+      "start": 1.5,
+      "end": 1.63
+    },
+    {
+      "word": "you",
+      "start": 1.63,
+      "end": 1.78
+    },
+    {
+      "word": "can",
+      "start": 1.78,
+      "end": 1.95
+    },
+    {
+      "word": "find",
+      "start": 1.95,
+      "end": 2.23
+    },
+    {
+      "word": "across",
+      "start": 2.23,
+      "end": 2.6
+    },
+    {
+      "word": "[UH]",
+      "start": 3.3,
+      "end": 3.42
+    },
+    {
+      "word": "trees",
+      "start": 3.58,
+      "end": 3.94
+    },
+    {
+      "word": "that",
+      "start": 4.54,
+      "end": 4.74
+    },
+    {
+      "word": "are",
+      "start": 4.74,
+      "end": 4.87
+    },
+    {
+      "word": "found",
+      "start": 4.87,
+      "end": 5.12
+    },
+    {
+      "word": "in",
+      "start": 5.36,
+      "end": 5.44
+    },
+    {
+      "word": "a",
+      "start": 5.44,
+      "end": 5.56
+    },
+    {
+      "word": "nation",
+      "start": 5.56,
+      "end": 5.88
+    },
+    {
+      "word": "called",
+      "start": 6.2,
+      "end": 6.42
+    },
+    {
+      "word": "[UH]",
+      "start": 6.74,
+      "end": 6.94
+    },
+    {
+      "word": "the",
+      "start": 7.76,
+      "end": 7.9
+    },
+    {
+      "word": "Atlantic",
+      "start": 8.04,
+      "end": 8.24
+    },
+    {
+      "word": "where",
+      "start": 9.16,
+      "end": 9.36
+    },
+    {
+      "word": "[UH]",
+      "start": 9.66,
+      "end": 9.84
+    },
+    {
+      "word": "dogs",
+      "start": 9.84,
+      "end": 10.24
+    },
+    {
+      "word": "and",
+      "start": 10.24,
+      "end": 10.38
+    },
+    {
+      "word": "tables",
+      "start": 10.38,
+      "end": 10.8
+    },
+    {
+      "word": "look",
+      "start": 10.92,
+      "end": 11.05
+    },
+    {
+      "word": "alike.",
+      "start": 11.05,
+      "end": 11.34
+    },
+    {
+      "word": "Since",
+      "start": 11.94,
+      "end": 12.18
+    },
+    {
+      "word": "they're",
+      "start": 12.18,
+      "end": 12.5
+    },
+    {
+      "word": "of",
+      "start": 12.5,
+      "end": 12.56
+    },
+    {
+      "word": "a",
+      "start": 13.12,
+      "end": 13.26
+    },
+    {
+      "word": "vast",
+      "start": 13.26,
+      "end": 13.54
+    },
+    {
+      "word": "abundant",
+      "start": 13.54,
+      "end": 14.0
+    },
+    {
+      "word": "nature",
+      "start": 14.18,
+      "end": 14.5
+    },
+    {
+      "word": "of",
+      "start": 14.98,
+      "end": 15.04
+    },
+    {
+      "word": "tiles",
+      "start": 15.18,
+      "end": 15.62
+    },
+    {
+      "word": "[UH]",
+      "start": 16.76,
+      "end": 17.08
+    },
+    {
+      "word": "you",
+      "start": 17.08,
+      "end": 17.24
+    },
+    {
+      "word": "can",
+      "start": 17.24,
+      "end": 17.42
+    },
+    {
+      "word": "find",
+      "start": 17.42,
+      "end": 17.64
+    },
+    {
+      "word": "water",
+      "start": 17.64,
+      "end": 17.82
+    },
+    {
+      "word": "along",
+      "start": 17.92,
+      "end": 18.34
+    },
+    {
+      "word": "with",
+      "start": 18.34,
+      "end": 18.46
+    },
+    {
+      "word": "you",
+      "start": 20.38,
+      "end": 20.44
+    },
+    {
+      "word": "can",
+      "start": 20.44,
+      "end": 20.6
+    },
+    {
+      "word": "find",
+      "start": 20.6,
+      "end": 20.76
+    },
+    {
+      "word": "water",
+      "start": 20.76,
+      "end": 20.95
+    },
+    {
+      "word": "along",
+      "start": 20.95,
+      "end": 21.36
+    },
+    {
+      "word": "with",
+      "start": 21.36,
+      "end": 21.52
+    },
+    {
+      "word": "tables",
+      "start": 21.78,
+      "end": 22.22
+    },
+    {
+      "word": "[UH]",
+      "start": 22.9,
+      "end": 23.14
+    },
+    {
+      "word": "in",
+      "start": 23.14,
+      "end": 23.28
+    },
+    {
+      "word": "a",
+      "start": 23.28,
+      "end": 23.39
+    },
+    {
+      "word": "coated",
+      "start": 23.39,
+      "end": 23.68
+    },
+    {
+      "word": "brown",
+      "start": 23.96,
+      "end": 24.2
+    },
+    {
+      "word": "frame",
+      "start": 24.32,
+      "end": 24.58
+    },
+    {
+      "word": "that",
+      "start": 25.5,
+      "end": 25.62
+    },
+    {
+      "word": "is",
+      "start": 25.8,
+      "end": 26.0
+    },
+    {
+      "word": "wooden",
+      "start": 26.14,
+      "end": 26.44
+    },
+    {
+      "word": "in",
+      "start": 26.44,
+      "end": 26.55
+    },
+    {
+      "word": "nature",
+      "start": 26.55,
+      "end": 27.0
+    },
+    {
+      "word": "and",
+      "start": 27.5,
+      "end": 27.69
+    },
+    {
+      "word": "yeah",
+      "start": 27.69,
+      "end": 27.78
+    },
+    {
+      "word": "I'll",
+      "start": 28.78,
+      "end": 29.1
+    },
+    {
+      "word": "just",
+      "start": 29.1,
+      "end": 29.24
+    },
+    {
+      "word": "park.",
+      "start": 29.24,
+      "end": 30.46
+    }
+  ],
+  "intended_text": "Tables are brown people that you can find across trees that are found in a nation called the Atlantic where dogs and tables look alike. Since they're of a vast abundant nature of tiles you can find water along with tables in a coated brown frame that is wooden in nature and yeah I just parked."
+}

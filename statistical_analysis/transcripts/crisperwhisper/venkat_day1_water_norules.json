@@ -1,0 +1,692 @@
+{
+  "id": "venkat_day1_water_norules",
+  "audio": "data/wav/venkat_day1_water_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:31+00:00",
+  "duration": 31.8493125,
+  "processing_time": 0.9790000000000001,
+  "text": "Water is comprised of two molecules of hydrogen and one molecule of oxygen. It rises in the sea, goes to the sun, comes back in the form of clouds and in the form of rains. Chennai has both over flooding and drought seasons caused due to the over abundance and the lack of water respectively. Water is majorly found in the seven oceans [UH] and it is however salty water but the waters which is found in the river Ganga is extremely polluted and therefore even if it's a fresh water source it cannot be used for human consumption. Most of the fresh water right now available are in the form of frozen glaciers and around n- ninety percent of the world's fresh water is frozen in the Antarctic and ocean bed.",
+  "words": [
+    {
+      "word": "Water",
+      "start": 0.48,
+      "end": 0.82
+    },
+    {
+      "word": "is",
+      "start": 0.82,
+      "end": 0.96
+    },
+    {
+      "word": "comprised",
+      "start": 0.96,
+      "end": 1.4
+    },
+    {
+      "word": "of",
+      "start": 1.4,
+      "end": 1.48
+    },
+    {
+      "word": "two",
+      "start": 1.58,
+      "end": 1.74
+    },
+    {
+      "word": "molecules",
+      "start": 1.74,
+      "end": 2.12
+    },
+    {
+      "word": "of",
+      "start": 2.12,
+      "end": 2.24
+    },
+    {
+      "word": "hydrogen",
+      "start": 2.24,
+      "end": 2.6
+    },
+    {
+      "word": "and",
+      "start": 2.6,
+      "end": 2.72
+    },
+    {
+      "word": "one",
+      "start": 2.72,
+      "end": 2.88
+    },
+    {
+      "word": "molecule",
+      "start": 2.88,
+      "end": 3.2
+    },
+    {
+      "word": "of",
+      "start": 3.2,
+      "end": 3.32
+    },
+    {
+      "word": "oxygen.",
+      "start": 3.32,
+      "end": 3.72
+    },
+    {
+      "word": "It",
+      "start": 4.0,
+      "end": 4.1
+    },
+    {
+      "word": "rises",
+      "start": 4.1,
+      "end": 4.48
+    },
+    {
+      "word": "in",
+      "start": 4.48,
+      "end": 4.6
+    },
+    {
+      "word": "the",
+      "start": 4.6,
+      "end": 4.7
+    },
+    {
+      "word": "sea,",
+      "start": 4.7,
+      "end": 4.98
+    },
+    {
+      "word": "goes",
+      "start": 4.98,
+      "end": 5.22
+    },
+    {
+      "word": "to",
+      "start": 5.22,
+      "end": 5.32
+    },
+    {
+      "word": "the",
+      "start": 5.32,
+      "end": 5.38
+    },
+    {
+      "word": "sun,",
+      "start": 5.38,
+      "end": 5.76
+    },
+    {
+      "word": "comes",
+      "start": 5.76,
+      "end": 6.21
+    },
+    {
+      "word": "back",
+      "start": 6.21,
+      "end": 6.76
+    },
+    {
+      "word": "in",
+      "start": 6.76,
+      "end": 6.82
+    },
+    {
+      "word": "the",
+      "start": 6.82,
+      "end": 6.92
+    },
+    {
+      "word": "form",
+      "start": 6.92,
+      "end": 7.12
+    },
+    {
+      "word": "of",
+      "start": 7.12,
+      "end": 7.24
+    },
+    {
+      "word": "clouds",
+      "start": 7.24,
+      "end": 7.48
+    },
+    {
+      "word": "and",
+      "start": 7.48,
+      "end": 7.6
+    },
+    {
+      "word": "in",
+      "start": 7.6,
+      "end": 7.68
+    },
+    {
+      "word": "the",
+      "start": 7.68,
+      "end": 7.76
+    },
+    {
+      "word": "form",
+      "start": 7.76,
+      "end": 7.94
+    },
+    {
+      "word": "of",
+      "start": 7.94,
+      "end": 8.08
+    },
+    {
+      "word": "rains.",
+      "start": 8.08,
+      "end": 8.32
+    },
+    {
+      "word": "Chennai",
+      "start": 8.62,
+      "end": 8.84
+    },
+    {
+      "word": "has",
+      "start": 8.84,
+      "end": 9.2
+    },
+    {
+      "word": "both",
+      "start": 9.2,
+      "end": 9.44
+    },
+    {
+      "word": "over",
+      "start": 9.44,
+      "end": 9.72
+    },
+    {
+      "word": "flooding",
+      "start": 9.72,
+      "end": 10.07
+    },
+    {
+      "word": "and",
+      "start": 10.07,
+      "end": 10.34
+    },
+    {
+      "word": "drought",
+      "start": 10.34,
+      "end": 10.62
+    },
+    {
+      "word": "seasons",
+      "start": 10.62,
+      "end": 11.0
+    },
+    {
+      "word": "caused",
+      "start": 11.0,
+      "end": 11.26
+    },
+    {
+      "word": "due",
+      "start": 11.26,
+      "end": 11.42
+    },
+    {
+      "word": "to",
+      "start": 11.42,
+      "end": 11.5
+    },
+    {
+      "word": "the",
+      "start": 11.5,
+      "end": 11.64
+    },
+    {
+      "word": "over",
+      "start": 11.82,
+      "end": 12.1
+    },
+    {
+      "word": "abundance",
+      "start": 12.1,
+      "end": 12.44
+    },
+    {
+      "word": "and",
+      "start": 12.44,
+      "end": 12.52
+    },
+    {
+      "word": "the",
+      "start": 12.52,
+      "end": 12.62
+    },
+    {
+      "word": "lack",
+      "start": 12.62,
+      "end": 12.84
+    },
+    {
+      "word": "of",
+      "start": 12.84,
+      "end": 12.96
+    },
+    {
+      "word": "water",
+      "start": 12.96,
+      "end": 13.2
+    },
+    {
+      "word": "respectively.",
+      "start": 13.2,
+      "end": 13.86
+    },
+    {
+      "word": "Water",
+      "start": 14.14,
+      "end": 14.42
+    },
+    {
+      "word": "is",
+      "start": 14.42,
+      "end": 14.56
+    },
+    {
+      "word": "majorly",
+      "start": 14.56,
+      "end": 14.98
+    },
+    {
+      "word": "found",
+      "start": 14.98,
+      "end": 15.24
+    },
+    {
+      "word": "in",
+      "start": 15.24,
+      "end": 15.32
+    },
+    {
+      "word": "the",
+      "start": 15.32,
+      "end": 15.42
+    },
+    {
+      "word": "seven",
+      "start": 15.42,
+      "end": 15.66
+    },
+    {
+      "word": "oceans",
+      "start": 15.66,
+      "end": 16.12
+    },
+    {
+      "word": "[UH]",
+      "start": 16.26,
+      "end": 16.52
+    },
+    {
+      "word": "and",
+      "start": 16.52,
+      "end": 16.66
+    },
+    {
+      "word": "it",
+      "start": 16.66,
+      "end": 16.78
+    },
+    {
+      "word": "is",
+      "start": 16.78,
+      "end": 16.88
+    },
+    {
+      "word": "however",
+      "start": 16.88,
+      "end": 17.1
+    },
+    {
+      "word": "salty",
+      "start": 17.1,
+      "end": 17.56
+    },
+    {
+      "word": "water",
+      "start": 17.56,
+      "end": 17.86
+    },
+    {
+      "word": "but",
+      "start": 17.86,
+      "end": 18.1
+    },
+    {
+      "word": "the",
+      "start": 18.1,
+      "end": 18.24
+    },
+    {
+      "word": "waters",
+      "start": 18.24,
+      "end": 18.59
+    },
+    {
+      "word": "which",
+      "start": 18.59,
+      "end": 18.86
+    },
+    {
+      "word": "is",
+      "start": 18.86,
+      "end": 19.02
+    },
+    {
+      "word": "found",
+      "start": 19.02,
+      "end": 19.18
+    },
+    {
+      "word": "in",
+      "start": 19.18,
+      "end": 19.28
+    },
+    {
+      "word": "the",
+      "start": 19.28,
+      "end": 19.38
+    },
+    {
+      "word": "river",
+      "start": 19.38,
+      "end": 19.58
+    },
+    {
+      "word": "Ganga",
+      "start": 19.58,
+      "end": 19.9
+    },
+    {
+      "word": "is",
+      "start": 19.9,
+      "end": 20.08
+    },
+    {
+      "word": "extremely",
+      "start": 20.08,
+      "end": 20.48
+    },
+    {
+      "word": "polluted",
+      "start": 20.48,
+      "end": 20.82
+    },
+    {
+      "word": "and",
+      "start": 20.82,
+      "end": 20.94
+    },
+    {
+      "word": "therefore",
+      "start": 20.94,
+      "end": 21.24
+    },
+    {
+      "word": "even",
+      "start": 21.24,
+      "end": 21.48
+    },
+    {
+      "word": "if",
+      "start": 21.48,
+      "end": 21.62
+    },
+    {
+      "word": "it's",
+      "start": 21.62,
+      "end": 21.68
+    },
+    {
+      "word": "a",
+      "start": 21.68,
+      "end": 21.76
+    },
+    {
+      "word": "fresh",
+      "start": 21.76,
+      "end": 21.94
+    },
+    {
+      "word": "water",
+      "start": 21.94,
+      "end": 22.14
+    },
+    {
+      "word": "source",
+      "start": 22.14,
+      "end": 22.36
+    },
+    {
+      "word": "it",
+      "start": 22.36,
+      "end": 22.42
+    },
+    {
+      "word": "cannot",
+      "start": 22.42,
+      "end": 22.66
+    },
+    {
+      "word": "be",
+      "start": 22.66,
+      "end": 22.82
+    },
+    {
+      "word": "used",
+      "start": 22.82,
+      "end": 23.0
+    },
+    {
+      "word": "for",
+      "start": 23.0,
+      "end": 23.32
+    },
+    {
+      "word": "human",
+      "start": 23.32,
+      "end": 23.58
+    },
+    {
+      "word": "consumption.",
+      "start": 23.58,
+      "end": 24.04
+    },
+    {
+      "word": "Most",
+      "start": 24.34,
+      "end": 24.54
+    },
+    {
+      "word": "of",
+      "start": 24.54,
+      "end": 24.62
+    },
+    {
+      "word": "the",
+      "start": 24.62,
+      "end": 24.7
+    },
+    {
+      "word": "fresh",
+      "start": 24.7,
+      "end": 24.88
+    },
+    {
+      "word": "water",
+      "start": 24.88,
+      "end": 25.14
+    },
+    {
+      "word": "right",
+      "start": 25.14,
+      "end": 25.24
+    },
+    {
+      "word": "now",
+      "start": 25.24,
+      "end": 25.52
+    },
+    {
+      "word": "available",
+      "start": 25.52,
+      "end": 25.9
+    },
+    {
+      "word": "are",
+      "start": 25.9,
+      "end": 26.04
+    },
+    {
+      "word": "in",
+      "start": 26.04,
+      "end": 26.1
+    },
+    {
+      "word": "the",
+      "start": 26.1,
+      "end": 26.2
+    },
+    {
+      "word": "form",
+      "start": 26.2,
+      "end": 26.36
+    },
+    {
+      "word": "of",
+      "start": 26.36,
+      "end": 26.48
+    },
+    {
+      "word": "frozen",
+      "start": 26.48,
+      "end": 26.78
+    },
+    {
+      "word": "glaciers",
+      "start": 26.78,
+      "end": 27.14
+    },
+    {
+      "word": "and",
+      "start": 27.14,
+      "end": 27.34
+    },
+    {
+      "word": "around",
+      "start": 27.34,
+      "end": 27.62
+    },
+    {
+      "word": "n-",
+      "start": 27.72,
+      "end": 27.9
+    },
+    {
+      "word": "ninety",
+      "start": 27.9,
+      "end": 28.14
+    },
+    {
+      "word": "percent",
+      "start": 28.14,
+      "end": 28.42
+    },
+    {
+      "word": "of",
+      "start": 28.42,
+      "end": 28.54
+    },
+    {
+      "word": "the",
+      "start": 28.54,
+      "end": 28.64
+    },
+    {
+      "word": "world's",
+      "start": 28.64,
+      "end": 28.9
+    },
+    {
+      "word": "fresh",
+      "start": 28.9,
+      "end": 29.08
+    },
+    {
+      "word": "water",
+      "start": 29.08,
+      "end": 29.28
+    },
+    {
+      "word": "is",
+      "start": 29.28,
+      "end": 29.36
+    },
+    {
+      "word": "frozen",
+      "start": 29.36,
+      "end": 29.66
+    },
+    {
+      "word": "in",
+      "start": 29.66,
+      "end": 29.78
+    },
+    {
+      "word": "the",
+      "start": 29.78,
+      "end": 29.92
+    },
+    {
+      "word": "Antarctic",
+      "start": 29.92,
+      "end": 30.26
+    },
+    {
+      "word": "and",
+      "start": 30.26,
+      "end": 30.38
+    },
+    {
+      "word": "ocean",
+      "start": 30.38,
+      "end": 30.68
+    },
+    {
+      "word": "bed.",
+      "start": 30.68,
+      "end": 30.88
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      14.02
+    ],
+    [
+      14.02,
+      31.849
+    ]
+  ],
+  "intended_text": "Water is comprised of two molecules of hydrogen and one molecule of oxygen. It rises in the sea, goes to the sun, comes back in the form of clouds and in the form of rain. Chennai has both over flooding and drought seasons caused due to the overabundance and the lack of water respectively. Water is majorly found in the seven oceans and it is however salty water but the water which is found in the river Ganga is extremely polluted and therefore even if it's a fresh water source it cannot be used for human consumption. Most of the fresh water right now available are in the form of frozen glaciers and around 90% of the world's fresh water is frozen in the Antarctic and ocean bed."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ranesh_na_banana_rules",
+  "audio": "data/wav/ranesh_na_banana_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:05+00:00",
+  "duration": 30.52,
+  "processing_time": 0.778,
+  "text": "What you're gonna do when you move out side?",
+  "words": [
+    {
+      "word": "What",
+      "start": 26.34,
+      "end": 26.58
+    },
+    {
+      "word": "you're",
+      "start": 26.58,
+      "end": 26.68
+    },
+    {
+      "word": "gonna",
+      "start": 26.68,
+      "end": 27.22
+    },
+    {
+      "word": "do",
+      "start": 27.22,
+      "end": 27.58
+    },
+    {
+      "word": "when",
+      "start": 27.58,
+      "end": 27.7
+    },
+    {
+      "word": "you",
+      "start": 27.7,
+      "end": 27.76
+    },
+    {
+      "word": "move",
+      "start": 27.76,
+      "end": 28.16
+    },
+    {
+      "word": "out",
+      "start": 28.16,
+      "end": 28.22
+    },
+    {
+      "word": "side?",
+      "start": 28.22,
+      "end": 29.02
+    }
+  ],
+  "intended_text": "But there was a good community in the house."
+}

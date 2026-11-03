@@ -1,0 +1,292 @@
+{
+  "id": "abhijith_day1_tree_norules",
+  "audio": "data/wav/abhijith_day1_tree_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:43:57+00:00",
+  "duration": 30.672,
+  "processing_time": 0.563,
+  "text": "Trees provide shade and shelter to animals around the world. Trees convert carbon dioxide to oxygen. Trees are the reason we are alive right now. They are beautiful, they are green. And human beings unfortunately chop trees down for our selfish purposes to make paper, to use wood for whatever we desire.",
+  "words": [
+    {
+      "word": "Trees",
+      "start": 0.1,
+      "end": 0.24
+    },
+    {
+      "word": "provide",
+      "start": 0.24,
+      "end": 0.68
+    },
+    {
+      "word": "shade",
+      "start": 0.68,
+      "end": 1.08
+    },
+    {
+      "word": "and",
+      "start": 1.08,
+      "end": 1.26
+    },
+    {
+      "word": "shelter",
+      "start": 1.26,
+      "end": 1.78
+    },
+    {
+      "word": "to",
+      "start": 2.34,
+      "end": 2.5
+    },
+    {
+      "word": "animals",
+      "start": 2.5,
+      "end": 3.4
+    },
+    {
+      "word": "around",
+      "start": 4.08,
+      "end": 4.46
+    },
+    {
+      "word": "the",
+      "start": 4.46,
+      "end": 4.64
+    },
+    {
+      "word": "world.",
+      "start": 4.64,
+      "end": 5.12
+    },
+    {
+      "word": "Trees",
+      "start": 5.56,
+      "end": 6.0
+    },
+    {
+      "word": "convert",
+      "start": 6.0,
+      "end": 6.54
+    },
+    {
+      "word": "carbon",
+      "start": 6.76,
+      "end": 7.12
+    },
+    {
+      "word": "dioxide",
+      "start": 7.12,
+      "end": 7.93
+    },
+    {
+      "word": "to",
+      "start": 7.93,
+      "end": 8.16
+    },
+    {
+      "word": "oxygen.",
+      "start": 8.16,
+      "end": 8.94
+    },
+    {
+      "word": "Trees",
+      "start": 9.22,
+      "end": 9.6
+    },
+    {
+      "word": "are",
+      "start": 9.6,
+      "end": 9.72
+    },
+    {
+      "word": "the",
+      "start": 9.72,
+      "end": 9.84
+    },
+    {
+      "word": "reason",
+      "start": 9.84,
+      "end": 10.38
+    },
+    {
+      "word": "we",
+      "start": 10.74,
+      "end": 10.9
+    },
+    {
+      "word": "are",
+      "start": 10.9,
+      "end": 11.16
+    },
+    {
+      "word": "alive",
+      "start": 11.16,
+      "end": 11.6
+    },
+    {
+      "word": "right",
+      "start": 11.6,
+      "end": 11.92
+    },
+    {
+      "word": "now.",
+      "start": 11.92,
+      "end": 12.24
+    },
+    {
+      "word": "They",
+      "start": 12.9,
+      "end": 13.02
+    },
+    {
+      "word": "are",
+      "start": 13.02,
+      "end": 13.16
+    },
+    {
+      "word": "beautiful,",
+      "start": 13.16,
+      "end": 13.92
+    },
+    {
+      "word": "they",
+      "start": 14.1,
+      "end": 14.26
+    },
+    {
+      "word": "are",
+      "start": 14.26,
+      "end": 14.44
+    },
+    {
+      "word": "green.",
+      "start": 14.44,
+      "end": 15.0
+    },
+    {
+      "word": "And",
+      "start": 16.67,
+      "end": 17.09
+    },
+    {
+      "word": "human",
+      "start": 18.25,
+      "end": 18.63
+    },
+    {
+      "word": "beings",
+      "start": 18.63,
+      "end": 19.09
+    },
+    {
+      "word": "unfortunately",
+      "start": 19.09,
+      "end": 19.83
+    },
+    {
+      "word": "chop",
+      "start": 19.83,
+      "end": 20.07
+    },
+    {
+      "word": "trees",
+      "start": 20.07,
+      "end": 20.63
+    },
+    {
+      "word": "down",
+      "start": 20.63,
+      "end": 21.09
+    },
+    {
+      "word": "for",
+      "start": 21.79,
+      "end": 22.07
+    },
+    {
+      "word": "our",
+      "start": 22.07,
+      "end": 22.33
+    },
+    {
+      "word": "selfish",
+      "start": 22.33,
+      "end": 22.79
+    },
+    {
+      "word": "purposes",
+      "start": 22.79,
+      "end": 23.57
+    },
+    {
+      "word": "to",
+      "start": 24.55,
+      "end": 24.73
+    },
+    {
+      "word": "make",
+      "start": 24.73,
+      "end": 24.95
+    },
+    {
+      "word": "paper,",
+      "start": 24.95,
+      "end": 25.61
+    },
+    {
+      "word": "to",
+      "start": 25.97,
+      "end": 26.17
+    },
+    {
+      "word": "use",
+      "start": 26.17,
+      "end": 26.45
+    },
+    {
+      "word": "wood",
+      "start": 26.45,
+      "end": 26.91
+    },
+    {
+      "word": "for",
+      "start": 27.53,
+      "end": 28.03
+    },
+    {
+      "word": "whatever",
+      "start": 28.25,
+      "end": 28.61
+    },
+    {
+      "word": "we",
+      "start": 28.61,
+      "end": 29.15
+    },
+    {
+      "word": "desire.",
+      "start": 29.15,
+      "end": 29.77
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      15.57
+    ],
+    [
+      15.57,
+      30.672
+    ]
+  ],
+  "intended_text": "Trees provide shade and shelter to animals around the world. Trees convert carbon dioxide to oxygen. Trees are the reason we are alive right now. They are beautiful. They are green. And human beings unfortunately chop trees down for our selfish purposes to make paper to use wood for whatever we desire."
+}

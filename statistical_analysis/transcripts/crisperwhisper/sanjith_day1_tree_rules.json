@@ -1,0 +1,422 @@
+{
+  "id": "sanjith_day1_tree_rules",
+  "audio": "data/wav/sanjith_day1_tree_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:17+00:00",
+  "duration": 32.6173125,
+  "processing_time": 0.776,
+  "text": "The soil found below the trees are a great [UH] source of bacterium, fungi [UH] along with flowers that you can [UH] catch from up catch from above the tree. [UH] T's constitute the major [UH] land forms that you can find [UH] in in the constituent territory in a constituent territory [UH] that is owned by [UH] cats and monkeys. Cats and monkeys also form the basis of the eigenvectors that you can find in a tree.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.36,
+      "end": 0.52
+    },
+    {
+      "word": "soil",
+      "start": 0.52,
+      "end": 0.9
+    },
+    {
+      "word": "found",
+      "start": 0.9,
+      "end": 1.24
+    },
+    {
+      "word": "below",
+      "start": 1.24,
+      "end": 1.6
+    },
+    {
+      "word": "the",
+      "start": 1.6,
+      "end": 1.74
+    },
+    {
+      "word": "trees",
+      "start": 1.74,
+      "end": 2.17
+    },
+    {
+      "word": "are",
+      "start": 2.17,
+      "end": 2.38
+    },
+    {
+      "word": "a",
+      "start": 2.38,
+      "end": 2.44
+    },
+    {
+      "word": "great",
+      "start": 2.44,
+      "end": 2.84
+    },
+    {
+      "word": "[UH]",
+      "start": 3.26,
+      "end": 3.62
+    },
+    {
+      "word": "source",
+      "start": 3.62,
+      "end": 4.06
+    },
+    {
+      "word": "of",
+      "start": 4.06,
+      "end": 4.28
+    },
+    {
+      "word": "bacterium,",
+      "start": 4.8,
+      "end": 5.42
+    },
+    {
+      "word": "fungi",
+      "start": 5.76,
+      "end": 6.3
+    },
+    {
+      "word": "[UH]",
+      "start": 7.14,
+      "end": 7.54
+    },
+    {
+      "word": "along",
+      "start": 7.54,
+      "end": 7.9
+    },
+    {
+      "word": "with",
+      "start": 7.9,
+      "end": 8.02
+    },
+    {
+      "word": "flowers",
+      "start": 8.02,
+      "end": 8.4
+    },
+    {
+      "word": "that",
+      "start": 8.4,
+      "end": 8.56
+    },
+    {
+      "word": "you",
+      "start": 8.56,
+      "end": 8.66
+    },
+    {
+      "word": "can",
+      "start": 8.66,
+      "end": 8.9
+    },
+    {
+      "word": "[UH]",
+      "start": 9.1,
+      "end": 9.3
+    },
+    {
+      "word": "catch",
+      "start": 9.3,
+      "end": 9.56
+    },
+    {
+      "word": "from",
+      "start": 9.56,
+      "end": 9.8
+    },
+    {
+      "word": "up",
+      "start": 9.8,
+      "end": 10.02
+    },
+    {
+      "word": "catch",
+      "start": 10.34,
+      "end": 10.58
+    },
+    {
+      "word": "from",
+      "start": 10.58,
+      "end": 10.8
+    },
+    {
+      "word": "above",
+      "start": 10.8,
+      "end": 11.08
+    },
+    {
+      "word": "the",
+      "start": 11.08,
+      "end": 11.22
+    },
+    {
+      "word": "tree.",
+      "start": 11.22,
+      "end": 11.52
+    },
+    {
+      "word": "[UH]",
+      "start": 12.39,
+      "end": 12.66
+    },
+    {
+      "word": "T's",
+      "start": 12.66,
+      "end": 13.07
+    },
+    {
+      "word": "constitute",
+      "start": 13.07,
+      "end": 13.75
+    },
+    {
+      "word": "the",
+      "start": 14.01,
+      "end": 14.15
+    },
+    {
+      "word": "major",
+      "start": 14.15,
+      "end": 14.64
+    },
+    {
+      "word": "[UH]",
+      "start": 14.64,
+      "end": 15.11
+    },
+    {
+      "word": "land",
+      "start": 15.49,
+      "end": 15.75
+    },
+    {
+      "word": "forms",
+      "start": 15.75,
+      "end": 16.01
+    },
+    {
+      "word": "that",
+      "start": 16.01,
+      "end": 16.15
+    },
+    {
+      "word": "you",
+      "start": 16.15,
+      "end": 16.27
+    },
+    {
+      "word": "can",
+      "start": 16.27,
+      "end": 16.39
+    },
+    {
+      "word": "find",
+      "start": 16.39,
+      "end": 16.71
+    },
+    {
+      "word": "[UH]",
+      "start": 17.55,
+      "end": 17.97
+    },
+    {
+      "word": "in",
+      "start": 17.97,
+      "end": 18.27
+    },
+    {
+      "word": "in",
+      "start": 18.59,
+      "end": 18.71
+    },
+    {
+      "word": "the",
+      "start": 18.71,
+      "end": 18.81
+    },
+    {
+      "word": "constituent",
+      "start": 18.81,
+      "end": 19.39
+    },
+    {
+      "word": "territory",
+      "start": 19.39,
+      "end": 19.91
+    },
+    {
+      "word": "in",
+      "start": 20.27,
+      "end": 20.37
+    },
+    {
+      "word": "a",
+      "start": 20.37,
+      "end": 20.47
+    },
+    {
+      "word": "constituent",
+      "start": 20.47,
+      "end": 20.95
+    },
+    {
+      "word": "territory",
+      "start": 20.95,
+      "end": 21.45
+    },
+    {
+      "word": "[UH]",
+      "start": 22.07,
+      "end": 22.29
+    },
+    {
+      "word": "that",
+      "start": 22.29,
+      "end": 22.49
+    },
+    {
+      "word": "is",
+      "start": 22.49,
+      "end": 22.67
+    },
+    {
+      "word": "owned",
+      "start": 22.67,
+      "end": 22.95
+    },
+    {
+      "word": "by",
+      "start": 22.95,
+      "end": 23.28
+    },
+    {
+      "word": "[UH]",
+      "start": 23.28,
+      "end": 23.71
+    },
+    {
+      "word": "cats",
+      "start": 23.71,
+      "end": 24.15
+    },
+    {
+      "word": "and",
+      "start": 24.15,
+      "end": 24.31
+    },
+    {
+      "word": "monkeys.",
+      "start": 24.31,
+      "end": 24.81
+    },
+    {
+      "word": "Cats",
+      "start": 25.65,
+      "end": 26.01
+    },
+    {
+      "word": "and",
+      "start": 26.01,
+      "end": 26.13
+    },
+    {
+      "word": "monkeys",
+      "start": 26.13,
+      "end": 26.55
+    },
+    {
+      "word": "also",
+      "start": 26.55,
+      "end": 27.15
+    },
+    {
+      "word": "form",
+      "start": 27.51,
+      "end": 27.79
+    },
+    {
+      "word": "the",
+      "start": 27.79,
+      "end": 27.89
+    },
+    {
+      "word": "basis",
+      "start": 27.89,
+      "end": 28.43
+    },
+    {
+      "word": "of",
+      "start": 28.75,
+      "end": 28.89
+    },
+    {
+      "word": "the",
+      "start": 28.89,
+      "end": 29.01
+    },
+    {
+      "word": "eigenvectors",
+      "start": 29.01,
+      "end": 29.61
+    },
+    {
+      "word": "that",
+      "start": 29.61,
+      "end": 29.75
+    },
+    {
+      "word": "you",
+      "start": 29.75,
+      "end": 29.85
+    },
+    {
+      "word": "can",
+      "start": 29.85,
+      "end": 29.99
+    },
+    {
+      "word": "find",
+      "start": 29.99,
+      "end": 30.21
+    },
+    {
+      "word": "in",
+      "start": 30.21,
+      "end": 30.31
+    },
+    {
+      "word": "a",
+      "start": 30.31,
+      "end": 30.41
+    },
+    {
+      "word": "tree.",
+      "start": 30.41,
+      "end": 31.05
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      12.27
+    ],
+    [
+      12.27,
+      32.617
+    ]
+  ],
+  "intended_text": "The soil found below the trees are a great source of bacterium, fungi, along with flowers that you can catch from above the tree. Trees constitute the major land forms that you can find in a constituent territory that is owned by cats and monkeys. Cats and monkeys also form the basis of the eigenvectors that you can find in a tree."
+}

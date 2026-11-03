@@ -1,0 +1,348 @@
+{
+  "id": "sanjith_day1_water_norules",
+  "audio": "data/wav/sanjith_day1_water_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:35+00:00",
+  "duration": 31.85,
+  "processing_time": 0.691,
+  "text": "Water is blue because of the [UH] liquefying surface tension that is found along the entry points near the chemical nature of hydro- dihydrogen monoxide. You can you can find it on [UH] surfaces alongside trees [UH] glasses and other [UH] fingerprint sensors. Water is crucial to clean and wipe wipe up [UH] hot air balloons that are found near [UH] found near Flowers and Akshara.",
+  "words": [
+    {
+      "word": "Water",
+      "start": 0.24,
+      "end": 0.5
+    },
+    {
+      "word": "is",
+      "start": 0.5,
+      "end": 0.81
+    },
+    {
+      "word": "blue",
+      "start": 0.81,
+      "end": 1.02
+    },
+    {
+      "word": "because",
+      "start": 1.02,
+      "end": 1.33
+    },
+    {
+      "word": "of",
+      "start": 1.33,
+      "end": 1.52
+    },
+    {
+      "word": "the",
+      "start": 1.62,
+      "end": 1.78
+    },
+    {
+      "word": "[UH]",
+      "start": 2.3,
+      "end": 2.5
+    },
+    {
+      "word": "liquefying",
+      "start": 2.5,
+      "end": 3.12
+    },
+    {
+      "word": "surface",
+      "start": 3.36,
+      "end": 3.68
+    },
+    {
+      "word": "tension",
+      "start": 3.78,
+      "end": 3.9
+    },
+    {
+      "word": "that",
+      "start": 4.08,
+      "end": 4.23
+    },
+    {
+      "word": "is",
+      "start": 4.23,
+      "end": 4.4
+    },
+    {
+      "word": "found",
+      "start": 4.4,
+      "end": 4.67
+    },
+    {
+      "word": "along",
+      "start": 4.67,
+      "end": 5.04
+    },
+    {
+      "word": "the",
+      "start": 5.04,
+      "end": 5.28
+    },
+    {
+      "word": "entry",
+      "start": 5.74,
+      "end": 6.04
+    },
+    {
+      "word": "points",
+      "start": 6.04,
+      "end": 6.56
+    },
+    {
+      "word": "near",
+      "start": 7.08,
+      "end": 7.34
+    },
+    {
+      "word": "the",
+      "start": 7.46,
+      "end": 7.72
+    },
+    {
+      "word": "chemical",
+      "start": 7.72,
+      "end": 8.14
+    },
+    {
+      "word": "nature",
+      "start": 8.14,
+      "end": 8.49
+    },
+    {
+      "word": "of",
+      "start": 8.49,
+      "end": 8.78
+    },
+    {
+      "word": "hydro-",
+      "start": 8.78,
+      "end": 9.3
+    },
+    {
+      "word": "dihydrogen",
+      "start": 9.3,
+      "end": 9.94
+    },
+    {
+      "word": "monoxide.",
+      "start": 9.94,
+      "end": 10.66
+    },
+    {
+      "word": "You",
+      "start": 11.26,
+      "end": 11.39
+    },
+    {
+      "word": "can",
+      "start": 11.39,
+      "end": 11.56
+    },
+    {
+      "word": "you",
+      "start": 11.78,
+      "end": 11.89
+    },
+    {
+      "word": "can",
+      "start": 11.89,
+      "end": 12.07
+    },
+    {
+      "word": "find",
+      "start": 12.07,
+      "end": 12.29
+    },
+    {
+      "word": "it",
+      "start": 12.29,
+      "end": 12.41
+    },
+    {
+      "word": "on",
+      "start": 12.41,
+      "end": 12.64
+    },
+    {
+      "word": "[UH]",
+      "start": 12.8,
+      "end": 12.98
+    },
+    {
+      "word": "surfaces",
+      "start": 12.98,
+      "end": 13.44
+    },
+    {
+      "word": "alongside",
+      "start": 13.8,
+      "end": 14.02
+    },
+    {
+      "word": "trees",
+      "start": 14.18,
+      "end": 14.28
+    },
+    {
+      "word": "[UH]",
+      "start": 15.62,
+      "end": 15.74
+    },
+    {
+      "word": "glasses",
+      "start": 15.9,
+      "end": 16.28
+    },
+    {
+      "word": "and",
+      "start": 16.78,
+      "end": 16.9
+    },
+    {
+      "word": "other",
+      "start": 16.9,
+      "end": 17.2
+    },
+    {
+      "word": "[UH]",
+      "start": 17.34,
+      "end": 17.7
+    },
+    {
+      "word": "fingerprint",
+      "start": 17.98,
+      "end": 18.34
+    },
+    {
+      "word": "sensors.",
+      "start": 18.6,
+      "end": 18.96
+    },
+    {
+      "word": "Water",
+      "start": 19.78,
+      "end": 20.08
+    },
+    {
+      "word": "is",
+      "start": 20.08,
+      "end": 20.3
+    },
+    {
+      "word": "crucial",
+      "start": 20.9,
+      "end": 21.28
+    },
+    {
+      "word": "to",
+      "start": 21.4,
+      "end": 21.56
+    },
+    {
+      "word": "clean",
+      "start": 22.36,
+      "end": 22.54
+    },
+    {
+      "word": "and",
+      "start": 22.78,
+      "end": 22.98
+    },
+    {
+      "word": "wipe",
+      "start": 23.14,
+      "end": 23.32
+    },
+    {
+      "word": "wipe",
+      "start": 23.68,
+      "end": 23.91
+    },
+    {
+      "word": "up",
+      "start": 23.91,
+      "end": 24.02
+    },
+    {
+      "word": "[UH]",
+      "start": 24.22,
+      "end": 24.48
+    },
+    {
+      "word": "hot",
+      "start": 24.48,
+      "end": 24.84
+    },
+    {
+      "word": "air",
+      "start": 24.84,
+      "end": 25.02
+    },
+    {
+      "word": "balloons",
+      "start": 25.02,
+      "end": 25.38
+    },
+    {
+      "word": "that",
+      "start": 25.86,
+      "end": 26.02
+    },
+    {
+      "word": "are",
+      "start": 26.02,
+      "end": 26.17
+    },
+    {
+      "word": "found",
+      "start": 26.17,
+      "end": 26.38
+    },
+    {
+      "word": "near",
+      "start": 26.48,
+      "end": 26.66
+    },
+    {
+      "word": "[UH]",
+      "start": 26.94,
+      "end": 27.04
+    },
+    {
+      "word": "found",
+      "start": 27.92,
+      "end": 28.06
+    },
+    {
+      "word": "near",
+      "start": 28.06,
+      "end": 28.21
+    },
+    {
+      "word": "Flowers",
+      "start": 28.21,
+      "end": 28.62
+    },
+    {
+      "word": "and",
+      "start": 28.62,
+      "end": 28.96
+    },
+    {
+      "word": "Akshara.",
+      "start": 29.62,
+      "end": 31.82
+    }
+  ],
+  "intended_text": "Water is blue because of the liquefying surface tension that is found along the entry points near the chemical nature of dihydrogen monoxide. You can find it on surfaces alongside trees glasses and other fingerprint sensors. Water is crucial to clean and wipe up hot air balloons that are found near flowers and Akshara."
+}

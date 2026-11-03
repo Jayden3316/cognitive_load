@@ -1,0 +1,328 @@
+{
+  "id": "sanjith_day1_banana_rules",
+  "audio": "data/wav/sanjith_day1_banana_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:22+00:00",
+  "duration": 35.43,
+  "processing_time": 0.745,
+  "text": "The crucifying nature of bananas [UH] encompass a wide variety of apples, oranges and inflatable [UH] inflatable bacterium. Inflatable bacterium [UH] constitute the nature of bananas that are found across the nation across a nation of [UH] across a nation called India. Bananas can also be used for [UH] doctoral [UH] thesis that can be found across the nation vast oceans, yeah.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.08,
+      "end": 0.14
+    },
+    {
+      "word": "crucifying",
+      "start": 0.14,
+      "end": 0.52
+    },
+    {
+      "word": "nature",
+      "start": 0.64,
+      "end": 1.24
+    },
+    {
+      "word": "of",
+      "start": 1.52,
+      "end": 1.56
+    },
+    {
+      "word": "bananas",
+      "start": 1.74,
+      "end": 2.26
+    },
+    {
+      "word": "[UH]",
+      "start": 2.98,
+      "end": 3.2
+    },
+    {
+      "word": "encompass",
+      "start": 3.8,
+      "end": 3.84
+    },
+    {
+      "word": "a",
+      "start": 4.42,
+      "end": 4.53
+    },
+    {
+      "word": "wide",
+      "start": 4.53,
+      "end": 4.8
+    },
+    {
+      "word": "variety",
+      "start": 4.8,
+      "end": 5.14
+    },
+    {
+      "word": "of",
+      "start": 5.34,
+      "end": 5.48
+    },
+    {
+      "word": "apples,",
+      "start": 5.64,
+      "end": 6.12
+    },
+    {
+      "word": "oranges",
+      "start": 6.66,
+      "end": 7.24
+    },
+    {
+      "word": "and",
+      "start": 7.24,
+      "end": 7.46
+    },
+    {
+      "word": "inflatable",
+      "start": 7.46,
+      "end": 8.06
+    },
+    {
+      "word": "[UH]",
+      "start": 8.5,
+      "end": 8.86
+    },
+    {
+      "word": "inflatable",
+      "start": 9.6,
+      "end": 9.98
+    },
+    {
+      "word": "bacterium.",
+      "start": 9.98,
+      "end": 10.72
+    },
+    {
+      "word": "Inflatable",
+      "start": 12.14,
+      "end": 12.61
+    },
+    {
+      "word": "bacterium",
+      "start": 12.61,
+      "end": 13.24
+    },
+    {
+      "word": "[UH]",
+      "start": 13.86,
+      "end": 14.0
+    },
+    {
+      "word": "constitute",
+      "start": 14.14,
+      "end": 14.6
+    },
+    {
+      "word": "the",
+      "start": 14.82,
+      "end": 14.92
+    },
+    {
+      "word": "nature",
+      "start": 14.92,
+      "end": 15.28
+    },
+    {
+      "word": "of",
+      "start": 15.28,
+      "end": 15.45
+    },
+    {
+      "word": "bananas",
+      "start": 15.45,
+      "end": 16.0
+    },
+    {
+      "word": "that",
+      "start": 16.0,
+      "end": 16.16
+    },
+    {
+      "word": "are",
+      "start": 16.16,
+      "end": 16.3
+    },
+    {
+      "word": "found",
+      "start": 16.3,
+      "end": 16.58
+    },
+    {
+      "word": "across",
+      "start": 16.58,
+      "end": 17.02
+    },
+    {
+      "word": "the",
+      "start": 17.02,
+      "end": 17.12
+    },
+    {
+      "word": "nation",
+      "start": 17.12,
+      "end": 17.52
+    },
+    {
+      "word": "across",
+      "start": 18.26,
+      "end": 18.3
+    },
+    {
+      "word": "a",
+      "start": 18.68,
+      "end": 18.84
+    },
+    {
+      "word": "nation",
+      "start": 18.98,
+      "end": 19.0
+    },
+    {
+      "word": "of",
+      "start": 19.26,
+      "end": 19.5
+    },
+    {
+      "word": "[UH]",
+      "start": 19.76,
+      "end": 20.0
+    },
+    {
+      "word": "across",
+      "start": 20.84,
+      "end": 21.13
+    },
+    {
+      "word": "a",
+      "start": 21.13,
+      "end": 21.23
+    },
+    {
+      "word": "nation",
+      "start": 21.23,
+      "end": 21.54
+    },
+    {
+      "word": "called",
+      "start": 21.54,
+      "end": 21.8
+    },
+    {
+      "word": "India.",
+      "start": 22.26,
+      "end": 22.5
+    },
+    {
+      "word": "Bananas",
+      "start": 23.66,
+      "end": 24.17
+    },
+    {
+      "word": "can",
+      "start": 24.17,
+      "end": 24.32
+    },
+    {
+      "word": "also",
+      "start": 24.32,
+      "end": 24.7
+    },
+    {
+      "word": "be",
+      "start": 24.7,
+      "end": 24.82
+    },
+    {
+      "word": "used",
+      "start": 24.82,
+      "end": 25.22
+    },
+    {
+      "word": "for",
+      "start": 25.7,
+      "end": 25.86
+    },
+    {
+      "word": "[UH]",
+      "start": 26.0,
+      "end": 26.28
+    },
+    {
+      "word": "doctoral",
+      "start": 26.54,
+      "end": 27.0
+    },
+    {
+      "word": "[UH]",
+      "start": 27.64,
+      "end": 27.7
+    },
+    {
+      "word": "thesis",
+      "start": 27.94,
+      "end": 28.18
+    },
+    {
+      "word": "that",
+      "start": 28.34,
+      "end": 28.44
+    },
+    {
+      "word": "can",
+      "start": 28.8,
+      "end": 29.04
+    },
+    {
+      "word": "be",
+      "start": 29.04,
+      "end": 29.14
+    },
+    {
+      "word": "found",
+      "start": 29.14,
+      "end": 29.36
+    },
+    {
+      "word": "across",
+      "start": 29.46,
+      "end": 29.84
+    },
+    {
+      "word": "the",
+      "start": 29.94,
+      "end": 29.96
+    },
+    {
+      "word": "nation",
+      "start": 29.96,
+      "end": 29.98
+    },
+    {
+      "word": "vast",
+      "start": 31.08,
+      "end": 31.68
+    },
+    {
+      "word": "oceans,",
+      "start": 31.68,
+      "end": 32.36
+    },
+    {
+      "word": "yeah.",
+      "start": 32.56,
+      "end": 32.82
+    }
+  ],
+  "intended_text": "The crucifying nature of bananas encompass a wide variety of apples, oranges, and inflatable bacterium. Inflatable bacterium constitute the nature of bananas that are found across the nation across a nation called India. Bananas can also be used for doctoral thesis that can be found across the vast oceans."
+}

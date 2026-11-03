@@ -1,0 +1,368 @@
+{
+  "id": "sanjith_day1_tiger_rules",
+  "audio": "data/wav/sanjith_day1_tiger_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:25+00:00",
+  "duration": 31.76,
+  "processing_time": 0.7,
+  "text": "Tigers and butane are inflammable inside the vast domain of artificial intelligence that you can walk across from the [UH] magnificent volcanic [UH] volcanic rains found across a nation called [UH] Africa that are that is nothing but an elevator that you can take south along the way [UH] along the roots of along the roots of the gin ginormous icicle that is found along another nation called Antarctica. Yep.",
+  "words": [
+    {
+      "word": "Tigers",
+      "start": 0.28,
+      "end": 0.5
+    },
+    {
+      "word": "and",
+      "start": 0.5,
+      "end": 0.72
+    },
+    {
+      "word": "butane",
+      "start": 0.9,
+      "end": 1.1
+    },
+    {
+      "word": "are",
+      "start": 1.1,
+      "end": 1.26
+    },
+    {
+      "word": "inflammable",
+      "start": 1.26,
+      "end": 1.88
+    },
+    {
+      "word": "inside",
+      "start": 2.2,
+      "end": 2.5
+    },
+    {
+      "word": "the",
+      "start": 2.6,
+      "end": 2.7
+    },
+    {
+      "word": "vast",
+      "start": 2.7,
+      "end": 2.98
+    },
+    {
+      "word": "domain",
+      "start": 2.98,
+      "end": 3.3
+    },
+    {
+      "word": "of",
+      "start": 3.3,
+      "end": 3.56
+    },
+    {
+      "word": "artificial",
+      "start": 3.78,
+      "end": 4.0
+    },
+    {
+      "word": "intelligence",
+      "start": 4.62,
+      "end": 4.94
+    },
+    {
+      "word": "that",
+      "start": 5.3,
+      "end": 5.44
+    },
+    {
+      "word": "you",
+      "start": 5.44,
+      "end": 5.56
+    },
+    {
+      "word": "can",
+      "start": 5.56,
+      "end": 5.72
+    },
+    {
+      "word": "walk",
+      "start": 5.72,
+      "end": 5.95
+    },
+    {
+      "word": "across",
+      "start": 5.95,
+      "end": 6.4
+    },
+    {
+      "word": "from",
+      "start": 7.66,
+      "end": 7.9
+    },
+    {
+      "word": "the",
+      "start": 7.9,
+      "end": 8.18
+    },
+    {
+      "word": "[UH]",
+      "start": 8.82,
+      "end": 9.0
+    },
+    {
+      "word": "magnificent",
+      "start": 9.14,
+      "end": 9.4
+    },
+    {
+      "word": "volcanic",
+      "start": 10.0,
+      "end": 10.44
+    },
+    {
+      "word": "[UH]",
+      "start": 11.3,
+      "end": 11.54
+    },
+    {
+      "word": "volcanic",
+      "start": 12.2,
+      "end": 12.54
+    },
+    {
+      "word": "rains",
+      "start": 12.54,
+      "end": 12.94
+    },
+    {
+      "word": "found",
+      "start": 13.48,
+      "end": 13.64
+    },
+    {
+      "word": "across",
+      "start": 13.64,
+      "end": 13.98
+    },
+    {
+      "word": "a",
+      "start": 13.98,
+      "end": 14.07
+    },
+    {
+      "word": "nation",
+      "start": 14.07,
+      "end": 14.4
+    },
+    {
+      "word": "called",
+      "start": 14.4,
+      "end": 14.62
+    },
+    {
+      "word": "[UH]",
+      "start": 15.2,
+      "end": 15.35
+    },
+    {
+      "word": "Africa",
+      "start": 15.35,
+      "end": 15.92
+    },
+    {
+      "word": "that",
+      "start": 16.3,
+      "end": 16.42
+    },
+    {
+      "word": "are",
+      "start": 16.42,
+      "end": 16.56
+    },
+    {
+      "word": "that",
+      "start": 16.76,
+      "end": 16.86
+    },
+    {
+      "word": "is",
+      "start": 16.86,
+      "end": 16.98
+    },
+    {
+      "word": "nothing",
+      "start": 16.98,
+      "end": 17.28
+    },
+    {
+      "word": "but",
+      "start": 17.28,
+      "end": 17.46
+    },
+    {
+      "word": "an",
+      "start": 17.46,
+      "end": 17.64
+    },
+    {
+      "word": "elevator",
+      "start": 17.64,
+      "end": 18.1
+    },
+    {
+      "word": "that",
+      "start": 18.1,
+      "end": 18.27
+    },
+    {
+      "word": "you",
+      "start": 18.27,
+      "end": 18.41
+    },
+    {
+      "word": "can",
+      "start": 18.41,
+      "end": 18.56
+    },
+    {
+      "word": "take",
+      "start": 18.56,
+      "end": 18.76
+    },
+    {
+      "word": "south",
+      "start": 18.76,
+      "end": 19.06
+    },
+    {
+      "word": "along",
+      "start": 19.82,
+      "end": 20.12
+    },
+    {
+      "word": "the",
+      "start": 20.12,
+      "end": 20.24
+    },
+    {
+      "word": "way",
+      "start": 20.24,
+      "end": 20.48
+    },
+    {
+      "word": "[UH]",
+      "start": 21.28,
+      "end": 21.42
+    },
+    {
+      "word": "along",
+      "start": 21.64,
+      "end": 21.88
+    },
+    {
+      "word": "the",
+      "start": 22.02,
+      "end": 22.16
+    },
+    {
+      "word": "roots",
+      "start": 22.16,
+      "end": 22.32
+    },
+    {
+      "word": "of",
+      "start": 22.48,
+      "end": 22.7
+    },
+    {
+      "word": "along",
+      "start": 24.04,
+      "end": 24.18
+    },
+    {
+      "word": "the",
+      "start": 24.32,
+      "end": 24.41
+    },
+    {
+      "word": "roots",
+      "start": 24.41,
+      "end": 24.62
+    },
+    {
+      "word": "of",
+      "start": 24.62,
+      "end": 24.78
+    },
+    {
+      "word": "the",
+      "start": 24.78,
+      "end": 24.88
+    },
+    {
+      "word": "gin",
+      "start": 24.88,
+      "end": 25.16
+    },
+    {
+      "word": "ginormous",
+      "start": 25.28,
+      "end": 25.94
+    },
+    {
+      "word": "icicle",
+      "start": 26.4,
+      "end": 26.87
+    },
+    {
+      "word": "that",
+      "start": 26.87,
+      "end": 27.02
+    },
+    {
+      "word": "is",
+      "start": 27.02,
+      "end": 27.16
+    },
+    {
+      "word": "found",
+      "start": 27.16,
+      "end": 27.38
+    },
+    {
+      "word": "along",
+      "start": 27.38,
+      "end": 27.66
+    },
+    {
+      "word": "another",
+      "start": 27.66,
+      "end": 28.0
+    },
+    {
+      "word": "nation",
+      "start": 28.0,
+      "end": 28.38
+    },
+    {
+      "word": "called",
+      "start": 28.38,
+      "end": 28.66
+    },
+    {
+      "word": "Antarctica.",
+      "start": 28.94,
+      "end": 29.9
+    },
+    {
+      "word": "Yep.",
+      "start": 30.44,
+      "end": 31.74
+    }
+  ],
+  "intended_text": "Tigers and butane are inflammable inside the vast domain of artificial intelligence that you can walk across from the magnificent volcanic rains found across a nation called Africa that is nothing but an elevator that you can take south along the way along the routes of the ginormous icicle that is found along another nation called Antarctica."
+}

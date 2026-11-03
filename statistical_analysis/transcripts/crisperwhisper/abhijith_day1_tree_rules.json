@@ -1,0 +1,317 @@
+{
+  "id": "abhijith_day1_tree_rules",
+  "audio": "data/wav/abhijith_day1_tree_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:43:58+00:00",
+  "duration": 30.816,
+  "processing_time": 0.657,
+  "text": "Bark of a tree can be used for various purposes. Cinnamon is made of tree bark. Tree bark can be very delicious in small quantities. In larger quantities it can cause hypnotic effects, causing the person to go delirious. Trees provide shade and shelter to animals, also converting carbon dioxide into oxygen because they use [UH] pro-",
+  "words": [
+    {
+      "word": "Bark",
+      "start": 0.1,
+      "end": 0.38
+    },
+    {
+      "word": "of",
+      "start": 0.38,
+      "end": 0.58
+    },
+    {
+      "word": "a",
+      "start": 0.58,
+      "end": 0.74
+    },
+    {
+      "word": "tree",
+      "start": 0.74,
+      "end": 1.14
+    },
+    {
+      "word": "can",
+      "start": 1.14,
+      "end": 1.36
+    },
+    {
+      "word": "be",
+      "start": 1.36,
+      "end": 1.54
+    },
+    {
+      "word": "used",
+      "start": 1.54,
+      "end": 1.94
+    },
+    {
+      "word": "for",
+      "start": 1.94,
+      "end": 2.18
+    },
+    {
+      "word": "various",
+      "start": 2.18,
+      "end": 2.6
+    },
+    {
+      "word": "purposes.",
+      "start": 2.7,
+      "end": 3.44
+    },
+    {
+      "word": "Cinnamon",
+      "start": 3.84,
+      "end": 4.46
+    },
+    {
+      "word": "is",
+      "start": 4.62,
+      "end": 4.84
+    },
+    {
+      "word": "made",
+      "start": 4.84,
+      "end": 5.16
+    },
+    {
+      "word": "of",
+      "start": 5.16,
+      "end": 5.46
+    },
+    {
+      "word": "tree",
+      "start": 5.46,
+      "end": 5.74
+    },
+    {
+      "word": "bark.",
+      "start": 5.74,
+      "end": 6.32
+    },
+    {
+      "word": "Tree",
+      "start": 6.54,
+      "end": 6.8
+    },
+    {
+      "word": "bark",
+      "start": 6.8,
+      "end": 7.18
+    },
+    {
+      "word": "can",
+      "start": 7.18,
+      "end": 7.52
+    },
+    {
+      "word": "be",
+      "start": 7.52,
+      "end": 7.7
+    },
+    {
+      "word": "very",
+      "start": 7.7,
+      "end": 8.02
+    },
+    {
+      "word": "delicious",
+      "start": 8.02,
+      "end": 8.77
+    },
+    {
+      "word": "in",
+      "start": 8.77,
+      "end": 8.98
+    },
+    {
+      "word": "small",
+      "start": 8.98,
+      "end": 9.36
+    },
+    {
+      "word": "quantities.",
+      "start": 9.36,
+      "end": 10.18
+    },
+    {
+      "word": "In",
+      "start": 10.56,
+      "end": 10.74
+    },
+    {
+      "word": "larger",
+      "start": 10.74,
+      "end": 11.18
+    },
+    {
+      "word": "quantities",
+      "start": 11.18,
+      "end": 11.84
+    },
+    {
+      "word": "it",
+      "start": 11.84,
+      "end": 12.1
+    },
+    {
+      "word": "can",
+      "start": 12.1,
+      "end": 12.34
+    },
+    {
+      "word": "cause",
+      "start": 12.34,
+      "end": 12.78
+    },
+    {
+      "word": "hypnotic",
+      "start": 12.78,
+      "end": 13.38
+    },
+    {
+      "word": "effects,",
+      "start": 13.38,
+      "end": 13.98
+    },
+    {
+      "word": "causing",
+      "start": 14.34,
+      "end": 14.82
+    },
+    {
+      "word": "the",
+      "start": 14.82,
+      "end": 14.96
+    },
+    {
+      "word": "person",
+      "start": 14.96,
+      "end": 15.56
+    },
+    {
+      "word": "to",
+      "start": 15.56,
+      "end": 15.7
+    },
+    {
+      "word": "go",
+      "start": 15.7,
+      "end": 15.98
+    },
+    {
+      "word": "delirious.",
+      "start": 15.98,
+      "end": 16.88
+    },
+    {
+      "word": "Trees",
+      "start": 18.81,
+      "end": 19.19
+    },
+    {
+      "word": "provide",
+      "start": 19.19,
+      "end": 19.71
+    },
+    {
+      "word": "shade",
+      "start": 19.71,
+      "end": 20.15
+    },
+    {
+      "word": "and",
+      "start": 20.15,
+      "end": 20.37
+    },
+    {
+      "word": "shelter",
+      "start": 20.37,
+      "end": 20.85
+    },
+    {
+      "word": "to",
+      "start": 20.85,
+      "end": 21.05
+    },
+    {
+      "word": "animals,",
+      "start": 21.05,
+      "end": 21.85
+    },
+    {
+      "word": "also",
+      "start": 22.15,
+      "end": 22.57
+    },
+    {
+      "word": "converting",
+      "start": 22.57,
+      "end": 23.19
+    },
+    {
+      "word": "carbon",
+      "start": 23.19,
+      "end": 23.65
+    },
+    {
+      "word": "dioxide",
+      "start": 23.65,
+      "end": 24.33
+    },
+    {
+      "word": "into",
+      "start": 24.33,
+      "end": 24.67
+    },
+    {
+      "word": "oxygen",
+      "start": 24.67,
+      "end": 25.35
+    },
+    {
+      "word": "because",
+      "start": 26.05,
+      "end": 26.71
+    },
+    {
+      "word": "they",
+      "start": 26.71,
+      "end": 27.15
+    },
+    {
+      "word": "use",
+      "start": 27.15,
+      "end": 27.69
+    },
+    {
+      "word": "[UH]",
+      "start": 28.25,
+      "end": 28.45
+    },
+    {
+      "word": "pro-",
+      "start": 28.45,
+      "end": 28.97
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      18.57
+    ],
+    [
+      18.57,
+      30.816
+    ]
+  ],
+  "intended_text": "Bark of a tree can be used for various purposes. Cinnamon is made of tree bark. Tree bark can be very delicious in small quantities. In larger quantities it can cause hypnotic effects, causing the person to go delirious. Trees provide shade and shelter to animals, also converting carbon dioxide into oxygen because they use."
+}

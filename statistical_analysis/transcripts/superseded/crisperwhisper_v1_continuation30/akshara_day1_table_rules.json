@@ -1,0 +1,363 @@
+{
+  "id": "akshara_day1_table_rules",
+  "audio": "data/wav/akshara_day1_table_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:28:59+00:00",
+  "duration": 36.12,
+  "processing_time": 0.722,
+  "text": "A table is generally a flat surface upon which an individual can do work. It is very hard to define a table without using the word table [UH] Tables can be used for a variety of different purposes such as doing work, eating [UM] and many other things. Tables are used [UM] Tables can be made of a variety of different materials, including metal, wood [UM] glass, et cetera.",
+  "words": [
+    {
+      "word": "A",
+      "start": 0.74,
+      "end": 0.8
+    },
+    {
+      "word": "table",
+      "start": 0.8,
+      "end": 1.12
+    },
+    {
+      "word": "is",
+      "start": 1.12,
+      "end": 1.3
+    },
+    {
+      "word": "generally",
+      "start": 1.3,
+      "end": 1.87
+    },
+    {
+      "word": "a",
+      "start": 1.87,
+      "end": 2.06
+    },
+    {
+      "word": "flat",
+      "start": 2.06,
+      "end": 2.4
+    },
+    {
+      "word": "surface",
+      "start": 2.4,
+      "end": 2.86
+    },
+    {
+      "word": "upon",
+      "start": 3.24,
+      "end": 3.37
+    },
+    {
+      "word": "which",
+      "start": 3.37,
+      "end": 3.56
+    },
+    {
+      "word": "an",
+      "start": 3.94,
+      "end": 4.12
+    },
+    {
+      "word": "individual",
+      "start": 4.12,
+      "end": 4.67
+    },
+    {
+      "word": "can",
+      "start": 4.67,
+      "end": 4.84
+    },
+    {
+      "word": "do",
+      "start": 4.98,
+      "end": 5.06
+    },
+    {
+      "word": "work.",
+      "start": 5.18,
+      "end": 5.36
+    },
+    {
+      "word": "It",
+      "start": 5.9,
+      "end": 5.98
+    },
+    {
+      "word": "is",
+      "start": 5.98,
+      "end": 6.1
+    },
+    {
+      "word": "very",
+      "start": 6.1,
+      "end": 6.4
+    },
+    {
+      "word": "hard",
+      "start": 6.4,
+      "end": 6.76
+    },
+    {
+      "word": "to",
+      "start": 6.9,
+      "end": 7.04
+    },
+    {
+      "word": "define",
+      "start": 7.18,
+      "end": 7.57
+    },
+    {
+      "word": "a",
+      "start": 7.57,
+      "end": 7.7
+    },
+    {
+      "word": "table",
+      "start": 7.7,
+      "end": 8.14
+    },
+    {
+      "word": "without",
+      "start": 8.28,
+      "end": 8.62
+    },
+    {
+      "word": "using",
+      "start": 9.0,
+      "end": 9.34
+    },
+    {
+      "word": "the",
+      "start": 9.48,
+      "end": 9.56
+    },
+    {
+      "word": "word",
+      "start": 9.56,
+      "end": 9.78
+    },
+    {
+      "word": "table",
+      "start": 9.9,
+      "end": 10.2
+    },
+    {
+      "word": "[UH]",
+      "start": 11.24,
+      "end": 11.43
+    },
+    {
+      "word": "Tables",
+      "start": 11.43,
+      "end": 11.82
+    },
+    {
+      "word": "can",
+      "start": 11.82,
+      "end": 11.98
+    },
+    {
+      "word": "be",
+      "start": 11.98,
+      "end": 12.1
+    },
+    {
+      "word": "used",
+      "start": 12.1,
+      "end": 12.44
+    },
+    {
+      "word": "for",
+      "start": 12.44,
+      "end": 12.54
+    },
+    {
+      "word": "a",
+      "start": 12.54,
+      "end": 12.66
+    },
+    {
+      "word": "variety",
+      "start": 12.66,
+      "end": 12.92
+    },
+    {
+      "word": "of",
+      "start": 13.18,
+      "end": 13.24
+    },
+    {
+      "word": "different",
+      "start": 13.4,
+      "end": 13.54
+    },
+    {
+      "word": "purposes",
+      "start": 13.68,
+      "end": 13.76
+    },
+    {
+      "word": "such",
+      "start": 14.28,
+      "end": 14.44
+    },
+    {
+      "word": "as",
+      "start": 14.44,
+      "end": 14.68
+    },
+    {
+      "word": "doing",
+      "start": 15.08,
+      "end": 15.3
+    },
+    {
+      "word": "work,",
+      "start": 15.48,
+      "end": 15.7
+    },
+    {
+      "word": "eating",
+      "start": 16.28,
+      "end": 16.4
+    },
+    {
+      "word": "[UM]",
+      "start": 16.88,
+      "end": 17.2
+    },
+    {
+      "word": "and",
+      "start": 19.5,
+      "end": 19.77
+    },
+    {
+      "word": "many",
+      "start": 19.77,
+      "end": 20.04
+    },
+    {
+      "word": "other",
+      "start": 20.04,
+      "end": 20.4
+    },
+    {
+      "word": "things.",
+      "start": 20.4,
+      "end": 20.76
+    },
+    {
+      "word": "Tables",
+      "start": 22.76,
+      "end": 23.46
+    },
+    {
+      "word": "are",
+      "start": 23.76,
+      "end": 24.09
+    },
+    {
+      "word": "used",
+      "start": 24.09,
+      "end": 24.44
+    },
+    {
+      "word": "[UM]",
+      "start": 25.36,
+      "end": 25.8
+    },
+    {
+      "word": "Tables",
+      "start": 26.52,
+      "end": 26.86
+    },
+    {
+      "word": "can",
+      "start": 26.86,
+      "end": 27.03
+    },
+    {
+      "word": "be",
+      "start": 27.03,
+      "end": 27.22
+    },
+    {
+      "word": "made",
+      "start": 27.22,
+      "end": 27.5
+    },
+    {
+      "word": "of",
+      "start": 27.5,
+      "end": 27.74
+    },
+    {
+      "word": "a",
+      "start": 27.88,
+      "end": 27.98
+    },
+    {
+      "word": "variety",
+      "start": 27.98,
+      "end": 28.28
+    },
+    {
+      "word": "of",
+      "start": 28.46,
+      "end": 28.6
+    },
+    {
+      "word": "different",
+      "start": 28.6,
+      "end": 28.92
+    },
+    {
+      "word": "materials,",
+      "start": 28.92,
+      "end": 29.76
+    },
+    {
+      "word": "including",
+      "start": 29.76,
+      "end": 30.2
+    },
+    {
+      "word": "metal,",
+      "start": 30.2,
+      "end": 30.84
+    },
+    {
+      "word": "wood",
+      "start": 31.12,
+      "end": 31.36
+    },
+    {
+      "word": "[UM]",
+      "start": 32.84,
+      "end": 33.16
+    },
+    {
+      "word": "glass,",
+      "start": 33.32,
+      "end": 33.9
+    },
+    {
+      "word": "et",
+      "start": 34.26,
+      "end": 34.38
+    },
+    {
+      "word": "cetera.",
+      "start": 34.56,
+      "end": 35.12
+    }
+  ],
+  "intended_text": "A table is generally a flat surface upon which an individual can do work. It is very hard to define a table without using the word table. Tables can be used for a variety of different purposes such as doing work, eating and many other things. Tables are used. Tables can be made of a variety of different materials including metal, wood, glass, et cetera."
+}

@@ -1,0 +1,378 @@
+{
+  "id": "sanjith_day1_banana_norules",
+  "audio": "data/wav/sanjith_day1_banana_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:22+00:00",
+  "duration": 31.42,
+  "processing_time": 0.674,
+  "text": "Bananas are nothing but magnificent examples of chocolates that are inflated in nature due to the extreme amount of pressure that they receive during [UH] and after reconstruction from the volcanic eruptions that are found across the nation of America which is also a flower when you can test it along with chemicals and pharmaceuticals [UH] and are also cycles that you can ride on perhaps at a later time or instant.",
+  "words": [
+    {
+      "word": "Bananas",
+      "start": 0.86,
+      "end": 1.4
+    },
+    {
+      "word": "are",
+      "start": 1.4,
+      "end": 1.52
+    },
+    {
+      "word": "nothing",
+      "start": 1.52,
+      "end": 1.78
+    },
+    {
+      "word": "but",
+      "start": 1.9,
+      "end": 2.1
+    },
+    {
+      "word": "magnificent",
+      "start": 2.48,
+      "end": 3.04
+    },
+    {
+      "word": "examples",
+      "start": 3.14,
+      "end": 3.78
+    },
+    {
+      "word": "of",
+      "start": 3.78,
+      "end": 4.04
+    },
+    {
+      "word": "chocolates",
+      "start": 4.44,
+      "end": 5.02
+    },
+    {
+      "word": "that",
+      "start": 5.2,
+      "end": 5.36
+    },
+    {
+      "word": "are",
+      "start": 5.36,
+      "end": 5.54
+    },
+    {
+      "word": "inflated",
+      "start": 5.54,
+      "end": 6.14
+    },
+    {
+      "word": "in",
+      "start": 6.14,
+      "end": 6.29
+    },
+    {
+      "word": "nature",
+      "start": 6.29,
+      "end": 6.64
+    },
+    {
+      "word": "due",
+      "start": 7.1,
+      "end": 7.23
+    },
+    {
+      "word": "to",
+      "start": 7.23,
+      "end": 7.34
+    },
+    {
+      "word": "the",
+      "start": 7.34,
+      "end": 7.44
+    },
+    {
+      "word": "extreme",
+      "start": 7.44,
+      "end": 7.88
+    },
+    {
+      "word": "amount",
+      "start": 7.88,
+      "end": 8.21
+    },
+    {
+      "word": "of",
+      "start": 8.21,
+      "end": 8.35
+    },
+    {
+      "word": "pressure",
+      "start": 8.35,
+      "end": 8.7
+    },
+    {
+      "word": "that",
+      "start": 9.02,
+      "end": 9.14
+    },
+    {
+      "word": "they",
+      "start": 9.14,
+      "end": 9.28
+    },
+    {
+      "word": "receive",
+      "start": 9.28,
+      "end": 9.67
+    },
+    {
+      "word": "during",
+      "start": 9.67,
+      "end": 9.96
+    },
+    {
+      "word": "[UH]",
+      "start": 10.64,
+      "end": 10.88
+    },
+    {
+      "word": "and",
+      "start": 11.04,
+      "end": 11.2
+    },
+    {
+      "word": "after",
+      "start": 11.88,
+      "end": 12.02
+    },
+    {
+      "word": "reconstruction",
+      "start": 12.88,
+      "end": 13.1
+    },
+    {
+      "word": "from",
+      "start": 13.28,
+      "end": 13.47
+    },
+    {
+      "word": "the",
+      "start": 13.47,
+      "end": 13.6
+    },
+    {
+      "word": "volcanic",
+      "start": 13.6,
+      "end": 14.12
+    },
+    {
+      "word": "eruptions",
+      "start": 14.86,
+      "end": 15.24
+    },
+    {
+      "word": "that",
+      "start": 15.46,
+      "end": 15.58
+    },
+    {
+      "word": "are",
+      "start": 15.58,
+      "end": 15.68
+    },
+    {
+      "word": "found",
+      "start": 15.82,
+      "end": 15.98
+    },
+    {
+      "word": "across",
+      "start": 16.08,
+      "end": 16.5
+    },
+    {
+      "word": "the",
+      "start": 16.6,
+      "end": 16.66
+    },
+    {
+      "word": "nation",
+      "start": 16.66,
+      "end": 17.0
+    },
+    {
+      "word": "of",
+      "start": 17.38,
+      "end": 17.48
+    },
+    {
+      "word": "America",
+      "start": 17.58,
+      "end": 18.14
+    },
+    {
+      "word": "which",
+      "start": 18.7,
+      "end": 18.9
+    },
+    {
+      "word": "is",
+      "start": 18.9,
+      "end": 19.16
+    },
+    {
+      "word": "also",
+      "start": 19.26,
+      "end": 19.53
+    },
+    {
+      "word": "a",
+      "start": 19.53,
+      "end": 19.66
+    },
+    {
+      "word": "flower",
+      "start": 19.76,
+      "end": 20.1
+    },
+    {
+      "word": "when",
+      "start": 20.4,
+      "end": 20.62
+    },
+    {
+      "word": "you",
+      "start": 20.86,
+      "end": 20.97
+    },
+    {
+      "word": "can",
+      "start": 20.97,
+      "end": 21.16
+    },
+    {
+      "word": "test",
+      "start": 21.6,
+      "end": 21.84
+    },
+    {
+      "word": "it",
+      "start": 21.84,
+      "end": 22.0
+    },
+    {
+      "word": "along",
+      "start": 22.14,
+      "end": 22.42
+    },
+    {
+      "word": "with",
+      "start": 22.42,
+      "end": 22.6
+    },
+    {
+      "word": "chemicals",
+      "start": 22.6,
+      "end": 22.98
+    },
+    {
+      "word": "and",
+      "start": 23.08,
+      "end": 23.16
+    },
+    {
+      "word": "pharmaceuticals",
+      "start": 23.42,
+      "end": 24.24
+    },
+    {
+      "word": "[UH]",
+      "start": 25.0,
+      "end": 25.34
+    },
+    {
+      "word": "and",
+      "start": 25.34,
+      "end": 25.52
+    },
+    {
+      "word": "are",
+      "start": 25.52,
+      "end": 25.62
+    },
+    {
+      "word": "also",
+      "start": 25.62,
+      "end": 25.9
+    },
+    {
+      "word": "cycles",
+      "start": 25.9,
+      "end": 26.44
+    },
+    {
+      "word": "that",
+      "start": 26.44,
+      "end": 26.6
+    },
+    {
+      "word": "you",
+      "start": 26.6,
+      "end": 26.7
+    },
+    {
+      "word": "can",
+      "start": 26.7,
+      "end": 26.84
+    },
+    {
+      "word": "ride",
+      "start": 26.84,
+      "end": 27.12
+    },
+    {
+      "word": "on",
+      "start": 27.12,
+      "end": 27.36
+    },
+    {
+      "word": "perhaps",
+      "start": 27.76,
+      "end": 28.04
+    },
+    {
+      "word": "at",
+      "start": 28.18,
+      "end": 28.25
+    },
+    {
+      "word": "a",
+      "start": 28.25,
+      "end": 28.35
+    },
+    {
+      "word": "later",
+      "start": 28.35,
+      "end": 28.66
+    },
+    {
+      "word": "time",
+      "start": 28.66,
+      "end": 28.86
+    },
+    {
+      "word": "or",
+      "start": 28.9,
+      "end": 29.14
+    },
+    {
+      "word": "instant.",
+      "start": 29.14,
+      "end": 29.68
+    }
+  ],
+  "intended_text": "Bananas are nothing but magnificent examples of chocolates that are inflated in nature due to the extreme amount of pressure that they receive during and after reconstruction from the volcanic eruptions that are found across the nation of America which is also a flower when you can test it along with chemicals and pharmaceuticals and are also cycles that you can ride on perhaps at a later time or instant."
+}

@@ -1,0 +1,577 @@
+{
+  "id": "venkat_day1_tree_norules",
+  "audio": "data/wav/venkat_day1_tree_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:29+00:00",
+  "duration": 32.1053125,
+  "processing_time": 0.9410000000000001,
+  "text": "Trees are responsible for housing more than tw- twenty percent of the world's population of species. Most of the trees found on the earth are found in the Amazon forest which has about three hundred and forty billion trees and around one thousand sixteen hundred species of different different trees available [UH] However, trees are being af- affected by deforestation by these greedy capitalists who care about nothing but their shareholder value. However, in some countries in under the project Ecosia, there have been increasing number of trees following everywhere. One interesting fact is trees produce less oxygen than the phytoplankton in the seas. However, they get more PR.",
+  "words": [
+    {
+      "word": "Trees",
+      "start": 0.5,
+      "end": 0.74
+    },
+    {
+      "word": "are",
+      "start": 0.74,
+      "end": 0.88
+    },
+    {
+      "word": "responsible",
+      "start": 0.88,
+      "end": 1.46
+    },
+    {
+      "word": "for",
+      "start": 1.46,
+      "end": 1.64
+    },
+    {
+      "word": "housing",
+      "start": 1.64,
+      "end": 1.98
+    },
+    {
+      "word": "more",
+      "start": 1.98,
+      "end": 2.22
+    },
+    {
+      "word": "than",
+      "start": 2.22,
+      "end": 2.32
+    },
+    {
+      "word": "tw-",
+      "start": 2.32,
+      "end": 2.58
+    },
+    {
+      "word": "twenty",
+      "start": 2.58,
+      "end": 2.81
+    },
+    {
+      "word": "percent",
+      "start": 2.81,
+      "end": 3.12
+    },
+    {
+      "word": "of",
+      "start": 3.12,
+      "end": 3.22
+    },
+    {
+      "word": "the",
+      "start": 3.22,
+      "end": 3.32
+    },
+    {
+      "word": "world's",
+      "start": 3.32,
+      "end": 3.62
+    },
+    {
+      "word": "population",
+      "start": 3.62,
+      "end": 4.08
+    },
+    {
+      "word": "of",
+      "start": 4.08,
+      "end": 4.18
+    },
+    {
+      "word": "species.",
+      "start": 4.3,
+      "end": 4.66
+    },
+    {
+      "word": "Most",
+      "start": 4.98,
+      "end": 5.22
+    },
+    {
+      "word": "of",
+      "start": 5.22,
+      "end": 5.3
+    },
+    {
+      "word": "the",
+      "start": 5.3,
+      "end": 5.4
+    },
+    {
+      "word": "trees",
+      "start": 5.4,
+      "end": 5.68
+    },
+    {
+      "word": "found",
+      "start": 5.68,
+      "end": 5.9
+    },
+    {
+      "word": "on",
+      "start": 5.9,
+      "end": 6.02
+    },
+    {
+      "word": "the",
+      "start": 6.02,
+      "end": 6.08
+    },
+    {
+      "word": "earth",
+      "start": 6.08,
+      "end": 6.38
+    },
+    {
+      "word": "are",
+      "start": 6.38,
+      "end": 6.6
+    },
+    {
+      "word": "found",
+      "start": 6.6,
+      "end": 6.84
+    },
+    {
+      "word": "in",
+      "start": 6.84,
+      "end": 6.92
+    },
+    {
+      "word": "the",
+      "start": 6.92,
+      "end": 7.04
+    },
+    {
+      "word": "Amazon",
+      "start": 7.04,
+      "end": 7.4
+    },
+    {
+      "word": "forest",
+      "start": 7.4,
+      "end": 7.72
+    },
+    {
+      "word": "which",
+      "start": 7.72,
+      "end": 7.86
+    },
+    {
+      "word": "has",
+      "start": 7.86,
+      "end": 8.04
+    },
+    {
+      "word": "about",
+      "start": 8.04,
+      "end": 8.26
+    },
+    {
+      "word": "three",
+      "start": 8.26,
+      "end": 8.38
+    },
+    {
+      "word": "hundred",
+      "start": 8.38,
+      "end": 8.66
+    },
+    {
+      "word": "and",
+      "start": 8.66,
+      "end": 8.78
+    },
+    {
+      "word": "forty",
+      "start": 8.78,
+      "end": 8.95
+    },
+    {
+      "word": "billion",
+      "start": 8.95,
+      "end": 9.42
+    },
+    {
+      "word": "trees",
+      "start": 9.42,
+      "end": 9.76
+    },
+    {
+      "word": "and",
+      "start": 9.76,
+      "end": 9.96
+    },
+    {
+      "word": "around",
+      "start": 9.96,
+      "end": 10.18
+    },
+    {
+      "word": "one",
+      "start": 10.18,
+      "end": 10.54
+    },
+    {
+      "word": "thousand",
+      "start": 10.54,
+      "end": 10.62
+    },
+    {
+      "word": "sixteen",
+      "start": 10.62,
+      "end": 10.9
+    },
+    {
+      "word": "hundred",
+      "start": 10.9,
+      "end": 11.34
+    },
+    {
+      "word": "species",
+      "start": 11.34,
+      "end": 11.9
+    },
+    {
+      "word": "of",
+      "start": 12.24,
+      "end": 12.38
+    },
+    {
+      "word": "different",
+      "start": 12.38,
+      "end": 12.66
+    },
+    {
+      "word": "different",
+      "start": 12.66,
+      "end": 12.94
+    },
+    {
+      "word": "trees",
+      "start": 12.94,
+      "end": 13.24
+    },
+    {
+      "word": "available",
+      "start": 13.24,
+      "end": 13.74
+    },
+    {
+      "word": "[UH]",
+      "start": 14.14,
+      "end": 14.26
+    },
+    {
+      "word": "However,",
+      "start": 14.26,
+      "end": 14.8
+    },
+    {
+      "word": "trees",
+      "start": 14.8,
+      "end": 14.96
+    },
+    {
+      "word": "are",
+      "start": 14.96,
+      "end": 15.12
+    },
+    {
+      "word": "being",
+      "start": 15.12,
+      "end": 15.32
+    },
+    {
+      "word": "af-",
+      "start": 15.32,
+      "end": 15.5
+    },
+    {
+      "word": "affected",
+      "start": 15.5,
+      "end": 15.96
+    },
+    {
+      "word": "by",
+      "start": 15.96,
+      "end": 16.1
+    },
+    {
+      "word": "deforestation",
+      "start": 16.1,
+      "end": 16.82
+    },
+    {
+      "word": "by",
+      "start": 16.82,
+      "end": 17.0
+    },
+    {
+      "word": "these",
+      "start": 17.0,
+      "end": 17.2
+    },
+    {
+      "word": "greedy",
+      "start": 17.2,
+      "end": 17.58
+    },
+    {
+      "word": "capitalists",
+      "start": 17.58,
+      "end": 18.08
+    },
+    {
+      "word": "who",
+      "start": 18.08,
+      "end": 18.18
+    },
+    {
+      "word": "care",
+      "start": 18.18,
+      "end": 18.42
+    },
+    {
+      "word": "about",
+      "start": 18.42,
+      "end": 18.58
+    },
+    {
+      "word": "nothing",
+      "start": 18.58,
+      "end": 18.86
+    },
+    {
+      "word": "but",
+      "start": 18.86,
+      "end": 19.02
+    },
+    {
+      "word": "their",
+      "start": 19.02,
+      "end": 19.18
+    },
+    {
+      "word": "shareholder",
+      "start": 19.18,
+      "end": 19.58
+    },
+    {
+      "word": "value.",
+      "start": 19.82,
+      "end": 20.68
+    },
+    {
+      "word": "However,",
+      "start": 20.91,
+      "end": 21.29
+    },
+    {
+      "word": "in",
+      "start": 21.29,
+      "end": 21.39
+    },
+    {
+      "word": "some",
+      "start": 21.39,
+      "end": 21.73
+    },
+    {
+      "word": "countries",
+      "start": 21.73,
+      "end": 22.17
+    },
+    {
+      "word": "in",
+      "start": 22.17,
+      "end": 22.34
+    },
+    {
+      "word": "under",
+      "start": 22.34,
+      "end": 22.65
+    },
+    {
+      "word": "the",
+      "start": 22.65,
+      "end": 22.85
+    },
+    {
+      "word": "project",
+      "start": 23.03,
+      "end": 23.35
+    },
+    {
+      "word": "Ecosia,",
+      "start": 23.35,
+      "end": 23.87
+    },
+    {
+      "word": "there",
+      "start": 23.87,
+      "end": 23.99
+    },
+    {
+      "word": "have",
+      "start": 23.99,
+      "end": 24.13
+    },
+    {
+      "word": "been",
+      "start": 24.13,
+      "end": 24.23
+    },
+    {
+      "word": "increasing",
+      "start": 24.23,
+      "end": 24.71
+    },
+    {
+      "word": "number",
+      "start": 24.71,
+      "end": 24.99
+    },
+    {
+      "word": "of",
+      "start": 24.99,
+      "end": 25.21
+    },
+    {
+      "word": "trees",
+      "start": 25.21,
+      "end": 25.47
+    },
+    {
+      "word": "following",
+      "start": 25.47,
+      "end": 25.89
+    },
+    {
+      "word": "everywhere.",
+      "start": 25.89,
+      "end": 26.41
+    },
+    {
+      "word": "One",
+      "start": 26.67,
+      "end": 26.87
+    },
+    {
+      "word": "interesting",
+      "start": 26.87,
+      "end": 27.51
+    },
+    {
+      "word": "fact",
+      "start": 27.51,
+      "end": 27.75
+    },
+    {
+      "word": "is",
+      "start": 27.75,
+      "end": 27.89
+    },
+    {
+      "word": "trees",
+      "start": 27.89,
+      "end": 28.16
+    },
+    {
+      "word": "produce",
+      "start": 28.16,
+      "end": 28.47
+    },
+    {
+      "word": "less",
+      "start": 28.47,
+      "end": 28.69
+    },
+    {
+      "word": "oxygen",
+      "start": 28.69,
+      "end": 29.11
+    },
+    {
+      "word": "than",
+      "start": 29.11,
+      "end": 29.31
+    },
+    {
+      "word": "the",
+      "start": 29.31,
+      "end": 29.45
+    },
+    {
+      "word": "phytoplankton",
+      "start": 29.45,
+      "end": 30.05
+    },
+    {
+      "word": "in",
+      "start": 30.05,
+      "end": 30.13
+    },
+    {
+      "word": "the",
+      "start": 30.13,
+      "end": 30.27
+    },
+    {
+      "word": "seas.",
+      "start": 30.27,
+      "end": 30.47
+    },
+    {
+      "word": "However,",
+      "start": 30.47,
+      "end": 30.77
+    },
+    {
+      "word": "they",
+      "start": 30.77,
+      "end": 30.87
+    },
+    {
+      "word": "get",
+      "start": 30.87,
+      "end": 31.01
+    },
+    {
+      "word": "more",
+      "start": 31.01,
+      "end": 31.21
+    },
+    {
+      "word": "PR.",
+      "start": 31.21,
+      "end": 31.57
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      20.67
+    ],
+    [
+      20.67,
+      32.105
+    ]
+  ],
+  "intended_text": "Trees are responsible for housing more than 20% of the world's population of species. Most of the trees found on the earth are found in the Amazon forest which has about 340 billion trees and around 1600 species of different trees available. However, trees are being affected by deforestation by these greedy capitalists who care about nothing but their shareholder value. However, in some countries under the project Ecosia there have been increasing number of trees following everywhere. One interesting fact is trees produce less oxygen than the phytoplankton in the seas. However, they get more Pr."
+}

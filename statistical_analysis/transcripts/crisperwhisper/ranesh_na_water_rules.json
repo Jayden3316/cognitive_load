@@ -1,0 +1,31 @@
+{
+  "id": "ranesh_na_water_rules",
+  "audio": "data/wav/ranesh_na_water_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:11+00:00",
+  "duration": 31.548,
+  "processing_time": 0.173,
+  "text": "",
+  "words": [],
+  "segments": [
+    [
+      0.0,
+      15.88
+    ],
+    [
+      15.88,
+      31.548
+    ]
+  ],
+  "intended_text": ""
+}

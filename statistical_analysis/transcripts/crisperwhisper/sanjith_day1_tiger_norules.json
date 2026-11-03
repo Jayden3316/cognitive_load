@@ -1,0 +1,452 @@
+{
+  "id": "sanjith_day1_tiger_norules",
+  "audio": "data/wav/sanjith_day1_tiger_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:14+00:00",
+  "duration": 33.3853125,
+  "processing_time": 0.7669999999999999,
+  "text": "Tigers are orange and black in nature because of the in intense pressure that they succumb through while living as a banyan tree across the nations and as grass patterns [UH] evolve more tigers grow and become more like a person named Venkat because of their [UH] darning nature. And the funny expressions that they keep on their face and other examples include Akshara who's a tile that looks like a tiger due to the [UH] bridges that are constructed across [UH] you know.",
+  "words": [
+    {
+      "word": "Tigers",
+      "start": 1.1,
+      "end": 1.52
+    },
+    {
+      "word": "are",
+      "start": 1.52,
+      "end": 1.8
+    },
+    {
+      "word": "orange",
+      "start": 1.9,
+      "end": 2.36
+    },
+    {
+      "word": "and",
+      "start": 2.36,
+      "end": 2.54
+    },
+    {
+      "word": "black",
+      "start": 2.64,
+      "end": 3.02
+    },
+    {
+      "word": "in",
+      "start": 3.02,
+      "end": 3.12
+    },
+    {
+      "word": "nature",
+      "start": 3.12,
+      "end": 3.48
+    },
+    {
+      "word": "because",
+      "start": 3.48,
+      "end": 3.78
+    },
+    {
+      "word": "of",
+      "start": 3.78,
+      "end": 3.99
+    },
+    {
+      "word": "the",
+      "start": 3.99,
+      "end": 4.16
+    },
+    {
+      "word": "in",
+      "start": 4.52,
+      "end": 4.83
+    },
+    {
+      "word": "intense",
+      "start": 4.83,
+      "end": 5.18
+    },
+    {
+      "word": "pressure",
+      "start": 5.18,
+      "end": 5.62
+    },
+    {
+      "word": "that",
+      "start": 5.62,
+      "end": 5.78
+    },
+    {
+      "word": "they",
+      "start": 5.78,
+      "end": 5.98
+    },
+    {
+      "word": "succumb",
+      "start": 5.98,
+      "end": 6.32
+    },
+    {
+      "word": "through",
+      "start": 6.32,
+      "end": 6.78
+    },
+    {
+      "word": "while",
+      "start": 7.14,
+      "end": 7.36
+    },
+    {
+      "word": "living",
+      "start": 7.36,
+      "end": 7.66
+    },
+    {
+      "word": "as",
+      "start": 7.66,
+      "end": 7.86
+    },
+    {
+      "word": "a",
+      "start": 7.86,
+      "end": 7.92
+    },
+    {
+      "word": "banyan",
+      "start": 7.92,
+      "end": 8.3
+    },
+    {
+      "word": "tree",
+      "start": 8.3,
+      "end": 8.52
+    },
+    {
+      "word": "across",
+      "start": 8.52,
+      "end": 9.0
+    },
+    {
+      "word": "the",
+      "start": 9.0,
+      "end": 9.14
+    },
+    {
+      "word": "nations",
+      "start": 9.14,
+      "end": 9.64
+    },
+    {
+      "word": "and",
+      "start": 10.2,
+      "end": 10.46
+    },
+    {
+      "word": "as",
+      "start": 10.46,
+      "end": 10.72
+    },
+    {
+      "word": "grass",
+      "start": 10.72,
+      "end": 11.16
+    },
+    {
+      "word": "patterns",
+      "start": 11.16,
+      "end": 11.76
+    },
+    {
+      "word": "[UH]",
+      "start": 11.76,
+      "end": 12.12
+    },
+    {
+      "word": "evolve",
+      "start": 12.12,
+      "end": 12.6
+    },
+    {
+      "word": "more",
+      "start": 12.9,
+      "end": 13.12
+    },
+    {
+      "word": "tigers",
+      "start": 13.12,
+      "end": 13.53
+    },
+    {
+      "word": "grow",
+      "start": 13.53,
+      "end": 13.82
+    },
+    {
+      "word": "and",
+      "start": 14.02,
+      "end": 14.26
+    },
+    {
+      "word": "become",
+      "start": 14.46,
+      "end": 14.82
+    },
+    {
+      "word": "more",
+      "start": 15.02,
+      "end": 15.28
+    },
+    {
+      "word": "like",
+      "start": 15.28,
+      "end": 15.44
+    },
+    {
+      "word": "a",
+      "start": 15.44,
+      "end": 15.52
+    },
+    {
+      "word": "person",
+      "start": 15.52,
+      "end": 15.88
+    },
+    {
+      "word": "named",
+      "start": 15.88,
+      "end": 16.08
+    },
+    {
+      "word": "Venkat",
+      "start": 16.08,
+      "end": 16.56
+    },
+    {
+      "word": "because",
+      "start": 16.98,
+      "end": 17.28
+    },
+    {
+      "word": "of",
+      "start": 17.28,
+      "end": 17.44
+    },
+    {
+      "word": "their",
+      "start": 17.44,
+      "end": 17.72
+    },
+    {
+      "word": "[UH]",
+      "start": 17.72,
+      "end": 18.06
+    },
+    {
+      "word": "darning",
+      "start": 18.46,
+      "end": 18.94
+    },
+    {
+      "word": "nature.",
+      "start": 18.94,
+      "end": 19.34
+    },
+    {
+      "word": "And",
+      "start": 19.89,
+      "end": 20.07
+    },
+    {
+      "word": "the",
+      "start": 20.07,
+      "end": 20.17
+    },
+    {
+      "word": "funny",
+      "start": 20.17,
+      "end": 20.53
+    },
+    {
+      "word": "expressions",
+      "start": 20.53,
+      "end": 21.15
+    },
+    {
+      "word": "that",
+      "start": 21.15,
+      "end": 21.29
+    },
+    {
+      "word": "they",
+      "start": 21.29,
+      "end": 21.39
+    },
+    {
+      "word": "keep",
+      "start": 21.39,
+      "end": 21.63
+    },
+    {
+      "word": "on",
+      "start": 21.63,
+      "end": 21.77
+    },
+    {
+      "word": "their",
+      "start": 21.77,
+      "end": 21.91
+    },
+    {
+      "word": "face",
+      "start": 21.91,
+      "end": 22.29
+    },
+    {
+      "word": "and",
+      "start": 22.81,
+      "end": 23.07
+    },
+    {
+      "word": "other",
+      "start": 23.19,
+      "end": 23.35
+    },
+    {
+      "word": "examples",
+      "start": 23.35,
+      "end": 24.16
+    },
+    {
+      "word": "include",
+      "start": 24.16,
+      "end": 24.57
+    },
+    {
+      "word": "Akshara",
+      "start": 24.57,
+      "end": 25.09
+    },
+    {
+      "word": "who's",
+      "start": 25.31,
+      "end": 25.53
+    },
+    {
+      "word": "a",
+      "start": 25.53,
+      "end": 25.63
+    },
+    {
+      "word": "tile",
+      "start": 25.63,
+      "end": 25.99
+    },
+    {
+      "word": "that",
+      "start": 26.31,
+      "end": 26.43
+    },
+    {
+      "word": "looks",
+      "start": 26.43,
+      "end": 26.63
+    },
+    {
+      "word": "like",
+      "start": 26.63,
+      "end": 26.79
+    },
+    {
+      "word": "a",
+      "start": 26.79,
+      "end": 26.85
+    },
+    {
+      "word": "tiger",
+      "start": 26.85,
+      "end": 27.25
+    },
+    {
+      "word": "due",
+      "start": 27.87,
+      "end": 28.05
+    },
+    {
+      "word": "to",
+      "start": 28.05,
+      "end": 28.17
+    },
+    {
+      "word": "the",
+      "start": 28.17,
+      "end": 28.29
+    },
+    {
+      "word": "[UH]",
+      "start": 28.29,
+      "end": 28.57
+    },
+    {
+      "word": "bridges",
+      "start": 28.57,
+      "end": 28.97
+    },
+    {
+      "word": "that",
+      "start": 28.97,
+      "end": 29.13
+    },
+    {
+      "word": "are",
+      "start": 29.13,
+      "end": 29.21
+    },
+    {
+      "word": "constructed",
+      "start": 29.21,
+      "end": 29.75
+    },
+    {
+      "word": "across",
+      "start": 29.75,
+      "end": 30.31
+    },
+    {
+      "word": "[UH]",
+      "start": 30.77,
+      "end": 30.97
+    },
+    {
+      "word": "you",
+      "start": 31.09,
+      "end": 31.15
+    },
+    {
+      "word": "know.",
+      "start": 31.15,
+      "end": 31.37
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      19.59
+    ],
+    [
+      19.59,
+      33.385
+    ]
+  ],
+  "intended_text": "Tigers are orange and black in nature because of the intense pressure that they succumb through while living as a banyan tree across the nations, and as grass patterns evolve more tigers grow and become more like a person named Venkat because of their darning nature. The funny expressions that they keep on their face and other examples include Akshara who's a tile that looks like a tiger due to the bridges that are constructed across."
+}

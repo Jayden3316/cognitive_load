@@ -1,0 +1,637 @@
+{
+  "id": "venkat_day1_tree_rules",
+  "audio": "data/wav/venkat_day1_tree_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:30+00:00",
+  "duration": 35.2626875,
+  "processing_time": 0.96,
+  "text": "There have been many kind of trees that a person named Venkat grew in his backyard. He was fond of the banyan tree and the peepal tree because they were sourcing a how large amount of [UH] they house a la- large number of species. [UH] namely he liked the sparrows that made nest in his trees along with the squirrel that visited him quite often. However, trees are also used to make paper from where the knowledge revolution of the world was inspired. Paper has been an increasingly important source of transmitting knowledge across the world and owing its cultural revolution to the printing press and this has to be done with trees. This has something to do with trees.",
+  "words": [
+    {
+      "word": "There",
+      "start": 0.4,
+      "end": 0.6
+    },
+    {
+      "word": "have",
+      "start": 0.6,
+      "end": 0.74
+    },
+    {
+      "word": "been",
+      "start": 0.74,
+      "end": 0.94
+    },
+    {
+      "word": "many",
+      "start": 0.94,
+      "end": 1.24
+    },
+    {
+      "word": "kind",
+      "start": 1.34,
+      "end": 1.58
+    },
+    {
+      "word": "of",
+      "start": 1.58,
+      "end": 1.77
+    },
+    {
+      "word": "trees",
+      "start": 1.77,
+      "end": 2.16
+    },
+    {
+      "word": "that",
+      "start": 2.16,
+      "end": 2.46
+    },
+    {
+      "word": "a",
+      "start": 2.46,
+      "end": 2.54
+    },
+    {
+      "word": "person",
+      "start": 2.54,
+      "end": 2.9
+    },
+    {
+      "word": "named",
+      "start": 2.9,
+      "end": 3.16
+    },
+    {
+      "word": "Venkat",
+      "start": 3.16,
+      "end": 3.48
+    },
+    {
+      "word": "grew",
+      "start": 3.48,
+      "end": 3.72
+    },
+    {
+      "word": "in",
+      "start": 3.72,
+      "end": 3.9
+    },
+    {
+      "word": "his",
+      "start": 3.9,
+      "end": 4.1
+    },
+    {
+      "word": "backyard.",
+      "start": 4.1,
+      "end": 4.6
+    },
+    {
+      "word": "He",
+      "start": 4.92,
+      "end": 5.04
+    },
+    {
+      "word": "was",
+      "start": 5.04,
+      "end": 5.22
+    },
+    {
+      "word": "fond",
+      "start": 5.22,
+      "end": 5.6
+    },
+    {
+      "word": "of",
+      "start": 5.6,
+      "end": 5.95
+    },
+    {
+      "word": "the",
+      "start": 5.95,
+      "end": 6.14
+    },
+    {
+      "word": "banyan",
+      "start": 6.14,
+      "end": 6.46
+    },
+    {
+      "word": "tree",
+      "start": 6.46,
+      "end": 6.68
+    },
+    {
+      "word": "and",
+      "start": 6.68,
+      "end": 6.82
+    },
+    {
+      "word": "the",
+      "start": 6.82,
+      "end": 6.9
+    },
+    {
+      "word": "peepal",
+      "start": 6.9,
+      "end": 7.24
+    },
+    {
+      "word": "tree",
+      "start": 7.24,
+      "end": 7.4
+    },
+    {
+      "word": "because",
+      "start": 7.4,
+      "end": 7.76
+    },
+    {
+      "word": "they",
+      "start": 7.76,
+      "end": 7.9
+    },
+    {
+      "word": "were",
+      "start": 7.9,
+      "end": 8.06
+    },
+    {
+      "word": "sourcing",
+      "start": 8.06,
+      "end": 8.66
+    },
+    {
+      "word": "a",
+      "start": 8.66,
+      "end": 8.76
+    },
+    {
+      "word": "how",
+      "start": 8.76,
+      "end": 8.9
+    },
+    {
+      "word": "large",
+      "start": 8.9,
+      "end": 9.34
+    },
+    {
+      "word": "amount",
+      "start": 9.34,
+      "end": 9.85
+    },
+    {
+      "word": "of",
+      "start": 9.85,
+      "end": 10.04
+    },
+    {
+      "word": "[UH]",
+      "start": 10.28,
+      "end": 10.5
+    },
+    {
+      "word": "they",
+      "start": 10.5,
+      "end": 10.86
+    },
+    {
+      "word": "house",
+      "start": 11.44,
+      "end": 11.72
+    },
+    {
+      "word": "a",
+      "start": 11.72,
+      "end": 11.82
+    },
+    {
+      "word": "la-",
+      "start": 11.82,
+      "end": 12.2
+    },
+    {
+      "word": "large",
+      "start": 12.2,
+      "end": 12.38
+    },
+    {
+      "word": "number",
+      "start": 12.38,
+      "end": 12.56
+    },
+    {
+      "word": "of",
+      "start": 12.56,
+      "end": 12.68
+    },
+    {
+      "word": "species.",
+      "start": 12.68,
+      "end": 13.36
+    },
+    {
+      "word": "[UH]",
+      "start": 13.6,
+      "end": 13.78
+    },
+    {
+      "word": "namely",
+      "start": 13.78,
+      "end": 14.18
+    },
+    {
+      "word": "he",
+      "start": 14.18,
+      "end": 14.38
+    },
+    {
+      "word": "liked",
+      "start": 14.38,
+      "end": 14.64
+    },
+    {
+      "word": "the",
+      "start": 14.64,
+      "end": 14.74
+    },
+    {
+      "word": "sparrows",
+      "start": 14.74,
+      "end": 15.16
+    },
+    {
+      "word": "that",
+      "start": 15.16,
+      "end": 15.3
+    },
+    {
+      "word": "made",
+      "start": 15.3,
+      "end": 15.58
+    },
+    {
+      "word": "nest",
+      "start": 15.58,
+      "end": 16.04
+    },
+    {
+      "word": "in",
+      "start": 16.04,
+      "end": 16.26
+    },
+    {
+      "word": "his",
+      "start": 16.26,
+      "end": 16.42
+    },
+    {
+      "word": "trees",
+      "start": 16.42,
+      "end": 16.88
+    },
+    {
+      "word": "along",
+      "start": 16.88,
+      "end": 17.22
+    },
+    {
+      "word": "with",
+      "start": 17.22,
+      "end": 17.46
+    },
+    {
+      "word": "the",
+      "start": 17.46,
+      "end": 17.56
+    },
+    {
+      "word": "squirrel",
+      "start": 17.56,
+      "end": 17.9
+    },
+    {
+      "word": "that",
+      "start": 17.9,
+      "end": 18.02
+    },
+    {
+      "word": "visited",
+      "start": 18.02,
+      "end": 18.4
+    },
+    {
+      "word": "him",
+      "start": 18.4,
+      "end": 18.58
+    },
+    {
+      "word": "quite",
+      "start": 18.58,
+      "end": 18.81
+    },
+    {
+      "word": "often.",
+      "start": 18.81,
+      "end": 19.12
+    },
+    {
+      "word": "However,",
+      "start": 19.5,
+      "end": 20.1
+    },
+    {
+      "word": "trees",
+      "start": 20.1,
+      "end": 20.2
+    },
+    {
+      "word": "are",
+      "start": 20.2,
+      "end": 20.32
+    },
+    {
+      "word": "also",
+      "start": 20.32,
+      "end": 20.5
+    },
+    {
+      "word": "used",
+      "start": 20.5,
+      "end": 20.87
+    },
+    {
+      "word": "to",
+      "start": 20.87,
+      "end": 20.96
+    },
+    {
+      "word": "make",
+      "start": 20.96,
+      "end": 21.13
+    },
+    {
+      "word": "paper",
+      "start": 21.13,
+      "end": 21.54
+    },
+    {
+      "word": "from",
+      "start": 21.54,
+      "end": 21.76
+    },
+    {
+      "word": "where",
+      "start": 21.76,
+      "end": 22.06
+    },
+    {
+      "word": "the",
+      "start": 22.06,
+      "end": 22.16
+    },
+    {
+      "word": "knowledge",
+      "start": 22.16,
+      "end": 22.44
+    },
+    {
+      "word": "revolution",
+      "start": 22.44,
+      "end": 22.9
+    },
+    {
+      "word": "of",
+      "start": 22.9,
+      "end": 23.02
+    },
+    {
+      "word": "the",
+      "start": 23.02,
+      "end": 23.12
+    },
+    {
+      "word": "world",
+      "start": 23.12,
+      "end": 23.34
+    },
+    {
+      "word": "was",
+      "start": 23.34,
+      "end": 23.5
+    },
+    {
+      "word": "inspired.",
+      "start": 23.5,
+      "end": 23.98
+    },
+    {
+      "word": "Paper",
+      "start": 24.38,
+      "end": 24.66
+    },
+    {
+      "word": "has",
+      "start": 24.66,
+      "end": 24.82
+    },
+    {
+      "word": "been",
+      "start": 24.82,
+      "end": 24.96
+    },
+    {
+      "word": "an",
+      "start": 24.96,
+      "end": 25.12
+    },
+    {
+      "word": "increasingly",
+      "start": 25.12,
+      "end": 25.62
+    },
+    {
+      "word": "important",
+      "start": 25.62,
+      "end": 26.16
+    },
+    {
+      "word": "source",
+      "start": 26.16,
+      "end": 26.56
+    },
+    {
+      "word": "of",
+      "start": 26.56,
+      "end": 26.92
+    },
+    {
+      "word": "transmitting",
+      "start": 27.14,
+      "end": 27.78
+    },
+    {
+      "word": "knowledge",
+      "start": 27.78,
+      "end": 28.08
+    },
+    {
+      "word": "across",
+      "start": 28.08,
+      "end": 28.38
+    },
+    {
+      "word": "the",
+      "start": 28.38,
+      "end": 28.48
+    },
+    {
+      "word": "world",
+      "start": 28.48,
+      "end": 28.74
+    },
+    {
+      "word": "and",
+      "start": 28.96,
+      "end": 29.14
+    },
+    {
+      "word": "owing",
+      "start": 29.14,
+      "end": 29.42
+    },
+    {
+      "word": "its",
+      "start": 29.42,
+      "end": 29.7
+    },
+    {
+      "word": "cultural",
+      "start": 29.82,
+      "end": 30.2
+    },
+    {
+      "word": "revolution",
+      "start": 30.2,
+      "end": 30.64
+    },
+    {
+      "word": "to",
+      "start": 30.64,
+      "end": 30.76
+    },
+    {
+      "word": "the",
+      "start": 30.76,
+      "end": 30.86
+    },
+    {
+      "word": "printing",
+      "start": 30.86,
+      "end": 31.2
+    },
+    {
+      "word": "press",
+      "start": 31.2,
+      "end": 31.46
+    },
+    {
+      "word": "and",
+      "start": 31.7,
+      "end": 31.84
+    },
+    {
+      "word": "this",
+      "start": 31.84,
+      "end": 32.02
+    },
+    {
+      "word": "has",
+      "start": 32.02,
+      "end": 32.32
+    },
+    {
+      "word": "to",
+      "start": 32.62,
+      "end": 32.76
+    },
+    {
+      "word": "be",
+      "start": 32.76,
+      "end": 32.94
+    },
+    {
+      "word": "done",
+      "start": 33.08,
+      "end": 33.25
+    },
+    {
+      "word": "with",
+      "start": 33.25,
+      "end": 33.4
+    },
+    {
+      "word": "trees.",
+      "start": 33.4,
+      "end": 33.82
+    },
+    {
+      "word": "This",
+      "start": 34.6,
+      "end": 34.7
+    },
+    {
+      "word": "has",
+      "start": 34.7,
+      "end": 34.8
+    },
+    {
+      "word": "something",
+      "start": 34.8,
+      "end": 34.98
+    },
+    {
+      "word": "to",
+      "start": 34.98,
+      "end": 35.06
+    },
+    {
+      "word": "do",
+      "start": 35.06,
+      "end": 35.18
+    },
+    {
+      "word": "with",
+      "start": 35.18,
+      "end": 35.26
+    },
+    {
+      "word": "trees.",
+      "start": 35.26,
+      "end": 35.28
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      13.34
+    ],
+    [
+      13.34,
+      35.263
+    ]
+  ],
+  "intended_text": "There have been many kind of trees that a person named Venkat grew in his backyard. He was fond of the banyan tree and the peepal tree because they were sourcing a large amount of they housed a large number of species. Namely, he liked the sparrows that made nest in his trees, along with the squirrels that visited him quite often. However, trees are also used to make paper. From where the knowledge revolution of the world was inspired, paper has been an increasingly important source of transmitting knowledge across the world and owing its cultural revolution to the printing press, and this has to be done with trees. This has something to do with."
+}

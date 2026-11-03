@@ -1,0 +1,393 @@
+{
+  "id": "akshara_day1_tiger_rules",
+  "audio": "data/wav/akshara_day1_tiger_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:00+00:00",
+  "duration": 35.01,
+  "processing_time": 0.722,
+  "text": "Tigers are an endangered species in the country known as India [UM] They are also endangered everywhere else in the world but they are the national animal of India. Tigers found in India are orange with black stripes. These black stripes are used for camouflage so that they can track down their prey without being spotted. Tigers are solitary creatures unlike other cats like lions [UM] Tigers are the biggest member of the cat family.",
+  "words": [
+    {
+      "word": "Tigers",
+      "start": 0.24,
+      "end": 0.68
+    },
+    {
+      "word": "are",
+      "start": 0.68,
+      "end": 0.98
+    },
+    {
+      "word": "an",
+      "start": 0.98,
+      "end": 1.12
+    },
+    {
+      "word": "endangered",
+      "start": 1.28,
+      "end": 1.75
+    },
+    {
+      "word": "species",
+      "start": 1.75,
+      "end": 2.26
+    },
+    {
+      "word": "in",
+      "start": 2.56,
+      "end": 2.72
+    },
+    {
+      "word": "the",
+      "start": 2.72,
+      "end": 2.88
+    },
+    {
+      "word": "country",
+      "start": 2.88,
+      "end": 3.18
+    },
+    {
+      "word": "known",
+      "start": 3.32,
+      "end": 3.6
+    },
+    {
+      "word": "as",
+      "start": 3.6,
+      "end": 3.94
+    },
+    {
+      "word": "India",
+      "start": 3.94,
+      "end": 4.32
+    },
+    {
+      "word": "[UM]",
+      "start": 5.04,
+      "end": 5.32
+    },
+    {
+      "word": "They",
+      "start": 7.22,
+      "end": 7.34
+    },
+    {
+      "word": "are",
+      "start": 7.34,
+      "end": 7.46
+    },
+    {
+      "word": "also",
+      "start": 7.46,
+      "end": 7.78
+    },
+    {
+      "word": "endangered",
+      "start": 7.78,
+      "end": 8.42
+    },
+    {
+      "word": "everywhere",
+      "start": 8.42,
+      "end": 8.82
+    },
+    {
+      "word": "else",
+      "start": 8.82,
+      "end": 9.0
+    },
+    {
+      "word": "in",
+      "start": 9.0,
+      "end": 9.12
+    },
+    {
+      "word": "the",
+      "start": 9.12,
+      "end": 9.23
+    },
+    {
+      "word": "world",
+      "start": 9.23,
+      "end": 9.45
+    },
+    {
+      "word": "but",
+      "start": 9.45,
+      "end": 9.6
+    },
+    {
+      "word": "they",
+      "start": 9.6,
+      "end": 9.76
+    },
+    {
+      "word": "are",
+      "start": 9.76,
+      "end": 9.94
+    },
+    {
+      "word": "the",
+      "start": 10.08,
+      "end": 10.14
+    },
+    {
+      "word": "national",
+      "start": 10.14,
+      "end": 10.59
+    },
+    {
+      "word": "animal",
+      "start": 10.59,
+      "end": 11.0
+    },
+    {
+      "word": "of",
+      "start": 11.12,
+      "end": 11.32
+    },
+    {
+      "word": "India.",
+      "start": 11.54,
+      "end": 11.68
+    },
+    {
+      "word": "Tigers",
+      "start": 12.84,
+      "end": 13.02
+    },
+    {
+      "word": "found",
+      "start": 14.12,
+      "end": 14.35
+    },
+    {
+      "word": "in",
+      "start": 14.35,
+      "end": 14.52
+    },
+    {
+      "word": "India",
+      "start": 14.52,
+      "end": 14.98
+    },
+    {
+      "word": "are",
+      "start": 14.98,
+      "end": 15.35
+    },
+    {
+      "word": "orange",
+      "start": 15.35,
+      "end": 15.66
+    },
+    {
+      "word": "with",
+      "start": 15.88,
+      "end": 15.96
+    },
+    {
+      "word": "black",
+      "start": 16.08,
+      "end": 16.32
+    },
+    {
+      "word": "stripes.",
+      "start": 16.42,
+      "end": 16.78
+    },
+    {
+      "word": "These",
+      "start": 17.12,
+      "end": 17.36
+    },
+    {
+      "word": "black",
+      "start": 17.46,
+      "end": 17.68
+    },
+    {
+      "word": "stripes",
+      "start": 17.68,
+      "end": 18.2
+    },
+    {
+      "word": "are",
+      "start": 18.52,
+      "end": 18.72
+    },
+    {
+      "word": "used",
+      "start": 18.72,
+      "end": 19.08
+    },
+    {
+      "word": "for",
+      "start": 19.08,
+      "end": 19.24
+    },
+    {
+      "word": "camouflage",
+      "start": 19.24,
+      "end": 19.86
+    },
+    {
+      "word": "so",
+      "start": 19.86,
+      "end": 20.06
+    },
+    {
+      "word": "that",
+      "start": 20.06,
+      "end": 20.2
+    },
+    {
+      "word": "they",
+      "start": 20.2,
+      "end": 20.38
+    },
+    {
+      "word": "can",
+      "start": 20.38,
+      "end": 20.62
+    },
+    {
+      "word": "track",
+      "start": 20.84,
+      "end": 21.02
+    },
+    {
+      "word": "down",
+      "start": 21.16,
+      "end": 21.36
+    },
+    {
+      "word": "their",
+      "start": 21.36,
+      "end": 21.52
+    },
+    {
+      "word": "prey",
+      "start": 21.66,
+      "end": 21.84
+    },
+    {
+      "word": "without",
+      "start": 21.84,
+      "end": 22.16
+    },
+    {
+      "word": "being",
+      "start": 22.28,
+      "end": 22.46
+    },
+    {
+      "word": "spotted.",
+      "start": 22.62,
+      "end": 23.0
+    },
+    {
+      "word": "Tigers",
+      "start": 24.94,
+      "end": 25.4
+    },
+    {
+      "word": "are",
+      "start": 25.84,
+      "end": 26.04
+    },
+    {
+      "word": "solitary",
+      "start": 26.04,
+      "end": 26.67
+    },
+    {
+      "word": "creatures",
+      "start": 26.67,
+      "end": 27.1
+    },
+    {
+      "word": "unlike",
+      "start": 27.4,
+      "end": 27.78
+    },
+    {
+      "word": "other",
+      "start": 28.76,
+      "end": 29.0
+    },
+    {
+      "word": "cats",
+      "start": 29.28,
+      "end": 29.74
+    },
+    {
+      "word": "like",
+      "start": 29.74,
+      "end": 30.0
+    },
+    {
+      "word": "lions",
+      "start": 30.0,
+      "end": 30.5
+    },
+    {
+      "word": "[UM]",
+      "start": 31.14,
+      "end": 31.5
+    },
+    {
+      "word": "Tigers",
+      "start": 31.7,
+      "end": 32.26
+    },
+    {
+      "word": "are",
+      "start": 32.26,
+      "end": 32.58
+    },
+    {
+      "word": "the",
+      "start": 32.58,
+      "end": 32.72
+    },
+    {
+      "word": "biggest",
+      "start": 32.72,
+      "end": 33.08
+    },
+    {
+      "word": "member",
+      "start": 33.08,
+      "end": 33.56
+    },
+    {
+      "word": "of",
+      "start": 33.56,
+      "end": 33.72
+    },
+    {
+      "word": "the",
+      "start": 33.72,
+      "end": 33.84
+    },
+    {
+      "word": "cat",
+      "start": 33.84,
+      "end": 34.12
+    },
+    {
+      "word": "family.",
+      "start": 34.12,
+      "end": 34.56
+    }
+  ],
+  "intended_text": "Tigers are an endangered species in the country known as India. They are also endangered everywhere else in the world, but they are the national animal of India. Tigers found in India are orange with black stripes. These black stripes are used for camouflage so that they can track down their prey without being spotted. Tigers are solitary creatures unlike other cats like lions. Tigers are the biggest members of the cat family."
+}

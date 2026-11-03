@@ -1,0 +1,318 @@
+{
+  "id": "akshara_day1_banana_rules",
+  "audio": "data/wav/akshara_day1_banana_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:00+00:00",
+  "duration": 29.972,
+  "processing_time": 0.453,
+  "text": "One can find bananas primarily in the tropical regions of the earth. This is this is where bananas primarily grow [UM] bananas are a rich source of different vitamins and are often regarded as one of the main sources of energy [UM] various sports players often consume bananas during sports matches for like that extra [UM] energy boost.",
+  "words": [
+    {
+      "word": "One",
+      "start": 0.22,
+      "end": 0.46
+    },
+    {
+      "word": "can",
+      "start": 0.56,
+      "end": 0.72
+    },
+    {
+      "word": "find",
+      "start": 0.72,
+      "end": 0.98
+    },
+    {
+      "word": "bananas",
+      "start": 1.12,
+      "end": 1.58
+    },
+    {
+      "word": "primarily",
+      "start": 1.86,
+      "end": 2.24
+    },
+    {
+      "word": "in",
+      "start": 2.78,
+      "end": 2.92
+    },
+    {
+      "word": "the",
+      "start": 3.22,
+      "end": 3.35
+    },
+    {
+      "word": "tropical",
+      "start": 3.35,
+      "end": 3.62
+    },
+    {
+      "word": "regions",
+      "start": 4.22,
+      "end": 4.42
+    },
+    {
+      "word": "of",
+      "start": 4.54,
+      "end": 4.64
+    },
+    {
+      "word": "the",
+      "start": 4.74,
+      "end": 4.88
+    },
+    {
+      "word": "earth.",
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "word": "This",
+      "start": 5.34,
+      "end": 5.58
+    },
+    {
+      "word": "is",
+      "start": 5.58,
+      "end": 5.74
+    },
+    {
+      "word": "this",
+      "start": 5.74,
+      "end": 5.82
+    },
+    {
+      "word": "is",
+      "start": 5.82,
+      "end": 6.04
+    },
+    {
+      "word": "where",
+      "start": 6.04,
+      "end": 6.36
+    },
+    {
+      "word": "bananas",
+      "start": 6.36,
+      "end": 6.82
+    },
+    {
+      "word": "primarily",
+      "start": 6.98,
+      "end": 7.42
+    },
+    {
+      "word": "grow",
+      "start": 7.64,
+      "end": 7.78
+    },
+    {
+      "word": "[UM]",
+      "start": 8.98,
+      "end": 9.24
+    },
+    {
+      "word": "bananas",
+      "start": 10.18,
+      "end": 10.68
+    },
+    {
+      "word": "are",
+      "start": 10.96,
+      "end": 11.36
+    },
+    {
+      "word": "a",
+      "start": 11.5,
+      "end": 11.56
+    },
+    {
+      "word": "rich",
+      "start": 11.56,
+      "end": 11.84
+    },
+    {
+      "word": "source",
+      "start": 11.84,
+      "end": 12.26
+    },
+    {
+      "word": "of",
+      "start": 12.4,
+      "end": 12.52
+    },
+    {
+      "word": "different",
+      "start": 12.62,
+      "end": 12.9
+    },
+    {
+      "word": "vitamins",
+      "start": 13.06,
+      "end": 13.64
+    },
+    {
+      "word": "and",
+      "start": 13.64,
+      "end": 13.93
+    },
+    {
+      "word": "are",
+      "start": 13.93,
+      "end": 14.12
+    },
+    {
+      "word": "often",
+      "start": 14.12,
+      "end": 14.44
+    },
+    {
+      "word": "regarded",
+      "start": 14.64,
+      "end": 14.94
+    },
+    {
+      "word": "as",
+      "start": 15.06,
+      "end": 15.36
+    },
+    {
+      "word": "one",
+      "start": 15.5,
+      "end": 15.77
+    },
+    {
+      "word": "of",
+      "start": 15.77,
+      "end": 15.99
+    },
+    {
+      "word": "the",
+      "start": 15.99,
+      "end": 16.11
+    },
+    {
+      "word": "main",
+      "start": 16.11,
+      "end": 16.4
+    },
+    {
+      "word": "sources",
+      "start": 16.58,
+      "end": 16.88
+    },
+    {
+      "word": "of",
+      "start": 16.98,
+      "end": 17.1
+    },
+    {
+      "word": "energy",
+      "start": 17.1,
+      "end": 17.6
+    },
+    {
+      "word": "[UM]",
+      "start": 18.18,
+      "end": 18.38
+    },
+    {
+      "word": "various",
+      "start": 18.56,
+      "end": 18.88
+    },
+    {
+      "word": "sports",
+      "start": 19.22,
+      "end": 19.38
+    },
+    {
+      "word": "players",
+      "start": 19.58,
+      "end": 19.8
+    },
+    {
+      "word": "often",
+      "start": 19.96,
+      "end": 20.2
+    },
+    {
+      "word": "consume",
+      "start": 20.36,
+      "end": 20.83
+    },
+    {
+      "word": "bananas",
+      "start": 20.83,
+      "end": 21.44
+    },
+    {
+      "word": "during",
+      "start": 22.3,
+      "end": 22.6
+    },
+    {
+      "word": "sports",
+      "start": 22.6,
+      "end": 23.12
+    },
+    {
+      "word": "matches",
+      "start": 23.12,
+      "end": 23.42
+    },
+    {
+      "word": "for",
+      "start": 24.04,
+      "end": 24.31
+    },
+    {
+      "word": "like",
+      "start": 24.31,
+      "end": 24.57
+    },
+    {
+      "word": "that",
+      "start": 24.57,
+      "end": 24.74
+    },
+    {
+      "word": "extra",
+      "start": 24.74,
+      "end": 25.38
+    },
+    {
+      "word": "[UM]",
+      "start": 26.0,
+      "end": 26.2
+    },
+    {
+      "word": "energy",
+      "start": 26.2,
+      "end": 26.72
+    },
+    {
+      "word": "boost.",
+      "start": 26.72,
+      "end": 27.14
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      29.972
+    ]
+  ],
+  "intended_text": "One can find bananas primarily in the tropical regions of the earth. This is where bananas primarily grow. Bananas are a rich source of different vitamins and are often regarded as one of the main sources of energy. Various sports players often consume bananas during sports matches for that extra energy boost."
+}

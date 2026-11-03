@@ -1,0 +1,503 @@
+{
+  "id": "venkat_day1_banana_norules",
+  "audio": "data/wav/venkat_day1_banana_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:37+00:00",
+  "duration": 34.41,
+  "processing_time": 0.895,
+  "text": "[UH] bananas have been grown in the o- o- coast of Mexico since the nineteenth century since times immemorial. They have been considered a rich source of potassium calcium for poor farmers immigration immigrating from the [UH] South Americas [UH] bananas are yellow in color and are often used in [UH] ritualistic practices of the occult of the coast of West Bengal. Bengali farmers use bananas as a means of summoning ghosts when they do not have any other sacrificial lambs around them. Bananas are also [UH] dependent as phallic structures in Greek mythology for reasons unknown.",
+  "words": [
+    {
+      "word": "[UH]",
+      "start": 0.64,
+      "end": 0.64
+    },
+    {
+      "word": "bananas",
+      "start": 1.72,
+      "end": 2.1
+    },
+    {
+      "word": "have",
+      "start": 2.1,
+      "end": 2.34
+    },
+    {
+      "word": "been",
+      "start": 2.5,
+      "end": 2.68
+    },
+    {
+      "word": "grown",
+      "start": 2.68,
+      "end": 3.0
+    },
+    {
+      "word": "in",
+      "start": 3.0,
+      "end": 3.11
+    },
+    {
+      "word": "the",
+      "start": 3.11,
+      "end": 3.16
+    },
+    {
+      "word": "o-",
+      "start": 3.16,
+      "end": 3.35
+    },
+    {
+      "word": "o-",
+      "start": 3.35,
+      "end": 3.58
+    },
+    {
+      "word": "coast",
+      "start": 3.94,
+      "end": 4.06
+    },
+    {
+      "word": "of",
+      "start": 4.06,
+      "end": 4.22
+    },
+    {
+      "word": "Mexico",
+      "start": 4.22,
+      "end": 4.54
+    },
+    {
+      "word": "since",
+      "start": 4.54,
+      "end": 4.88
+    },
+    {
+      "word": "the",
+      "start": 4.88,
+      "end": 4.98
+    },
+    {
+      "word": "nineteenth",
+      "start": 4.98,
+      "end": 5.32
+    },
+    {
+      "word": "century",
+      "start": 5.32,
+      "end": 5.44
+    },
+    {
+      "word": "since",
+      "start": 5.68,
+      "end": 5.84
+    },
+    {
+      "word": "times",
+      "start": 5.98,
+      "end": 6.16
+    },
+    {
+      "word": "immemorial.",
+      "start": 6.16,
+      "end": 6.54
+    },
+    {
+      "word": "They",
+      "start": 7.22,
+      "end": 7.3
+    },
+    {
+      "word": "have",
+      "start": 7.3,
+      "end": 7.45
+    },
+    {
+      "word": "been",
+      "start": 7.45,
+      "end": 7.62
+    },
+    {
+      "word": "considered",
+      "start": 7.62,
+      "end": 8.24
+    },
+    {
+      "word": "a",
+      "start": 8.24,
+      "end": 8.34
+    },
+    {
+      "word": "rich",
+      "start": 8.34,
+      "end": 8.57
+    },
+    {
+      "word": "source",
+      "start": 8.57,
+      "end": 8.81
+    },
+    {
+      "word": "of",
+      "start": 8.81,
+      "end": 8.94
+    },
+    {
+      "word": "potassium",
+      "start": 8.94,
+      "end": 9.2
+    },
+    {
+      "word": "calcium",
+      "start": 9.44,
+      "end": 9.84
+    },
+    {
+      "word": "for",
+      "start": 9.84,
+      "end": 10.14
+    },
+    {
+      "word": "poor",
+      "start": 10.48,
+      "end": 10.66
+    },
+    {
+      "word": "farmers",
+      "start": 10.82,
+      "end": 11.13
+    },
+    {
+      "word": "immigration",
+      "start": 11.13,
+      "end": 11.24
+    },
+    {
+      "word": "immigrating",
+      "start": 11.88,
+      "end": 12.34
+    },
+    {
+      "word": "from",
+      "start": 12.34,
+      "end": 12.52
+    },
+    {
+      "word": "the",
+      "start": 12.66,
+      "end": 12.8
+    },
+    {
+      "word": "[UH]",
+      "start": 12.8,
+      "end": 12.99
+    },
+    {
+      "word": "South",
+      "start": 12.99,
+      "end": 13.19
+    },
+    {
+      "word": "Americas",
+      "start": 13.19,
+      "end": 13.64
+    },
+    {
+      "word": "[UH]",
+      "start": 14.24,
+      "end": 14.37
+    },
+    {
+      "word": "bananas",
+      "start": 14.37,
+      "end": 14.8
+    },
+    {
+      "word": "are",
+      "start": 14.8,
+      "end": 14.93
+    },
+    {
+      "word": "yellow",
+      "start": 14.93,
+      "end": 15.18
+    },
+    {
+      "word": "in",
+      "start": 15.18,
+      "end": 15.28
+    },
+    {
+      "word": "color",
+      "start": 15.28,
+      "end": 15.44
+    },
+    {
+      "word": "and",
+      "start": 15.44,
+      "end": 15.82
+    },
+    {
+      "word": "are",
+      "start": 15.82,
+      "end": 15.96
+    },
+    {
+      "word": "often",
+      "start": 16.2,
+      "end": 16.46
+    },
+    {
+      "word": "used",
+      "start": 16.46,
+      "end": 16.75
+    },
+    {
+      "word": "in",
+      "start": 16.75,
+      "end": 16.96
+    },
+    {
+      "word": "[UH]",
+      "start": 17.12,
+      "end": 17.29
+    },
+    {
+      "word": "ritualistic",
+      "start": 17.29,
+      "end": 17.81
+    },
+    {
+      "word": "practices",
+      "start": 17.81,
+      "end": 18.28
+    },
+    {
+      "word": "of",
+      "start": 18.28,
+      "end": 18.44
+    },
+    {
+      "word": "the",
+      "start": 18.68,
+      "end": 18.76
+    },
+    {
+      "word": "occult",
+      "start": 18.76,
+      "end": 19.16
+    },
+    {
+      "word": "of",
+      "start": 19.3,
+      "end": 19.45
+    },
+    {
+      "word": "the",
+      "start": 19.45,
+      "end": 19.54
+    },
+    {
+      "word": "coast",
+      "start": 19.64,
+      "end": 19.8
+    },
+    {
+      "word": "of",
+      "start": 19.92,
+      "end": 20.08
+    },
+    {
+      "word": "West",
+      "start": 20.84,
+      "end": 21.0
+    },
+    {
+      "word": "Bengal.",
+      "start": 21.0,
+      "end": 21.36
+    },
+    {
+      "word": "Bengali",
+      "start": 21.84,
+      "end": 22.28
+    },
+    {
+      "word": "farmers",
+      "start": 22.48,
+      "end": 22.8
+    },
+    {
+      "word": "use",
+      "start": 23.0,
+      "end": 23.31
+    },
+    {
+      "word": "bananas",
+      "start": 23.31,
+      "end": 23.82
+    },
+    {
+      "word": "as",
+      "start": 23.82,
+      "end": 23.94
+    },
+    {
+      "word": "a",
+      "start": 23.94,
+      "end": 24.02
+    },
+    {
+      "word": "means",
+      "start": 24.4,
+      "end": 24.53
+    },
+    {
+      "word": "of",
+      "start": 24.53,
+      "end": 24.66
+    },
+    {
+      "word": "summoning",
+      "start": 24.66,
+      "end": 24.98
+    },
+    {
+      "word": "ghosts",
+      "start": 25.08,
+      "end": 25.22
+    },
+    {
+      "word": "when",
+      "start": 25.48,
+      "end": 25.64
+    },
+    {
+      "word": "they",
+      "start": 25.64,
+      "end": 25.79
+    },
+    {
+      "word": "do",
+      "start": 25.79,
+      "end": 25.86
+    },
+    {
+      "word": "not",
+      "start": 25.86,
+      "end": 26.05
+    },
+    {
+      "word": "have",
+      "start": 26.05,
+      "end": 26.24
+    },
+    {
+      "word": "any",
+      "start": 26.24,
+      "end": 26.44
+    },
+    {
+      "word": "other",
+      "start": 26.44,
+      "end": 26.66
+    },
+    {
+      "word": "sacrificial",
+      "start": 26.66,
+      "end": 26.96
+    },
+    {
+      "word": "lambs",
+      "start": 27.2,
+      "end": 27.5
+    },
+    {
+      "word": "around",
+      "start": 27.5,
+      "end": 27.79
+    },
+    {
+      "word": "them.",
+      "start": 27.79,
+      "end": 27.96
+    },
+    {
+      "word": "Bananas",
+      "start": 28.44,
+      "end": 28.78
+    },
+    {
+      "word": "are",
+      "start": 28.78,
+      "end": 28.88
+    },
+    {
+      "word": "also",
+      "start": 28.88,
+      "end": 29.24
+    },
+    {
+      "word": "[UH]",
+      "start": 29.4,
+      "end": 29.58
+    },
+    {
+      "word": "dependent",
+      "start": 29.9,
+      "end": 29.95
+    },
+    {
+      "word": "as",
+      "start": 30.16,
+      "end": 30.46
+    },
+    {
+      "word": "phallic",
+      "start": 30.46,
+      "end": 30.76
+    },
+    {
+      "word": "structures",
+      "start": 30.76,
+      "end": 31.48
+    },
+    {
+      "word": "in",
+      "start": 31.48,
+      "end": 31.72
+    },
+    {
+      "word": "Greek",
+      "start": 31.72,
+      "end": 31.94
+    },
+    {
+      "word": "mythology",
+      "start": 31.94,
+      "end": 32.48
+    },
+    {
+      "word": "for",
+      "start": 32.48,
+      "end": 32.72
+    },
+    {
+      "word": "reasons",
+      "start": 33.1,
+      "end": 33.46
+    },
+    {
+      "word": "unknown.",
+      "start": 33.6,
+      "end": 34.02
+    }
+  ],
+  "intended_text": "Bananas have been grown in the coast of Mexico since the 19th century since times immemorial. They have been considered a rich source of potassium calcium for poor farmers immigrating from the South Americas. Bananas are yellow in color and are often used in ritualistic practices of the occult of the coast of West Bengal. Bengali farmers use bananas as a means of summoning ghosts when they do not have any other sacrificial lambs around them. Bananas are also depicted as phallic structures in Greek mythology for reasons unknown."
+}
