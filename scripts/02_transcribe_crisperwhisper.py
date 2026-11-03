@@ -33,9 +33,29 @@ def package_version(name: str) -> str:
         return "unknown"
 
 
-def words_to_list(words) -> list[dict]:
-    return [{"word": w.word, "start": round(float(w.start), 3), "end": round(float(w.end), 3)}
+def words_to_list(words, offset: float = 0.0) -> list[dict]:
+    return [{"word": w.word, "start": round(float(w.start) + offset, 3), "end": round(float(w.end) + offset, 3)}
             for w in (words or [])]
+
+
+def pause_cuts(x, sr: int, max_len: float = 30.0, window: float = 0.2) -> list[float]:
+    """Cut points (s) so every piece is at most max_len: the quietest `window`-long stretch in the
+    middle third of each over-long piece. Each piece then fits one 30 s Whisper window, so nothing
+    is stitched across windows (the stitch is where the 30-39 s JAM clips looped)."""
+    import numpy as np
+
+    hop = int(sr * 0.01)
+    energy = np.array([np.mean(x[i:i + hop] ** 2) for i in range(0, len(x) - hop + 1, hop)])
+    smooth = np.convolve(energy, np.ones(int(window / 0.01)), mode="same")
+
+    def cut(lo: int, hi: int) -> list[int]:  # in 10 ms frames
+        if (hi - lo) * 0.01 <= max_len:
+            return []
+        a, b = lo + (hi - lo) // 3, lo + 2 * (hi - lo) // 3
+        c = a + int(np.argmin(smooth[a:b]))
+        return cut(lo, c) + [c] + cut(c, hi)
+
+    return [c * 0.01 for c in cut(0, len(smooth))]
 
 
 def write_atomic(path: Path, text: str) -> None:
@@ -60,6 +80,17 @@ def main() -> int:
     ap.add_argument("--dual", action="store_true",
                     help="also store the clean 'intended' transcript from the same pass (ct2 backend only)")
     ap.add_argument("--no-hallucination-mitigation", action="store_true")
+    ap.add_argument("--longform-strategy", default="continuation",
+                    choices=["continuation", "chunked_lcs", "token_lcs"],
+                    help="how audio over 30 s is stitched; the LCS strategies decode each window without "
+                         "the previous text as context, which avoids repetition loops at the boundary")
+    ap.add_argument("--chunk-duration", type=float, default=30.0,
+                    help="long-form window in seconds (<= 30); a shorter window moves the cut away from "
+                         "the end of the 30 s encoder window, where the 30-39 s JAM clips looped")
+    ap.add_argument("--stride", type=float, default=26.0, help="seconds between long-form windows")
+    ap.add_argument("--split-at-pause", action="store_true",
+                    help="cut audio over 30 s at its quietest point near the middle and transcribe each "
+                         "piece in one window (no long-form stitching); word times are shifted back")
     ap.add_argument("--glob", default="*.wav", help="which files in --wav-dir to process")
     ap.add_argument("--limit", type=int, default=None, help="only process the first N files (smoke test)")
     ap.add_argument("--overwrite", action="store_true")
@@ -84,7 +115,9 @@ def main() -> int:
         sys.exit("--dual needs the ct2 backend (transcribe_dual is not available on transformers)")
 
     common = dict(language=args.language, word_timestamps=True,
-                  hallucination_mitigation=not args.no_hallucination_mitigation)
+                  hallucination_mitigation=not args.no_hallucination_mitigation,
+                  longform_strategy=args.longform_strategy,
+                  chunk_duration=args.chunk_duration, stride=args.stride)
     run_info = {
         "model": args.model,
         "backend": model.backend,
@@ -92,16 +125,40 @@ def main() -> int:
         "crisperwhisper_version": package_version("crisperwhisper"),
         "language": args.language,
         "hallucination_mitigation": common["hallucination_mitigation"],
+        "longform_strategy": args.longform_strategy,
+        "chunk_duration": args.chunk_duration,
+        "stride": args.stride,
+        "split_at_pause": args.split_at_pause,
     }
+
+    def run(audio, **kw):
+        if args.dual:
+            return model.transcribe_dual(audio, modes=("verbatim", "intended"), **kw, **common)
+        return model.transcribe(audio, mode=args.mode, **kw, **common), None
 
     failures = []
     for n, wav in enumerate(todo, 1):
         try:
-            intended = None
-            if args.dual:
-                result, intended = model.transcribe_dual(str(wav), modes=("verbatim", "intended"), **common)
+            if args.split_at_pause:
+                import soundfile as sf
+
+                x, sr = sf.read(str(wav), dtype="float32")
+                bounds = [0.0, *pause_cuts(x, sr), len(x) / sr]
+                texts, intended_texts, words, segments, proc = [], [], [], [], 0.0
+                for s, e in zip(bounds, bounds[1:]):
+                    result, intended = run(x[int(s * sr):int(e * sr)], sr=sr)
+                    texts.append(result.text.strip())
+                    intended_texts.append(intended.text.strip() if intended else "")
+                    words += words_to_list(result.words, offset=s)
+                    segments.append([round(s, 3), round(e, 3)])
+                    proc += result.processing_time
+                text, duration = " ".join(t for t in texts if t), len(x) / sr
+                intended_text = " ".join(t for t in intended_texts if t) if args.dual else None
             else:
-                result = model.transcribe(str(wav), mode=args.mode, **common)
+                result, intended = run(str(wav))
+                text, words, segments = result.text, words_to_list(result.words), None
+                duration, proc = result.duration, result.processing_time
+                intended_text = intended.text if intended is not None else None
 
             record = {
                 "id": wav.stem,
@@ -109,17 +166,19 @@ def main() -> int:
                 **run_info,
                 "mode": result.mode,
                 "created": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-                "duration": result.duration,
-                "processing_time": result.processing_time,
-                "text": result.text,
-                "words": words_to_list(result.words),
+                "duration": duration,
+                "processing_time": proc,
+                "text": text,
+                "words": words,
             }
-            if intended is not None:
-                record["intended_text"] = intended.text
+            if segments:
+                record["segments"] = segments
+            if intended_text is not None:
+                record["intended_text"] = intended_text
             write_atomic(args.out_dir / f"{wav.stem}.json", json.dumps(record, ensure_ascii=False, indent=2))
-            write_atomic(args.out_dir / f"{wav.stem}.txt", result.text.strip() + "\n")
+            write_atomic(args.out_dir / f"{wav.stem}.txt", text.strip() + "\n")
             print(f"[{n}/{len(todo)}] {wav.stem}: {len(record['words'])} words, "
-                  f"{result.duration:.1f}s audio in {result.processing_time:.1f}s")
+                  f"{duration:.1f}s audio in {proc:.1f}s")
         except Exception:
             failures.append(wav.stem)
             print(f"[{n}/{len(todo)}] FAILED {wav.stem}\n{traceback.format_exc()}", file=sys.stderr)
