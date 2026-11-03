@@ -1,0 +1,288 @@
+{
+  "id": "abhijith_day1_water_norules",
+  "audio": "data/wav/abhijith_day1_water_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:28:55+00:00",
+  "duration": 30.7,
+  "processing_time": 0.599,
+  "text": "Could not be possible without water. So when scientists look for life outside of earth, they look for signs of liquid water. Liquid water is amazing because it can form hydrogen bonds because of its very high sp- specific heat. We bathe ourselves in liquid water every single day. It has so many purposes.",
+  "words": [
+    {
+      "word": "Could",
+      "start": 0.1,
+      "end": 0.25
+    },
+    {
+      "word": "not",
+      "start": 0.25,
+      "end": 0.48
+    },
+    {
+      "word": "be",
+      "start": 0.48,
+      "end": 0.58
+    },
+    {
+      "word": "possible",
+      "start": 0.7,
+      "end": 1.16
+    },
+    {
+      "word": "without",
+      "start": 1.16,
+      "end": 1.52
+    },
+    {
+      "word": "water.",
+      "start": 1.7,
+      "end": 2.06
+    },
+    {
+      "word": "So",
+      "start": 2.66,
+      "end": 2.82
+    },
+    {
+      "word": "when",
+      "start": 2.82,
+      "end": 3.06
+    },
+    {
+      "word": "scientists",
+      "start": 3.06,
+      "end": 3.77
+    },
+    {
+      "word": "look",
+      "start": 3.77,
+      "end": 3.92
+    },
+    {
+      "word": "for",
+      "start": 4.02,
+      "end": 4.24
+    },
+    {
+      "word": "life",
+      "start": 4.24,
+      "end": 4.6
+    },
+    {
+      "word": "outside",
+      "start": 4.6,
+      "end": 5.14
+    },
+    {
+      "word": "of",
+      "start": 5.14,
+      "end": 5.28
+    },
+    {
+      "word": "earth,",
+      "start": 5.44,
+      "end": 5.6
+    },
+    {
+      "word": "they",
+      "start": 6.12,
+      "end": 6.25
+    },
+    {
+      "word": "look",
+      "start": 6.25,
+      "end": 6.38
+    },
+    {
+      "word": "for",
+      "start": 6.5,
+      "end": 6.64
+    },
+    {
+      "word": "signs",
+      "start": 6.64,
+      "end": 6.92
+    },
+    {
+      "word": "of",
+      "start": 7.2,
+      "end": 7.38
+    },
+    {
+      "word": "liquid",
+      "start": 7.5,
+      "end": 7.89
+    },
+    {
+      "word": "water.",
+      "start": 7.89,
+      "end": 8.36
+    },
+    {
+      "word": "Liquid",
+      "start": 8.92,
+      "end": 9.24
+    },
+    {
+      "word": "water",
+      "start": 9.4,
+      "end": 9.9
+    },
+    {
+      "word": "is",
+      "start": 11.4,
+      "end": 11.56
+    },
+    {
+      "word": "amazing",
+      "start": 11.56,
+      "end": 12.08
+    },
+    {
+      "word": "because",
+      "start": 12.44,
+      "end": 12.84
+    },
+    {
+      "word": "it",
+      "start": 13.64,
+      "end": 13.72
+    },
+    {
+      "word": "can",
+      "start": 13.72,
+      "end": 13.95
+    },
+    {
+      "word": "form",
+      "start": 13.95,
+      "end": 14.16
+    },
+    {
+      "word": "hydrogen",
+      "start": 14.16,
+      "end": 14.56
+    },
+    {
+      "word": "bonds",
+      "start": 14.8,
+      "end": 15.1
+    },
+    {
+      "word": "because",
+      "start": 16.22,
+      "end": 16.58
+    },
+    {
+      "word": "of",
+      "start": 16.7,
+      "end": 16.9
+    },
+    {
+      "word": "its",
+      "start": 16.9,
+      "end": 17.2
+    },
+    {
+      "word": "very",
+      "start": 18.42,
+      "end": 18.7
+    },
+    {
+      "word": "high",
+      "start": 18.94,
+      "end": 19.4
+    },
+    {
+      "word": "sp-",
+      "start": 20.2,
+      "end": 20.38
+    },
+    {
+      "word": "specific",
+      "start": 20.98,
+      "end": 21.06
+    },
+    {
+      "word": "heat.",
+      "start": 21.5,
+      "end": 21.78
+    },
+    {
+      "word": "We",
+      "start": 23.6,
+      "end": 23.76
+    },
+    {
+      "word": "bathe",
+      "start": 23.76,
+      "end": 24.06
+    },
+    {
+      "word": "ourselves",
+      "start": 24.06,
+      "end": 24.42
+    },
+    {
+      "word": "in",
+      "start": 24.58,
+      "end": 24.66
+    },
+    {
+      "word": "liquid",
+      "start": 24.66,
+      "end": 25.02
+    },
+    {
+      "word": "water",
+      "start": 25.02,
+      "end": 25.38
+    },
+    {
+      "word": "every",
+      "start": 25.38,
+      "end": 25.68
+    },
+    {
+      "word": "single",
+      "start": 25.68,
+      "end": 25.96
+    },
+    {
+      "word": "day.",
+      "start": 26.1,
+      "end": 26.36
+    },
+    {
+      "word": "It",
+      "start": 26.92,
+      "end": 27.0
+    },
+    {
+      "word": "has",
+      "start": 27.1,
+      "end": 27.3
+    },
+    {
+      "word": "so",
+      "start": 27.3,
+      "end": 27.52
+    },
+    {
+      "word": "many",
+      "start": 27.52,
+      "end": 27.76
+    },
+    {
+      "word": "purposes.",
+      "start": 27.76,
+      "end": 30.7
+    }
+  ],
+  "intended_text": "Could not be possible without water. So when scientists look for life outside of earth, they look for signs of liquid water. Liquid water is amazing because it can form hydrogen bonds because of its very high specific heat. We bathe ourselves in liquid water every single day. It has so many purposes."
+}

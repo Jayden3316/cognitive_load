@@ -1,0 +1,383 @@
+{
+  "id": "ranesh_na_banana_norules",
+  "audio": "data/wav/ranesh_na_banana_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:07+00:00",
+  "duration": 29.8866875,
+  "processing_time": 0.543,
+  "text": "Bananas are yellow fruits which are a staple for much of Indian households consumed regularly during marriages, festivals and so on and so forth. Now bananas are come in a variety of sizes such as [UH] including small ones which are most commonly served in temples and the like and larger more sweet ones. Initially bananas had seeds however genetic modification has rendered their seeds much smaller than they originally were.",
+  "words": [
+    {
+      "word": "Bananas",
+      "start": 0.58,
+      "end": 1.04
+    },
+    {
+      "word": "are",
+      "start": 1.16,
+      "end": 1.34
+    },
+    {
+      "word": "yellow",
+      "start": 1.34,
+      "end": 1.62
+    },
+    {
+      "word": "fruits",
+      "start": 1.62,
+      "end": 1.94
+    },
+    {
+      "word": "which",
+      "start": 2.74,
+      "end": 2.86
+    },
+    {
+      "word": "are",
+      "start": 3.34,
+      "end": 3.54
+    },
+    {
+      "word": "a",
+      "start": 3.54,
+      "end": 3.62
+    },
+    {
+      "word": "staple",
+      "start": 3.62,
+      "end": 4.06
+    },
+    {
+      "word": "for",
+      "start": 4.06,
+      "end": 4.22
+    },
+    {
+      "word": "much",
+      "start": 4.22,
+      "end": 4.38
+    },
+    {
+      "word": "of",
+      "start": 4.38,
+      "end": 4.46
+    },
+    {
+      "word": "Indian",
+      "start": 4.46,
+      "end": 4.69
+    },
+    {
+      "word": "households",
+      "start": 4.69,
+      "end": 5.1
+    },
+    {
+      "word": "consumed",
+      "start": 5.32,
+      "end": 5.75
+    },
+    {
+      "word": "regularly",
+      "start": 5.75,
+      "end": 6.14
+    },
+    {
+      "word": "during",
+      "start": 6.4,
+      "end": 6.64
+    },
+    {
+      "word": "marriages,",
+      "start": 7.4,
+      "end": 8.06
+    },
+    {
+      "word": "festivals",
+      "start": 8.06,
+      "end": 8.24
+    },
+    {
+      "word": "and",
+      "start": 8.72,
+      "end": 9.0
+    },
+    {
+      "word": "so",
+      "start": 9.0,
+      "end": 9.24
+    },
+    {
+      "word": "on",
+      "start": 9.24,
+      "end": 9.4
+    },
+    {
+      "word": "and",
+      "start": 9.4,
+      "end": 9.46
+    },
+    {
+      "word": "so",
+      "start": 9.46,
+      "end": 9.69
+    },
+    {
+      "word": "forth.",
+      "start": 9.69,
+      "end": 9.88
+    },
+    {
+      "word": "Now",
+      "start": 10.66,
+      "end": 10.8
+    },
+    {
+      "word": "bananas",
+      "start": 11.38,
+      "end": 11.9
+    },
+    {
+      "word": "are",
+      "start": 12.28,
+      "end": 12.54
+    },
+    {
+      "word": "come",
+      "start": 12.54,
+      "end": 12.58
+    },
+    {
+      "word": "in",
+      "start": 12.92,
+      "end": 13.06
+    },
+    {
+      "word": "a",
+      "start": 13.06,
+      "end": 13.14
+    },
+    {
+      "word": "variety",
+      "start": 13.14,
+      "end": 13.4
+    },
+    {
+      "word": "of",
+      "start": 13.54,
+      "end": 13.69
+    },
+    {
+      "word": "sizes",
+      "start": 13.69,
+      "end": 14.02
+    },
+    {
+      "word": "such",
+      "start": 14.5,
+      "end": 14.68
+    },
+    {
+      "word": "as",
+      "start": 14.68,
+      "end": 14.96
+    },
+    {
+      "word": "[UH]",
+      "start": 15.82,
+      "end": 15.96
+    },
+    {
+      "word": "including",
+      "start": 15.96,
+      "end": 16.22
+    },
+    {
+      "word": "small",
+      "start": 16.36,
+      "end": 16.68
+    },
+    {
+      "word": "ones",
+      "start": 16.68,
+      "end": 16.85
+    },
+    {
+      "word": "which",
+      "start": 16.85,
+      "end": 17.0
+    },
+    {
+      "word": "are",
+      "start": 17.0,
+      "end": 17.1
+    },
+    {
+      "word": "most",
+      "start": 17.1,
+      "end": 17.34
+    },
+    {
+      "word": "commonly",
+      "start": 17.34,
+      "end": 17.54
+    },
+    {
+      "word": "served",
+      "start": 17.7,
+      "end": 17.8
+    },
+    {
+      "word": "in",
+      "start": 17.92,
+      "end": 18.05
+    },
+    {
+      "word": "temples",
+      "start": 18.05,
+      "end": 18.4
+    },
+    {
+      "word": "and",
+      "start": 18.4,
+      "end": 18.5
+    },
+    {
+      "word": "the",
+      "start": 18.5,
+      "end": 18.64
+    },
+    {
+      "word": "like",
+      "start": 18.64,
+      "end": 18.82
+    },
+    {
+      "word": "and",
+      "start": 19.18,
+      "end": 19.34
+    },
+    {
+      "word": "larger",
+      "start": 19.34,
+      "end": 19.74
+    },
+    {
+      "word": "more",
+      "start": 20.22,
+      "end": 20.26
+    },
+    {
+      "word": "sweet",
+      "start": 20.26,
+      "end": 20.4
+    },
+    {
+      "word": "ones.",
+      "start": 20.82,
+      "end": 20.96
+    },
+    {
+      "word": "Initially",
+      "start": 21.36,
+      "end": 21.8
+    },
+    {
+      "word": "bananas",
+      "start": 22.3,
+      "end": 22.67
+    },
+    {
+      "word": "had",
+      "start": 22.67,
+      "end": 22.8
+    },
+    {
+      "word": "seeds",
+      "start": 23.0,
+      "end": 23.02
+    },
+    {
+      "word": "however",
+      "start": 23.22,
+      "end": 23.3
+    },
+    {
+      "word": "genetic",
+      "start": 23.3,
+      "end": 23.82
+    },
+    {
+      "word": "modification",
+      "start": 24.04,
+      "end": 24.14
+    },
+    {
+      "word": "has",
+      "start": 25.18,
+      "end": 25.54
+    },
+    {
+      "word": "rendered",
+      "start": 25.7,
+      "end": 25.96
+    },
+    {
+      "word": "their",
+      "start": 26.06,
+      "end": 26.2
+    },
+    {
+      "word": "seeds",
+      "start": 26.2,
+      "end": 26.52
+    },
+    {
+      "word": "much",
+      "start": 26.72,
+      "end": 26.99
+    },
+    {
+      "word": "smaller",
+      "start": 26.99,
+      "end": 27.28
+    },
+    {
+      "word": "than",
+      "start": 27.88,
+      "end": 28.07
+    },
+    {
+      "word": "they",
+      "start": 28.07,
+      "end": 28.24
+    },
+    {
+      "word": "originally",
+      "start": 28.24,
+      "end": 28.3
+    },
+    {
+      "word": "were.",
+      "start": 28.8,
+      "end": 28.9
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      29.887
+    ]
+  ],
+  "intended_text": "Bananas are yellow fruits which are a staple for much of Indian households consumed regularly during marriages festivals and so on and so forth. Now bananas come in a variety of sizes such as including small ones which are most commonly served in temples and the like and larger more sweet ones. Initially bananas had seeds. However, genetic modification has rendered their seeds much smaller than they originally were."
+}

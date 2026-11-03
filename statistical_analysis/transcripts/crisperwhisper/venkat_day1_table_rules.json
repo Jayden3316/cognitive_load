@@ -1,0 +1,582 @@
+{
+  "id": "venkat_day1_table_rules",
+  "audio": "data/wav/venkat_day1_table_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:22+00:00",
+  "duration": 33.1293125,
+  "processing_time": 0.919,
+  "text": "Tables have been a responsible source of sourcing ethical wood since times immemorial. Tables have been found off the coast of Siberia where they have been used to store [UH] store food items to protect themselves against the perishing cold. However, tables have been used by nobility and the Eastern Roman Empire to document their ideas and used as a place to store all of their manuscripts. [UH] tables also come in association with chairs where one sits on a chair and one writes on a table. However, this has been replaced by a knowledge worker who co- works on the computer and therefore eliminates the need of using tables.",
+  "words": [
+    {
+      "word": "Tables",
+      "start": 0.46,
+      "end": 0.8
+    },
+    {
+      "word": "have",
+      "start": 0.8,
+      "end": 1.02
+    },
+    {
+      "word": "been",
+      "start": 1.02,
+      "end": 1.34
+    },
+    {
+      "word": "a",
+      "start": 1.34,
+      "end": 1.48
+    },
+    {
+      "word": "responsible",
+      "start": 1.48,
+      "end": 2.14
+    },
+    {
+      "word": "source",
+      "start": 2.14,
+      "end": 2.5
+    },
+    {
+      "word": "of",
+      "start": 2.5,
+      "end": 2.74
+    },
+    {
+      "word": "sourcing",
+      "start": 2.98,
+      "end": 3.46
+    },
+    {
+      "word": "ethical",
+      "start": 3.46,
+      "end": 3.88
+    },
+    {
+      "word": "wood",
+      "start": 3.88,
+      "end": 4.06
+    },
+    {
+      "word": "since",
+      "start": 4.06,
+      "end": 4.34
+    },
+    {
+      "word": "times",
+      "start": 4.34,
+      "end": 4.6
+    },
+    {
+      "word": "immemorial.",
+      "start": 4.6,
+      "end": 5.14
+    },
+    {
+      "word": "Tables",
+      "start": 5.48,
+      "end": 5.82
+    },
+    {
+      "word": "have",
+      "start": 5.82,
+      "end": 6.04
+    },
+    {
+      "word": "been",
+      "start": 6.04,
+      "end": 6.28
+    },
+    {
+      "word": "found",
+      "start": 6.28,
+      "end": 6.58
+    },
+    {
+      "word": "off",
+      "start": 6.58,
+      "end": 6.8
+    },
+    {
+      "word": "the",
+      "start": 6.8,
+      "end": 6.9
+    },
+    {
+      "word": "coast",
+      "start": 6.9,
+      "end": 7.2
+    },
+    {
+      "word": "of",
+      "start": 7.2,
+      "end": 7.3
+    },
+    {
+      "word": "Siberia",
+      "start": 7.3,
+      "end": 7.8
+    },
+    {
+      "word": "where",
+      "start": 7.8,
+      "end": 8.02
+    },
+    {
+      "word": "they",
+      "start": 8.02,
+      "end": 8.2
+    },
+    {
+      "word": "have",
+      "start": 8.2,
+      "end": 8.32
+    },
+    {
+      "word": "been",
+      "start": 8.32,
+      "end": 8.52
+    },
+    {
+      "word": "used",
+      "start": 8.52,
+      "end": 8.89
+    },
+    {
+      "word": "to",
+      "start": 8.89,
+      "end": 8.98
+    },
+    {
+      "word": "store",
+      "start": 8.98,
+      "end": 9.24
+    },
+    {
+      "word": "[UH]",
+      "start": 10.0,
+      "end": 10.42
+    },
+    {
+      "word": "store",
+      "start": 10.92,
+      "end": 11.34
+    },
+    {
+      "word": "food",
+      "start": 11.34,
+      "end": 11.6
+    },
+    {
+      "word": "items",
+      "start": 11.6,
+      "end": 11.94
+    },
+    {
+      "word": "to",
+      "start": 12.22,
+      "end": 12.34
+    },
+    {
+      "word": "protect",
+      "start": 12.34,
+      "end": 12.74
+    },
+    {
+      "word": "themselves",
+      "start": 12.74,
+      "end": 13.16
+    },
+    {
+      "word": "against",
+      "start": 13.16,
+      "end": 13.44
+    },
+    {
+      "word": "the",
+      "start": 13.44,
+      "end": 13.54
+    },
+    {
+      "word": "perishing",
+      "start": 13.54,
+      "end": 13.93
+    },
+    {
+      "word": "cold.",
+      "start": 13.93,
+      "end": 14.22
+    },
+    {
+      "word": "However,",
+      "start": 14.58,
+      "end": 15.02
+    },
+    {
+      "word": "tables",
+      "start": 15.02,
+      "end": 15.38
+    },
+    {
+      "word": "have",
+      "start": 15.38,
+      "end": 15.5
+    },
+    {
+      "word": "been",
+      "start": 15.5,
+      "end": 15.68
+    },
+    {
+      "word": "used",
+      "start": 15.68,
+      "end": 16.06
+    },
+    {
+      "word": "by",
+      "start": 16.06,
+      "end": 16.22
+    },
+    {
+      "word": "nobility",
+      "start": 16.22,
+      "end": 16.76
+    },
+    {
+      "word": "and",
+      "start": 16.76,
+      "end": 16.98
+    },
+    {
+      "word": "the",
+      "start": 16.98,
+      "end": 17.12
+    },
+    {
+      "word": "Eastern",
+      "start": 17.12,
+      "end": 17.44
+    },
+    {
+      "word": "Roman",
+      "start": 17.44,
+      "end": 17.72
+    },
+    {
+      "word": "Empire",
+      "start": 17.72,
+      "end": 18.21
+    },
+    {
+      "word": "to",
+      "start": 18.21,
+      "end": 18.32
+    },
+    {
+      "word": "document",
+      "start": 18.32,
+      "end": 18.78
+    },
+    {
+      "word": "their",
+      "start": 18.78,
+      "end": 18.96
+    },
+    {
+      "word": "ideas",
+      "start": 18.96,
+      "end": 19.43
+    },
+    {
+      "word": "and",
+      "start": 19.43,
+      "end": 19.64
+    },
+    {
+      "word": "used",
+      "start": 19.64,
+      "end": 19.88
+    },
+    {
+      "word": "as",
+      "start": 19.88,
+      "end": 20.0
+    },
+    {
+      "word": "a",
+      "start": 20.0,
+      "end": 20.06
+    },
+    {
+      "word": "place",
+      "start": 20.2,
+      "end": 20.52
+    },
+    {
+      "word": "to",
+      "start": 20.52,
+      "end": 20.62
+    },
+    {
+      "word": "store",
+      "start": 20.62,
+      "end": 20.84
+    },
+    {
+      "word": "all",
+      "start": 20.84,
+      "end": 20.94
+    },
+    {
+      "word": "of",
+      "start": 20.94,
+      "end": 21.06
+    },
+    {
+      "word": "their",
+      "start": 21.06,
+      "end": 21.22
+    },
+    {
+      "word": "manuscripts.",
+      "start": 21.22,
+      "end": 21.9
+    },
+    {
+      "word": "[UH]",
+      "start": 22.22,
+      "end": 22.34
+    },
+    {
+      "word": "tables",
+      "start": 22.34,
+      "end": 22.66
+    },
+    {
+      "word": "also",
+      "start": 22.66,
+      "end": 22.96
+    },
+    {
+      "word": "come",
+      "start": 22.96,
+      "end": 23.22
+    },
+    {
+      "word": "in",
+      "start": 23.22,
+      "end": 23.38
+    },
+    {
+      "word": "association",
+      "start": 23.38,
+      "end": 23.9
+    },
+    {
+      "word": "with",
+      "start": 23.9,
+      "end": 24.08
+    },
+    {
+      "word": "chairs",
+      "start": 24.08,
+      "end": 24.46
+    },
+    {
+      "word": "where",
+      "start": 24.46,
+      "end": 24.66
+    },
+    {
+      "word": "one",
+      "start": 24.66,
+      "end": 24.92
+    },
+    {
+      "word": "sits",
+      "start": 24.92,
+      "end": 25.24
+    },
+    {
+      "word": "on",
+      "start": 25.24,
+      "end": 25.38
+    },
+    {
+      "word": "a",
+      "start": 25.38,
+      "end": 25.48
+    },
+    {
+      "word": "chair",
+      "start": 25.48,
+      "end": 25.84
+    },
+    {
+      "word": "and",
+      "start": 25.84,
+      "end": 26.0
+    },
+    {
+      "word": "one",
+      "start": 26.0,
+      "end": 26.2
+    },
+    {
+      "word": "writes",
+      "start": 26.2,
+      "end": 26.52
+    },
+    {
+      "word": "on",
+      "start": 26.52,
+      "end": 26.62
+    },
+    {
+      "word": "a",
+      "start": 26.62,
+      "end": 26.73
+    },
+    {
+      "word": "table.",
+      "start": 26.73,
+      "end": 27.04
+    },
+    {
+      "word": "However,",
+      "start": 27.38,
+      "end": 27.78
+    },
+    {
+      "word": "this",
+      "start": 27.78,
+      "end": 27.98
+    },
+    {
+      "word": "has",
+      "start": 27.98,
+      "end": 28.14
+    },
+    {
+      "word": "been",
+      "start": 28.14,
+      "end": 28.36
+    },
+    {
+      "word": "replaced",
+      "start": 28.36,
+      "end": 28.88
+    },
+    {
+      "word": "by",
+      "start": 28.88,
+      "end": 29.0
+    },
+    {
+      "word": "a",
+      "start": 29.0,
+      "end": 29.1
+    },
+    {
+      "word": "knowledge",
+      "start": 29.1,
+      "end": 29.44
+    },
+    {
+      "word": "worker",
+      "start": 29.44,
+      "end": 29.8
+    },
+    {
+      "word": "who",
+      "start": 29.8,
+      "end": 29.96
+    },
+    {
+      "word": "co-",
+      "start": 29.96,
+      "end": 30.12
+    },
+    {
+      "word": "works",
+      "start": 30.12,
+      "end": 30.44
+    },
+    {
+      "word": "on",
+      "start": 30.44,
+      "end": 30.54
+    },
+    {
+      "word": "the",
+      "start": 30.54,
+      "end": 30.62
+    },
+    {
+      "word": "computer",
+      "start": 30.62,
+      "end": 31.04
+    },
+    {
+      "word": "and",
+      "start": 31.04,
+      "end": 31.18
+    },
+    {
+      "word": "therefore",
+      "start": 31.18,
+      "end": 31.44
+    },
+    {
+      "word": "eliminates",
+      "start": 31.44,
+      "end": 31.84
+    },
+    {
+      "word": "the",
+      "start": 31.84,
+      "end": 31.94
+    },
+    {
+      "word": "need",
+      "start": 31.94,
+      "end": 32.12
+    },
+    {
+      "word": "of",
+      "start": 32.12,
+      "end": 32.22
+    },
+    {
+      "word": "using",
+      "start": 32.22,
+      "end": 32.44
+    },
+    {
+      "word": "tables.",
+      "start": 32.44,
+      "end": 32.86
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      21.92
+    ],
+    [
+      21.92,
+      33.129
+    ]
+  ],
+  "intended_text": "Tables have been a responsible source of sourcing ethical wood since times immemorial. Tables have been found off the coast of Siberia where they have been used to store food items to protect themselves against the perishing cold. However tables have been used by nobility and the Eastern Roman Empire to document their ideas and used as a place to store all of their manuscripts. Tables also come in association with chairs where one sits on a chair and one writes on a table. However, this has been replaced by a knowledge worker who works on the computer and therefore eliminates the need of using tables."
+}

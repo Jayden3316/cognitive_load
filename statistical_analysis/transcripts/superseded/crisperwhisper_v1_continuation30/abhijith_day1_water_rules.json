@@ -1,0 +1,298 @@
+{
+  "id": "abhijith_day1_water_rules",
+  "audio": "data/wav/abhijith_day1_water_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:28:56+00:00",
+  "duration": 31.66,
+  "processing_time": 0.641,
+  "text": "Water is essential for life on earth and any other planet. Water is so amazing because of its ability to form hydrogen bonds and its very high specific heat capacity. Water is used for various purposes throughout the day. Water is drunk, water can be used to drink, bath, clean and we cannot live without water.",
+  "words": [
+    {
+      "word": "Water",
+      "start": 0.1,
+      "end": 0.44
+    },
+    {
+      "word": "is",
+      "start": 0.56,
+      "end": 0.98
+    },
+    {
+      "word": "essential",
+      "start": 0.98,
+      "end": 1.54
+    },
+    {
+      "word": "for",
+      "start": 1.66,
+      "end": 1.82
+    },
+    {
+      "word": "life",
+      "start": 1.82,
+      "end": 2.15
+    },
+    {
+      "word": "on",
+      "start": 2.15,
+      "end": 2.32
+    },
+    {
+      "word": "earth",
+      "start": 2.42,
+      "end": 2.62
+    },
+    {
+      "word": "and",
+      "start": 3.2,
+      "end": 3.38
+    },
+    {
+      "word": "any",
+      "start": 3.38,
+      "end": 3.66
+    },
+    {
+      "word": "other",
+      "start": 3.66,
+      "end": 3.94
+    },
+    {
+      "word": "planet.",
+      "start": 4.12,
+      "end": 4.48
+    },
+    {
+      "word": "Water",
+      "start": 5.14,
+      "end": 5.64
+    },
+    {
+      "word": "is",
+      "start": 5.84,
+      "end": 5.98
+    },
+    {
+      "word": "so",
+      "start": 5.98,
+      "end": 6.2
+    },
+    {
+      "word": "amazing",
+      "start": 6.2,
+      "end": 6.7
+    },
+    {
+      "word": "because",
+      "start": 6.9,
+      "end": 7.34
+    },
+    {
+      "word": "of",
+      "start": 7.34,
+      "end": 7.53
+    },
+    {
+      "word": "its",
+      "start": 7.53,
+      "end": 7.85
+    },
+    {
+      "word": "ability",
+      "start": 7.85,
+      "end": 8.14
+    },
+    {
+      "word": "to",
+      "start": 8.46,
+      "end": 8.59
+    },
+    {
+      "word": "form",
+      "start": 8.59,
+      "end": 8.87
+    },
+    {
+      "word": "hydrogen",
+      "start": 8.87,
+      "end": 9.42
+    },
+    {
+      "word": "bonds",
+      "start": 9.6,
+      "end": 10.0
+    },
+    {
+      "word": "and",
+      "start": 10.38,
+      "end": 10.54
+    },
+    {
+      "word": "its",
+      "start": 10.54,
+      "end": 10.78
+    },
+    {
+      "word": "very",
+      "start": 10.78,
+      "end": 11.1
+    },
+    {
+      "word": "high",
+      "start": 11.24,
+      "end": 11.42
+    },
+    {
+      "word": "specific",
+      "start": 11.42,
+      "end": 11.86
+    },
+    {
+      "word": "heat",
+      "start": 12.16,
+      "end": 12.32
+    },
+    {
+      "word": "capacity.",
+      "start": 12.52,
+      "end": 12.88
+    },
+    {
+      "word": "Water",
+      "start": 13.96,
+      "end": 14.5
+    },
+    {
+      "word": "is",
+      "start": 14.68,
+      "end": 14.85
+    },
+    {
+      "word": "used",
+      "start": 14.85,
+      "end": 15.3
+    },
+    {
+      "word": "for",
+      "start": 15.64,
+      "end": 15.86
+    },
+    {
+      "word": "various",
+      "start": 15.86,
+      "end": 16.28
+    },
+    {
+      "word": "purposes",
+      "start": 16.42,
+      "end": 16.88
+    },
+    {
+      "word": "throughout",
+      "start": 17.02,
+      "end": 17.24
+    },
+    {
+      "word": "the",
+      "start": 17.48,
+      "end": 17.64
+    },
+    {
+      "word": "day.",
+      "start": 17.64,
+      "end": 17.94
+    },
+    {
+      "word": "Water",
+      "start": 18.58,
+      "end": 18.96
+    },
+    {
+      "word": "is",
+      "start": 19.46,
+      "end": 19.66
+    },
+    {
+      "word": "drunk,",
+      "start": 20.0,
+      "end": 20.26
+    },
+    {
+      "word": "water",
+      "start": 22.08,
+      "end": 22.29
+    },
+    {
+      "word": "can",
+      "start": 22.29,
+      "end": 22.63
+    },
+    {
+      "word": "be",
+      "start": 22.63,
+      "end": 22.82
+    },
+    {
+      "word": "used",
+      "start": 22.82,
+      "end": 23.04
+    },
+    {
+      "word": "to",
+      "start": 23.18,
+      "end": 23.29
+    },
+    {
+      "word": "drink,",
+      "start": 23.29,
+      "end": 23.46
+    },
+    {
+      "word": "bath,",
+      "start": 24.46,
+      "end": 25.0
+    },
+    {
+      "word": "clean",
+      "start": 25.9,
+      "end": 26.38
+    },
+    {
+      "word": "and",
+      "start": 27.88,
+      "end": 28.12
+    },
+    {
+      "word": "we",
+      "start": 29.2,
+      "end": 29.42
+    },
+    {
+      "word": "cannot",
+      "start": 29.42,
+      "end": 29.86
+    },
+    {
+      "word": "live",
+      "start": 29.86,
+      "end": 29.98
+    },
+    {
+      "word": "without",
+      "start": 30.02,
+      "end": 30.38
+    },
+    {
+      "word": "water.",
+      "start": 30.38,
+      "end": 31.64
+    }
+  ],
+  "intended_text": "Water is essential for life on earth and any other planet. Water is so amazing because of its ability to form hydrogen bonds and its very high specific heat capacity. Water is used for various purposes throughout the day. Water is drunk. Water can be used to drink, bath, clean, and we cannot live without water."
+}

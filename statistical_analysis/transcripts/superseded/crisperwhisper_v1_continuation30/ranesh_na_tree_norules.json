@@ -1,0 +1,413 @@
+{
+  "id": "ranesh_na_tree_norules",
+  "audio": "data/wav/ranesh_na_tree_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:08+00:00",
+  "duration": 30.4,
+  "processing_time": 0.762,
+  "text": "There are a lot of trees in the world. They [UH] are spread world over from the rain forest of the Amazon to even the deserts of the Sahara and everything in between. There are very few places without trees [UH] with the Arctic [UH] Antarctic being one of the premier examples [UH] Trees are used for a lot of things such as providing wood for fires and furnaces and [UH] making a wood pulp and to make tables.",
+  "words": [
+    {
+      "word": "There",
+      "start": 0.62,
+      "end": 0.82
+    },
+    {
+      "word": "are",
+      "start": 0.82,
+      "end": 0.96
+    },
+    {
+      "word": "a",
+      "start": 0.96,
+      "end": 1.12
+    },
+    {
+      "word": "lot",
+      "start": 1.12,
+      "end": 1.3
+    },
+    {
+      "word": "of",
+      "start": 1.3,
+      "end": 1.42
+    },
+    {
+      "word": "trees",
+      "start": 1.42,
+      "end": 1.88
+    },
+    {
+      "word": "in",
+      "start": 1.88,
+      "end": 2.08
+    },
+    {
+      "word": "the",
+      "start": 2.08,
+      "end": 2.2
+    },
+    {
+      "word": "world.",
+      "start": 2.2,
+      "end": 2.26
+    },
+    {
+      "word": "They",
+      "start": 3.28,
+      "end": 3.66
+    },
+    {
+      "word": "[UH]",
+      "start": 4.0,
+      "end": 4.21
+    },
+    {
+      "word": "are",
+      "start": 4.21,
+      "end": 4.38
+    },
+    {
+      "word": "spread",
+      "start": 4.38,
+      "end": 4.72
+    },
+    {
+      "word": "world",
+      "start": 4.72,
+      "end": 5.0
+    },
+    {
+      "word": "over",
+      "start": 5.0,
+      "end": 5.28
+    },
+    {
+      "word": "from",
+      "start": 5.76,
+      "end": 6.0
+    },
+    {
+      "word": "the",
+      "start": 6.18,
+      "end": 6.3
+    },
+    {
+      "word": "rain",
+      "start": 6.4,
+      "end": 6.54
+    },
+    {
+      "word": "forest",
+      "start": 6.54,
+      "end": 6.96
+    },
+    {
+      "word": "of",
+      "start": 6.96,
+      "end": 7.04
+    },
+    {
+      "word": "the",
+      "start": 7.04,
+      "end": 7.16
+    },
+    {
+      "word": "Amazon",
+      "start": 7.16,
+      "end": 7.66
+    },
+    {
+      "word": "to",
+      "start": 8.2,
+      "end": 8.28
+    },
+    {
+      "word": "even",
+      "start": 8.28,
+      "end": 8.5
+    },
+    {
+      "word": "the",
+      "start": 8.5,
+      "end": 8.64
+    },
+    {
+      "word": "deserts",
+      "start": 8.64,
+      "end": 9.08
+    },
+    {
+      "word": "of",
+      "start": 9.08,
+      "end": 9.16
+    },
+    {
+      "word": "the",
+      "start": 9.16,
+      "end": 9.26
+    },
+    {
+      "word": "Sahara",
+      "start": 9.26,
+      "end": 9.78
+    },
+    {
+      "word": "and",
+      "start": 9.94,
+      "end": 10.06
+    },
+    {
+      "word": "everything",
+      "start": 10.06,
+      "end": 10.42
+    },
+    {
+      "word": "in",
+      "start": 10.42,
+      "end": 10.56
+    },
+    {
+      "word": "between.",
+      "start": 10.76,
+      "end": 10.86
+    },
+    {
+      "word": "There",
+      "start": 11.56,
+      "end": 11.72
+    },
+    {
+      "word": "are",
+      "start": 11.72,
+      "end": 11.82
+    },
+    {
+      "word": "very",
+      "start": 11.82,
+      "end": 12.02
+    },
+    {
+      "word": "few",
+      "start": 12.02,
+      "end": 12.2
+    },
+    {
+      "word": "places",
+      "start": 12.36,
+      "end": 12.54
+    },
+    {
+      "word": "without",
+      "start": 12.66,
+      "end": 12.88
+    },
+    {
+      "word": "trees",
+      "start": 13.3,
+      "end": 13.3
+    },
+    {
+      "word": "[UH]",
+      "start": 13.6,
+      "end": 13.9
+    },
+    {
+      "word": "with",
+      "start": 14.38,
+      "end": 14.6
+    },
+    {
+      "word": "the",
+      "start": 15.12,
+      "end": 15.2
+    },
+    {
+      "word": "Arctic",
+      "start": 15.2,
+      "end": 15.5
+    },
+    {
+      "word": "[UH]",
+      "start": 15.62,
+      "end": 15.7
+    },
+    {
+      "word": "Antarctic",
+      "start": 15.7,
+      "end": 16.1
+    },
+    {
+      "word": "being",
+      "start": 16.32,
+      "end": 16.46
+    },
+    {
+      "word": "one",
+      "start": 16.46,
+      "end": 16.6
+    },
+    {
+      "word": "of",
+      "start": 16.6,
+      "end": 16.68
+    },
+    {
+      "word": "the",
+      "start": 16.68,
+      "end": 16.81
+    },
+    {
+      "word": "premier",
+      "start": 16.81,
+      "end": 17.04
+    },
+    {
+      "word": "examples",
+      "start": 17.04,
+      "end": 17.16
+    },
+    {
+      "word": "[UH]",
+      "start": 18.32,
+      "end": 18.48
+    },
+    {
+      "word": "Trees",
+      "start": 19.42,
+      "end": 19.76
+    },
+    {
+      "word": "are",
+      "start": 19.76,
+      "end": 19.96
+    },
+    {
+      "word": "used",
+      "start": 20.14,
+      "end": 20.55
+    },
+    {
+      "word": "for",
+      "start": 20.55,
+      "end": 20.68
+    },
+    {
+      "word": "a",
+      "start": 20.68,
+      "end": 20.78
+    },
+    {
+      "word": "lot",
+      "start": 20.78,
+      "end": 20.98
+    },
+    {
+      "word": "of",
+      "start": 20.98,
+      "end": 21.04
+    },
+    {
+      "word": "things",
+      "start": 21.14,
+      "end": 21.42
+    },
+    {
+      "word": "such",
+      "start": 21.54,
+      "end": 21.74
+    },
+    {
+      "word": "as",
+      "start": 21.74,
+      "end": 21.98
+    },
+    {
+      "word": "providing",
+      "start": 22.18,
+      "end": 22.42
+    },
+    {
+      "word": "wood",
+      "start": 22.64,
+      "end": 22.8
+    },
+    {
+      "word": "for",
+      "start": 22.98,
+      "end": 23.16
+    },
+    {
+      "word": "fires",
+      "start": 23.4,
+      "end": 23.62
+    },
+    {
+      "word": "and",
+      "start": 23.8,
+      "end": 23.88
+    },
+    {
+      "word": "furnaces",
+      "start": 23.98,
+      "end": 24.14
+    },
+    {
+      "word": "and",
+      "start": 24.92,
+      "end": 25.16
+    },
+    {
+      "word": "[UH]",
+      "start": 25.56,
+      "end": 25.68
+    },
+    {
+      "word": "making",
+      "start": 26.1,
+      "end": 26.42
+    },
+    {
+      "word": "a",
+      "start": 26.6,
+      "end": 26.8
+    },
+    {
+      "word": "wood",
+      "start": 27.12,
+      "end": 27.18
+    },
+    {
+      "word": "pulp",
+      "start": 27.34,
+      "end": 27.56
+    },
+    {
+      "word": "and",
+      "start": 28.34,
+      "end": 28.46
+    },
+    {
+      "word": "to",
+      "start": 28.84,
+      "end": 28.92
+    },
+    {
+      "word": "make",
+      "start": 28.92,
+      "end": 29.14
+    },
+    {
+      "word": "tables.",
+      "start": 29.14,
+      "end": 30.38
+    }
+  ],
+  "intended_text": "There are a lot of trees in the world. They are spread world over from the rain forests of the Amazon to even the deserts of the Sahara and everything in between. There are very few places without trees with the Arctic being one of the premier examples. Trees are used for a lot of things such as providing wood for fires and furnaces and making wood pulp and to make tables."
+}

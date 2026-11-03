@@ -1,0 +1,513 @@
+{
+  "id": "akshara_day1_tree_norules",
+  "audio": "data/wav/akshara_day1_tree_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:01+00:00",
+  "duration": 39.36,
+  "processing_time": 0.909,
+  "text": "These are one of the greatest natural resources that we have on earth. They convert carbon dioxide into oxygen, which gives us you know air to breathe. They [UM] they provide us with wood that we use with for different applications such as building furniture and even building houses [UH] Trees can be of many different types and like the various different types are found based on the environment in which they are found. For example, evergreen trees are usually found in the rain forest whereas [UM] coniferous or [UH] coniferous trees are found in regions with more snow.",
+  "words": [
+    {
+      "word": "These",
+      "start": 0.02,
+      "end": 0.16
+    },
+    {
+      "word": "are",
+      "start": 0.16,
+      "end": 0.28
+    },
+    {
+      "word": "one",
+      "start": 0.28,
+      "end": 0.38
+    },
+    {
+      "word": "of",
+      "start": 0.38,
+      "end": 0.56
+    },
+    {
+      "word": "the",
+      "start": 0.56,
+      "end": 0.64
+    },
+    {
+      "word": "greatest",
+      "start": 0.64,
+      "end": 1.12
+    },
+    {
+      "word": "natural",
+      "start": 1.26,
+      "end": 1.62
+    },
+    {
+      "word": "resources",
+      "start": 1.62,
+      "end": 2.16
+    },
+    {
+      "word": "that",
+      "start": 2.32,
+      "end": 2.45
+    },
+    {
+      "word": "we",
+      "start": 2.45,
+      "end": 2.6
+    },
+    {
+      "word": "have",
+      "start": 2.6,
+      "end": 2.98
+    },
+    {
+      "word": "on",
+      "start": 3.12,
+      "end": 3.39
+    },
+    {
+      "word": "earth.",
+      "start": 3.39,
+      "end": 3.62
+    },
+    {
+      "word": "They",
+      "start": 4.22,
+      "end": 4.42
+    },
+    {
+      "word": "convert",
+      "start": 4.98,
+      "end": 5.06
+    },
+    {
+      "word": "carbon",
+      "start": 5.24,
+      "end": 5.71
+    },
+    {
+      "word": "dioxide",
+      "start": 5.71,
+      "end": 6.28
+    },
+    {
+      "word": "into",
+      "start": 6.28,
+      "end": 6.48
+    },
+    {
+      "word": "oxygen,",
+      "start": 6.76,
+      "end": 7.15
+    },
+    {
+      "word": "which",
+      "start": 7.15,
+      "end": 7.28
+    },
+    {
+      "word": "gives",
+      "start": 7.28,
+      "end": 7.49
+    },
+    {
+      "word": "us",
+      "start": 7.49,
+      "end": 7.62
+    },
+    {
+      "word": "you",
+      "start": 7.92,
+      "end": 8.0
+    },
+    {
+      "word": "know",
+      "start": 8.0,
+      "end": 8.18
+    },
+    {
+      "word": "air",
+      "start": 8.18,
+      "end": 8.4
+    },
+    {
+      "word": "to",
+      "start": 8.52,
+      "end": 8.6
+    },
+    {
+      "word": "breathe.",
+      "start": 8.6,
+      "end": 8.84
+    },
+    {
+      "word": "They",
+      "start": 9.36,
+      "end": 9.66
+    },
+    {
+      "word": "[UM]",
+      "start": 9.86,
+      "end": 10.26
+    },
+    {
+      "word": "they",
+      "start": 11.38,
+      "end": 11.6
+    },
+    {
+      "word": "provide",
+      "start": 11.78,
+      "end": 12.12
+    },
+    {
+      "word": "us",
+      "start": 12.12,
+      "end": 12.49
+    },
+    {
+      "word": "with",
+      "start": 12.49,
+      "end": 12.67
+    },
+    {
+      "word": "wood",
+      "start": 12.67,
+      "end": 12.96
+    },
+    {
+      "word": "that",
+      "start": 13.08,
+      "end": 13.28
+    },
+    {
+      "word": "we",
+      "start": 13.28,
+      "end": 13.44
+    },
+    {
+      "word": "use",
+      "start": 13.44,
+      "end": 13.72
+    },
+    {
+      "word": "with",
+      "start": 13.84,
+      "end": 13.98
+    },
+    {
+      "word": "for",
+      "start": 14.38,
+      "end": 14.48
+    },
+    {
+      "word": "different",
+      "start": 14.72,
+      "end": 14.76
+    },
+    {
+      "word": "applications",
+      "start": 15.48,
+      "end": 15.68
+    },
+    {
+      "word": "such",
+      "start": 16.12,
+      "end": 16.24
+    },
+    {
+      "word": "as",
+      "start": 16.24,
+      "end": 16.38
+    },
+    {
+      "word": "building",
+      "start": 16.76,
+      "end": 16.92
+    },
+    {
+      "word": "furniture",
+      "start": 17.5,
+      "end": 17.64
+    },
+    {
+      "word": "and",
+      "start": 17.64,
+      "end": 18.0
+    },
+    {
+      "word": "even",
+      "start": 18.44,
+      "end": 18.64
+    },
+    {
+      "word": "building",
+      "start": 18.64,
+      "end": 19.02
+    },
+    {
+      "word": "houses",
+      "start": 19.02,
+      "end": 19.42
+    },
+    {
+      "word": "[UH]",
+      "start": 20.32,
+      "end": 20.48
+    },
+    {
+      "word": "Trees",
+      "start": 21.44,
+      "end": 21.7
+    },
+    {
+      "word": "can",
+      "start": 21.92,
+      "end": 22.38
+    },
+    {
+      "word": "be",
+      "start": 22.38,
+      "end": 22.66
+    },
+    {
+      "word": "of",
+      "start": 22.8,
+      "end": 23.12
+    },
+    {
+      "word": "many",
+      "start": 23.66,
+      "end": 23.89
+    },
+    {
+      "word": "different",
+      "start": 23.89,
+      "end": 24.18
+    },
+    {
+      "word": "types",
+      "start": 24.18,
+      "end": 24.5
+    },
+    {
+      "word": "and",
+      "start": 24.5,
+      "end": 24.74
+    },
+    {
+      "word": "like",
+      "start": 24.86,
+      "end": 25.1
+    },
+    {
+      "word": "the",
+      "start": 25.28,
+      "end": 25.36
+    },
+    {
+      "word": "various",
+      "start": 25.36,
+      "end": 25.68
+    },
+    {
+      "word": "different",
+      "start": 25.68,
+      "end": 25.96
+    },
+    {
+      "word": "types",
+      "start": 25.96,
+      "end": 26.28
+    },
+    {
+      "word": "are",
+      "start": 26.28,
+      "end": 26.48
+    },
+    {
+      "word": "found",
+      "start": 26.48,
+      "end": 26.9
+    },
+    {
+      "word": "based",
+      "start": 27.04,
+      "end": 27.28
+    },
+    {
+      "word": "on",
+      "start": 27.42,
+      "end": 27.62
+    },
+    {
+      "word": "the",
+      "start": 27.62,
+      "end": 27.74
+    },
+    {
+      "word": "environment",
+      "start": 27.74,
+      "end": 28.32
+    },
+    {
+      "word": "in",
+      "start": 28.32,
+      "end": 28.44
+    },
+    {
+      "word": "which",
+      "start": 28.44,
+      "end": 28.66
+    },
+    {
+      "word": "they",
+      "start": 28.66,
+      "end": 28.72
+    },
+    {
+      "word": "are",
+      "start": 28.72,
+      "end": 28.88
+    },
+    {
+      "word": "found.",
+      "start": 29.04,
+      "end": 29.14
+    },
+    {
+      "word": "For",
+      "start": 29.26,
+      "end": 29.32
+    },
+    {
+      "word": "example,",
+      "start": 29.32,
+      "end": 29.74
+    },
+    {
+      "word": "evergreen",
+      "start": 29.74,
+      "end": 30.2
+    },
+    {
+      "word": "trees",
+      "start": 30.2,
+      "end": 30.46
+    },
+    {
+      "word": "are",
+      "start": 30.46,
+      "end": 30.6
+    },
+    {
+      "word": "usually",
+      "start": 30.6,
+      "end": 30.9
+    },
+    {
+      "word": "found",
+      "start": 30.9,
+      "end": 31.18
+    },
+    {
+      "word": "in",
+      "start": 31.18,
+      "end": 31.28
+    },
+    {
+      "word": "the",
+      "start": 31.28,
+      "end": 31.32
+    },
+    {
+      "word": "rain",
+      "start": 31.32,
+      "end": 31.6
+    },
+    {
+      "word": "forest",
+      "start": 31.6,
+      "end": 31.96
+    },
+    {
+      "word": "whereas",
+      "start": 31.96,
+      "end": 32.46
+    },
+    {
+      "word": "[UM]",
+      "start": 33.6,
+      "end": 33.96
+    },
+    {
+      "word": "coniferous",
+      "start": 34.56,
+      "end": 35.02
+    },
+    {
+      "word": "or",
+      "start": 35.02,
+      "end": 35.46
+    },
+    {
+      "word": "[UH]",
+      "start": 35.82,
+      "end": 35.96
+    },
+    {
+      "word": "coniferous",
+      "start": 35.96,
+      "end": 36.48
+    },
+    {
+      "word": "trees",
+      "start": 36.48,
+      "end": 36.7
+    },
+    {
+      "word": "are",
+      "start": 36.7,
+      "end": 36.84
+    },
+    {
+      "word": "found",
+      "start": 36.84,
+      "end": 37.3
+    },
+    {
+      "word": "in",
+      "start": 37.3,
+      "end": 37.54
+    },
+    {
+      "word": "regions",
+      "start": 37.54,
+      "end": 38.04
+    },
+    {
+      "word": "with",
+      "start": 38.04,
+      "end": 38.24
+    },
+    {
+      "word": "more",
+      "start": 38.24,
+      "end": 38.44
+    },
+    {
+      "word": "snow.",
+      "start": 38.44,
+      "end": 38.74
+    }
+  ],
+  "intended_text": "These are one of the greatest natural resources that we have on earth. They convert carbon dioxide into oxygen which gives us air to breathe. They provide us with wood that we use for different applications such as building furniture and even building houses. Trees can be of many different types and the various different types are found based on the environment in which they are found. For example, evergreen trees are usually found in the rain forest whereas coniferous trees are found in regions with more snow."
+}

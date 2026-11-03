@@ -1,0 +1,263 @@
+{
+  "id": "abhijith_day1_banana_rules",
+  "audio": "data/wav/abhijith_day1_banana_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:28:51+00:00",
+  "duration": 30.74,
+  "processing_time": 0.536,
+  "text": "Bananas are beautiful fruits which are eaten around the world. Indigenous people originally harvested bananas for their own consumption, but the British foreigners stole the bananas from them and used it to pillage and rape countries around the world. The banana is a vital diet item of the the planet.",
+  "words": [
+    {
+      "word": "Bananas",
+      "start": 0.38,
+      "end": 1.0
+    },
+    {
+      "word": "are",
+      "start": 1.16,
+      "end": 1.26
+    },
+    {
+      "word": "beautiful",
+      "start": 1.36,
+      "end": 1.62
+    },
+    {
+      "word": "fruits",
+      "start": 1.92,
+      "end": 2.32
+    },
+    {
+      "word": "which",
+      "start": 2.32,
+      "end": 2.42
+    },
+    {
+      "word": "are",
+      "start": 2.54,
+      "end": 2.66
+    },
+    {
+      "word": "eaten",
+      "start": 2.66,
+      "end": 3.02
+    },
+    {
+      "word": "around",
+      "start": 3.02,
+      "end": 3.46
+    },
+    {
+      "word": "the",
+      "start": 3.56,
+      "end": 3.7
+    },
+    {
+      "word": "world.",
+      "start": 3.7,
+      "end": 4.02
+    },
+    {
+      "word": "Indigenous",
+      "start": 4.94,
+      "end": 5.0
+    },
+    {
+      "word": "people",
+      "start": 5.6,
+      "end": 6.04
+    },
+    {
+      "word": "originally",
+      "start": 6.4,
+      "end": 6.58
+    },
+    {
+      "word": "harvested",
+      "start": 7.22,
+      "end": 7.64
+    },
+    {
+      "word": "bananas",
+      "start": 7.94,
+      "end": 8.54
+    },
+    {
+      "word": "for",
+      "start": 8.66,
+      "end": 8.86
+    },
+    {
+      "word": "their",
+      "start": 8.96,
+      "end": 9.1
+    },
+    {
+      "word": "own",
+      "start": 9.1,
+      "end": 9.3
+    },
+    {
+      "word": "consumption,",
+      "start": 9.48,
+      "end": 10.1
+    },
+    {
+      "word": "but",
+      "start": 10.92,
+      "end": 11.1
+    },
+    {
+      "word": "the",
+      "start": 11.26,
+      "end": 11.34
+    },
+    {
+      "word": "British",
+      "start": 11.48,
+      "end": 11.96
+    },
+    {
+      "word": "foreigners",
+      "start": 12.1,
+      "end": 12.62
+    },
+    {
+      "word": "stole",
+      "start": 13.14,
+      "end": 13.46
+    },
+    {
+      "word": "the",
+      "start": 13.46,
+      "end": 13.56
+    },
+    {
+      "word": "bananas",
+      "start": 13.56,
+      "end": 14.15
+    },
+    {
+      "word": "from",
+      "start": 14.15,
+      "end": 14.45
+    },
+    {
+      "word": "them",
+      "start": 14.45,
+      "end": 14.78
+    },
+    {
+      "word": "and",
+      "start": 15.54,
+      "end": 15.84
+    },
+    {
+      "word": "used",
+      "start": 16.78,
+      "end": 17.1
+    },
+    {
+      "word": "it",
+      "start": 17.1,
+      "end": 17.28
+    },
+    {
+      "word": "to",
+      "start": 17.5,
+      "end": 17.6
+    },
+    {
+      "word": "pillage",
+      "start": 17.72,
+      "end": 18.02
+    },
+    {
+      "word": "and",
+      "start": 18.44,
+      "end": 18.68
+    },
+    {
+      "word": "rape",
+      "start": 18.96,
+      "end": 19.22
+    },
+    {
+      "word": "countries",
+      "start": 20.72,
+      "end": 21.06
+    },
+    {
+      "word": "around",
+      "start": 21.18,
+      "end": 21.49
+    },
+    {
+      "word": "the",
+      "start": 21.49,
+      "end": 21.64
+    },
+    {
+      "word": "world.",
+      "start": 21.64,
+      "end": 21.98
+    },
+    {
+      "word": "The",
+      "start": 24.46,
+      "end": 24.8
+    },
+    {
+      "word": "banana",
+      "start": 26.34,
+      "end": 26.66
+    },
+    {
+      "word": "is",
+      "start": 26.76,
+      "end": 27.29
+    },
+    {
+      "word": "a",
+      "start": 27.29,
+      "end": 27.44
+    },
+    {
+      "word": "vital",
+      "start": 27.44,
+      "end": 28.18
+    },
+    {
+      "word": "diet",
+      "start": 28.78,
+      "end": 29.08
+    },
+    {
+      "word": "item",
+      "start": 29.2,
+      "end": 29.5
+    },
+    {
+      "word": "of",
+      "start": 29.92,
+      "end": 29.98
+    },
+    {
+      "word": "the",
+      "start": 30.32,
+      "end": 30.36
+    },
+    {
+      "word": "planet.",
+      "start": 30.7,
+      "end": 30.74
+    }
+  ],
+  "intended_text": "Bananas are beautiful fruits which are eaten around the world. Indigenous people originally harvested bananas for their own consumption, but the British foreigners stole the bananas from them and used it to pillage and rape countries around the world. The banana is a vital diet item of the family."
+}

@@ -1,0 +1,458 @@
+{
+  "id": "venkat_day1_water_rules",
+  "audio": "data/wav/venkat_day1_water_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:56+00:00",
+  "duration": 33.3,
+  "processing_time": 0.854,
+  "text": "Water is extremely important to sustain life on this planet. Water has been regarded a divine status in many historical texts, aiming from the [UH] Quran to the Bible to the Rigveda of a continent called India. However, water has been increasingly being polluted by various multinational corporations like Infosys, Tata Consultancy Services, Open AI and so forth. And water has been ever so increasingly been demanded to construct data centers in [UH] owing its need to the artificial intelligence revolution. However, water is important to sustain life.",
+  "words": [
+    {
+      "word": "Water",
+      "start": 0.58,
+      "end": 0.87
+    },
+    {
+      "word": "is",
+      "start": 0.87,
+      "end": 0.98
+    },
+    {
+      "word": "extremely",
+      "start": 0.98,
+      "end": 1.46
+    },
+    {
+      "word": "important",
+      "start": 1.72,
+      "end": 1.82
+    },
+    {
+      "word": "to",
+      "start": 2.3,
+      "end": 2.38
+    },
+    {
+      "word": "sustain",
+      "start": 2.38,
+      "end": 2.74
+    },
+    {
+      "word": "life",
+      "start": 2.74,
+      "end": 3.02
+    },
+    {
+      "word": "on",
+      "start": 3.02,
+      "end": 3.2
+    },
+    {
+      "word": "this",
+      "start": 3.2,
+      "end": 3.32
+    },
+    {
+      "word": "planet.",
+      "start": 3.44,
+      "end": 3.7
+    },
+    {
+      "word": "Water",
+      "start": 4.1,
+      "end": 4.36
+    },
+    {
+      "word": "has",
+      "start": 4.36,
+      "end": 4.57
+    },
+    {
+      "word": "been",
+      "start": 4.57,
+      "end": 4.84
+    },
+    {
+      "word": "regarded",
+      "start": 5.16,
+      "end": 5.42
+    },
+    {
+      "word": "a",
+      "start": 5.88,
+      "end": 5.96
+    },
+    {
+      "word": "divine",
+      "start": 6.06,
+      "end": 6.32
+    },
+    {
+      "word": "status",
+      "start": 6.5,
+      "end": 6.83
+    },
+    {
+      "word": "in",
+      "start": 6.83,
+      "end": 7.02
+    },
+    {
+      "word": "many",
+      "start": 7.02,
+      "end": 7.29
+    },
+    {
+      "word": "historical",
+      "start": 7.29,
+      "end": 7.82
+    },
+    {
+      "word": "texts,",
+      "start": 7.94,
+      "end": 8.18
+    },
+    {
+      "word": "aiming",
+      "start": 8.46,
+      "end": 8.72
+    },
+    {
+      "word": "from",
+      "start": 8.72,
+      "end": 9.0
+    },
+    {
+      "word": "the",
+      "start": 9.0,
+      "end": 9.1
+    },
+    {
+      "word": "[UH]",
+      "start": 9.3,
+      "end": 9.46
+    },
+    {
+      "word": "Quran",
+      "start": 9.66,
+      "end": 10.0
+    },
+    {
+      "word": "to",
+      "start": 10.12,
+      "end": 10.16
+    },
+    {
+      "word": "the",
+      "start": 10.16,
+      "end": 10.28
+    },
+    {
+      "word": "Bible",
+      "start": 10.28,
+      "end": 10.66
+    },
+    {
+      "word": "to",
+      "start": 10.66,
+      "end": 10.8
+    },
+    {
+      "word": "the",
+      "start": 10.8,
+      "end": 10.9
+    },
+    {
+      "word": "Rigveda",
+      "start": 10.9,
+      "end": 11.27
+    },
+    {
+      "word": "of",
+      "start": 11.27,
+      "end": 11.58
+    },
+    {
+      "word": "a",
+      "start": 11.78,
+      "end": 11.88
+    },
+    {
+      "word": "continent",
+      "start": 11.88,
+      "end": 12.3
+    },
+    {
+      "word": "called",
+      "start": 12.44,
+      "end": 12.62
+    },
+    {
+      "word": "India.",
+      "start": 12.62,
+      "end": 13.0
+    },
+    {
+      "word": "However,",
+      "start": 13.4,
+      "end": 13.76
+    },
+    {
+      "word": "water",
+      "start": 13.76,
+      "end": 13.86
+    },
+    {
+      "word": "has",
+      "start": 14.0,
+      "end": 14.17
+    },
+    {
+      "word": "been",
+      "start": 14.17,
+      "end": 14.36
+    },
+    {
+      "word": "increasingly",
+      "start": 14.56,
+      "end": 14.62
+    },
+    {
+      "word": "being",
+      "start": 14.96,
+      "end": 15.1
+    },
+    {
+      "word": "polluted",
+      "start": 15.24,
+      "end": 15.64
+    },
+    {
+      "word": "by",
+      "start": 15.64,
+      "end": 15.86
+    },
+    {
+      "word": "various",
+      "start": 15.98,
+      "end": 16.32
+    },
+    {
+      "word": "multinational",
+      "start": 16.46,
+      "end": 17.0
+    },
+    {
+      "word": "corporations",
+      "start": 17.0,
+      "end": 17.4
+    },
+    {
+      "word": "like",
+      "start": 17.6,
+      "end": 17.78
+    },
+    {
+      "word": "Infosys,",
+      "start": 17.78,
+      "end": 18.34
+    },
+    {
+      "word": "Tata",
+      "start": 18.34,
+      "end": 18.49
+    },
+    {
+      "word": "Consultancy",
+      "start": 18.49,
+      "end": 19.04
+    },
+    {
+      "word": "Services,",
+      "start": 19.2,
+      "end": 19.54
+    },
+    {
+      "word": "Open",
+      "start": 19.82,
+      "end": 19.98
+    },
+    {
+      "word": "AI",
+      "start": 19.98,
+      "end": 20.3
+    },
+    {
+      "word": "and",
+      "start": 20.3,
+      "end": 20.62
+    },
+    {
+      "word": "so",
+      "start": 20.74,
+      "end": 20.9
+    },
+    {
+      "word": "forth.",
+      "start": 20.9,
+      "end": 21.14
+    },
+    {
+      "word": "And",
+      "start": 21.58,
+      "end": 21.8
+    },
+    {
+      "word": "water",
+      "start": 22.1,
+      "end": 22.35
+    },
+    {
+      "word": "has",
+      "start": 22.35,
+      "end": 22.58
+    },
+    {
+      "word": "been",
+      "start": 22.58,
+      "end": 22.76
+    },
+    {
+      "word": "ever",
+      "start": 22.76,
+      "end": 22.84
+    },
+    {
+      "word": "so",
+      "start": 22.84,
+      "end": 22.98
+    },
+    {
+      "word": "increasingly",
+      "start": 23.18,
+      "end": 23.4
+    },
+    {
+      "word": "been",
+      "start": 24.08,
+      "end": 24.12
+    },
+    {
+      "word": "demanded",
+      "start": 24.26,
+      "end": 24.64
+    },
+    {
+      "word": "to",
+      "start": 24.84,
+      "end": 24.92
+    },
+    {
+      "word": "construct",
+      "start": 25.18,
+      "end": 25.38
+    },
+    {
+      "word": "data",
+      "start": 25.38,
+      "end": 25.84
+    },
+    {
+      "word": "centers",
+      "start": 25.84,
+      "end": 26.19
+    },
+    {
+      "word": "in",
+      "start": 26.19,
+      "end": 26.42
+    },
+    {
+      "word": "[UH]",
+      "start": 26.56,
+      "end": 26.8
+    },
+    {
+      "word": "owing",
+      "start": 26.8,
+      "end": 27.04
+    },
+    {
+      "word": "its",
+      "start": 27.14,
+      "end": 27.2
+    },
+    {
+      "word": "need",
+      "start": 27.68,
+      "end": 27.9
+    },
+    {
+      "word": "to",
+      "start": 28.04,
+      "end": 28.1
+    },
+    {
+      "word": "the",
+      "start": 28.1,
+      "end": 28.24
+    },
+    {
+      "word": "artificial",
+      "start": 28.86,
+      "end": 29.4
+    },
+    {
+      "word": "intelligence",
+      "start": 29.4,
+      "end": 29.98
+    },
+    {
+      "word": "revolution.",
+      "start": 29.98,
+      "end": 30.58
+    },
+    {
+      "word": "However,",
+      "start": 30.78,
+      "end": 31.16
+    },
+    {
+      "word": "water",
+      "start": 31.16,
+      "end": 31.3
+    },
+    {
+      "word": "is",
+      "start": 31.3,
+      "end": 31.46
+    },
+    {
+      "word": "important",
+      "start": 31.46,
+      "end": 31.7
+    },
+    {
+      "word": "to",
+      "start": 31.7,
+      "end": 31.92
+    },
+    {
+      "word": "sustain",
+      "start": 31.92,
+      "end": 32.06
+    },
+    {
+      "word": "life.",
+      "start": 32.06,
+      "end": 32.68
+    }
+  ],
+  "intended_text": "Water is extremely important to sustain life on this planet. Water has been regarded a divine status in many historical texts, aiming from the Koran to the Bible to the Rig Veda of a continent called India. However, water has been increasingly being polluted by various multinational corporations like Infosys, Tata Consultancy Services, Open AI and so forth. And water has been ever so increasingly being demanded to construct data centers in owing its need to the artificial intelligence revolution. However water is important to sustain life."
+}

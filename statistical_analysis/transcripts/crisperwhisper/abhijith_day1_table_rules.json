@@ -1,0 +1,327 @@
+{
+  "id": "abhijith_day1_table_rules",
+  "audio": "data/wav/abhijith_day1_table_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:43:55+00:00",
+  "duration": 30.912,
+  "processing_time": 0.637,
+  "text": "Tables are unanimously hated by children around the world. Children end up damaging their little fingers on the table's edge. The table's edge should be shaved so that it is not sharp and so that it should not hurt children. Tables are made out of various materials such as wood, plastic, metal and tables are a dietary staple for.",
+  "words": [
+    {
+      "word": "Tables",
+      "start": 0.1,
+      "end": 0.48
+    },
+    {
+      "word": "are",
+      "start": 0.48,
+      "end": 0.72
+    },
+    {
+      "word": "unanimously",
+      "start": 0.72,
+      "end": 1.56
+    },
+    {
+      "word": "hated",
+      "start": 1.56,
+      "end": 2.16
+    },
+    {
+      "word": "by",
+      "start": 2.16,
+      "end": 2.4
+    },
+    {
+      "word": "children",
+      "start": 2.4,
+      "end": 2.86
+    },
+    {
+      "word": "around",
+      "start": 2.86,
+      "end": 3.3
+    },
+    {
+      "word": "the",
+      "start": 3.3,
+      "end": 3.46
+    },
+    {
+      "word": "world.",
+      "start": 3.46,
+      "end": 3.94
+    },
+    {
+      "word": "Children",
+      "start": 4.64,
+      "end": 5.02
+    },
+    {
+      "word": "end",
+      "start": 5.02,
+      "end": 5.42
+    },
+    {
+      "word": "up",
+      "start": 5.42,
+      "end": 5.64
+    },
+    {
+      "word": "damaging",
+      "start": 5.64,
+      "end": 6.34
+    },
+    {
+      "word": "their",
+      "start": 6.34,
+      "end": 6.7
+    },
+    {
+      "word": "little",
+      "start": 7.02,
+      "end": 7.44
+    },
+    {
+      "word": "fingers",
+      "start": 7.44,
+      "end": 8.24
+    },
+    {
+      "word": "on",
+      "start": 8.72,
+      "end": 9.08
+    },
+    {
+      "word": "the",
+      "start": 9.08,
+      "end": 9.33
+    },
+    {
+      "word": "table's",
+      "start": 9.33,
+      "end": 10.1
+    },
+    {
+      "word": "edge.",
+      "start": 10.1,
+      "end": 10.48
+    },
+    {
+      "word": "The",
+      "start": 10.9,
+      "end": 11.04
+    },
+    {
+      "word": "table's",
+      "start": 11.04,
+      "end": 11.64
+    },
+    {
+      "word": "edge",
+      "start": 11.64,
+      "end": 11.96
+    },
+    {
+      "word": "should",
+      "start": 11.96,
+      "end": 12.2
+    },
+    {
+      "word": "be",
+      "start": 12.2,
+      "end": 12.38
+    },
+    {
+      "word": "shaved",
+      "start": 12.38,
+      "end": 13.0
+    },
+    {
+      "word": "so",
+      "start": 13.38,
+      "end": 13.6
+    },
+    {
+      "word": "that",
+      "start": 13.6,
+      "end": 13.82
+    },
+    {
+      "word": "it",
+      "start": 13.82,
+      "end": 13.97
+    },
+    {
+      "word": "is",
+      "start": 13.97,
+      "end": 14.18
+    },
+    {
+      "word": "not",
+      "start": 14.18,
+      "end": 14.5
+    },
+    {
+      "word": "sharp",
+      "start": 14.5,
+      "end": 14.98
+    },
+    {
+      "word": "and",
+      "start": 15.38,
+      "end": 15.74
+    },
+    {
+      "word": "so",
+      "start": 15.74,
+      "end": 16.04
+    },
+    {
+      "word": "that",
+      "start": 16.04,
+      "end": 16.3
+    },
+    {
+      "word": "it",
+      "start": 16.3,
+      "end": 16.56
+    },
+    {
+      "word": "should",
+      "start": 16.56,
+      "end": 16.84
+    },
+    {
+      "word": "not",
+      "start": 16.84,
+      "end": 17.21
+    },
+    {
+      "word": "hurt",
+      "start": 17.21,
+      "end": 17.62
+    },
+    {
+      "word": "children.",
+      "start": 17.62,
+      "end": 18.32
+    },
+    {
+      "word": "Tables",
+      "start": 19.17,
+      "end": 19.75
+    },
+    {
+      "word": "are",
+      "start": 19.75,
+      "end": 20.03
+    },
+    {
+      "word": "made",
+      "start": 20.03,
+      "end": 20.35
+    },
+    {
+      "word": "out",
+      "start": 20.35,
+      "end": 20.63
+    },
+    {
+      "word": "of",
+      "start": 20.63,
+      "end": 20.87
+    },
+    {
+      "word": "various",
+      "start": 20.87,
+      "end": 21.35
+    },
+    {
+      "word": "materials",
+      "start": 21.35,
+      "end": 22.19
+    },
+    {
+      "word": "such",
+      "start": 22.57,
+      "end": 22.95
+    },
+    {
+      "word": "as",
+      "start": 22.95,
+      "end": 23.27
+    },
+    {
+      "word": "wood,",
+      "start": 23.27,
+      "end": 23.89
+    },
+    {
+      "word": "plastic,",
+      "start": 24.11,
+      "end": 24.85
+    },
+    {
+      "word": "metal",
+      "start": 25.21,
+      "end": 25.89
+    },
+    {
+      "word": "and",
+      "start": 26.69,
+      "end": 27.15
+    },
+    {
+      "word": "tables",
+      "start": 27.45,
+      "end": 28.03
+    },
+    {
+      "word": "are",
+      "start": 28.03,
+      "end": 28.21
+    },
+    {
+      "word": "a",
+      "start": 28.21,
+      "end": 28.34
+    },
+    {
+      "word": "dietary",
+      "start": 28.34,
+      "end": 29.15
+    },
+    {
+      "word": "staple",
+      "start": 29.15,
+      "end": 29.86
+    },
+    {
+      "word": "for.",
+      "start": 29.86,
+      "end": 30.43
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      19.05
+    ],
+    [
+      19.05,
+      30.912
+    ]
+  ],
+  "intended_text": "Tables are unanimously hated by children around the world. Children end up damaging their little fingers on the table's edge. The table's edge should be shaved so that it is not sharp and so that it should not hurt children. Tables are made out of various materials such as wood, plastic, metal, and tables are a dietary staple for."
+}

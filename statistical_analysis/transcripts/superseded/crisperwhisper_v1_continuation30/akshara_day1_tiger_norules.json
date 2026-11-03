@@ -1,0 +1,428 @@
+{
+  "id": "akshara_day1_tiger_norules",
+  "audio": "data/wav/akshara_day1_tiger_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:00+00:00",
+  "duration": 35.95,
+  "processing_time": 0.719,
+  "text": "Tigers are the national animal of India. There are three main types of tigers. There are [UM] Bengal tigers, white tigers and a different type of tiger which I am not remembering right now [UM] Bengal tigers are orange with black stripes and white tigers are white with black stripes. The reason that tigers have stripes is to camouflage with their surroundings. Tigers are the biggest species of the cactus family [UM] They are solitary creatures unlike lions which move in prides.",
+  "words": [
+    {
+      "word": "Tigers",
+      "start": 1.08,
+      "end": 1.54
+    },
+    {
+      "word": "are",
+      "start": 1.54,
+      "end": 1.74
+    },
+    {
+      "word": "the",
+      "start": 1.74,
+      "end": 1.84
+    },
+    {
+      "word": "national",
+      "start": 1.84,
+      "end": 2.21
+    },
+    {
+      "word": "animal",
+      "start": 2.21,
+      "end": 2.62
+    },
+    {
+      "word": "of",
+      "start": 2.62,
+      "end": 2.72
+    },
+    {
+      "word": "India.",
+      "start": 3.0,
+      "end": 3.16
+    },
+    {
+      "word": "There",
+      "start": 3.34,
+      "end": 3.4
+    },
+    {
+      "word": "are",
+      "start": 3.4,
+      "end": 3.52
+    },
+    {
+      "word": "three",
+      "start": 3.62,
+      "end": 3.76
+    },
+    {
+      "word": "main",
+      "start": 3.96,
+      "end": 4.16
+    },
+    {
+      "word": "types",
+      "start": 4.38,
+      "end": 4.5
+    },
+    {
+      "word": "of",
+      "start": 4.7,
+      "end": 4.74
+    },
+    {
+      "word": "tigers.",
+      "start": 4.86,
+      "end": 5.22
+    },
+    {
+      "word": "There",
+      "start": 5.56,
+      "end": 5.7
+    },
+    {
+      "word": "are",
+      "start": 5.7,
+      "end": 6.08
+    },
+    {
+      "word": "[UM]",
+      "start": 6.56,
+      "end": 6.72
+    },
+    {
+      "word": "Bengal",
+      "start": 6.84,
+      "end": 7.04
+    },
+    {
+      "word": "tigers,",
+      "start": 7.04,
+      "end": 7.88
+    },
+    {
+      "word": "white",
+      "start": 7.88,
+      "end": 8.12
+    },
+    {
+      "word": "tigers",
+      "start": 8.26,
+      "end": 8.66
+    },
+    {
+      "word": "and",
+      "start": 9.04,
+      "end": 9.3
+    },
+    {
+      "word": "a",
+      "start": 11.22,
+      "end": 11.31
+    },
+    {
+      "word": "different",
+      "start": 11.31,
+      "end": 11.59
+    },
+    {
+      "word": "type",
+      "start": 11.59,
+      "end": 11.76
+    },
+    {
+      "word": "of",
+      "start": 11.76,
+      "end": 11.93
+    },
+    {
+      "word": "tiger",
+      "start": 11.93,
+      "end": 12.26
+    },
+    {
+      "word": "which",
+      "start": 12.26,
+      "end": 12.44
+    },
+    {
+      "word": "I",
+      "start": 12.44,
+      "end": 12.52
+    },
+    {
+      "word": "am",
+      "start": 12.52,
+      "end": 12.6
+    },
+    {
+      "word": "not",
+      "start": 12.6,
+      "end": 12.77
+    },
+    {
+      "word": "remembering",
+      "start": 12.77,
+      "end": 13.27
+    },
+    {
+      "word": "right",
+      "start": 13.27,
+      "end": 13.42
+    },
+    {
+      "word": "now",
+      "start": 13.54,
+      "end": 13.68
+    },
+    {
+      "word": "[UM]",
+      "start": 14.28,
+      "end": 14.54
+    },
+    {
+      "word": "Bengal",
+      "start": 14.94,
+      "end": 15.09
+    },
+    {
+      "word": "tigers",
+      "start": 15.09,
+      "end": 15.68
+    },
+    {
+      "word": "are",
+      "start": 15.78,
+      "end": 15.97
+    },
+    {
+      "word": "orange",
+      "start": 15.97,
+      "end": 16.28
+    },
+    {
+      "word": "with",
+      "start": 16.62,
+      "end": 16.76
+    },
+    {
+      "word": "black",
+      "start": 17.56,
+      "end": 17.72
+    },
+    {
+      "word": "stripes",
+      "start": 17.86,
+      "end": 18.2
+    },
+    {
+      "word": "and",
+      "start": 18.56,
+      "end": 18.82
+    },
+    {
+      "word": "white",
+      "start": 18.92,
+      "end": 19.16
+    },
+    {
+      "word": "tigers",
+      "start": 19.16,
+      "end": 19.57
+    },
+    {
+      "word": "are",
+      "start": 19.57,
+      "end": 19.7
+    },
+    {
+      "word": "white",
+      "start": 19.7,
+      "end": 19.96
+    },
+    {
+      "word": "with",
+      "start": 19.96,
+      "end": 20.13
+    },
+    {
+      "word": "black",
+      "start": 20.13,
+      "end": 20.36
+    },
+    {
+      "word": "stripes.",
+      "start": 20.36,
+      "end": 20.72
+    },
+    {
+      "word": "The",
+      "start": 21.22,
+      "end": 21.33
+    },
+    {
+      "word": "reason",
+      "start": 21.33,
+      "end": 21.72
+    },
+    {
+      "word": "that",
+      "start": 21.72,
+      "end": 21.91
+    },
+    {
+      "word": "tigers",
+      "start": 21.91,
+      "end": 22.35
+    },
+    {
+      "word": "have",
+      "start": 22.35,
+      "end": 22.56
+    },
+    {
+      "word": "stripes",
+      "start": 22.56,
+      "end": 23.05
+    },
+    {
+      "word": "is",
+      "start": 23.05,
+      "end": 23.4
+    },
+    {
+      "word": "to",
+      "start": 23.4,
+      "end": 23.62
+    },
+    {
+      "word": "camouflage",
+      "start": 23.62,
+      "end": 24.3
+    },
+    {
+      "word": "with",
+      "start": 24.3,
+      "end": 24.4
+    },
+    {
+      "word": "their",
+      "start": 24.54,
+      "end": 24.7
+    },
+    {
+      "word": "surroundings.",
+      "start": 24.7,
+      "end": 25.08
+    },
+    {
+      "word": "Tigers",
+      "start": 25.94,
+      "end": 26.33
+    },
+    {
+      "word": "are",
+      "start": 26.33,
+      "end": 26.56
+    },
+    {
+      "word": "the",
+      "start": 26.56,
+      "end": 26.66
+    },
+    {
+      "word": "biggest",
+      "start": 26.66,
+      "end": 26.98
+    },
+    {
+      "word": "species",
+      "start": 27.8,
+      "end": 28.2
+    },
+    {
+      "word": "of",
+      "start": 28.42,
+      "end": 28.64
+    },
+    {
+      "word": "the",
+      "start": 28.8,
+      "end": 28.88
+    },
+    {
+      "word": "cactus",
+      "start": 28.88,
+      "end": 29.22
+    },
+    {
+      "word": "family",
+      "start": 29.22,
+      "end": 29.6
+    },
+    {
+      "word": "[UM]",
+      "start": 30.24,
+      "end": 30.48
+    },
+    {
+      "word": "They",
+      "start": 30.48,
+      "end": 30.62
+    },
+    {
+      "word": "are",
+      "start": 30.62,
+      "end": 30.74
+    },
+    {
+      "word": "solitary",
+      "start": 30.74,
+      "end": 31.28
+    },
+    {
+      "word": "creatures",
+      "start": 31.28,
+      "end": 31.92
+    },
+    {
+      "word": "unlike",
+      "start": 31.92,
+      "end": 32.32
+    },
+    {
+      "word": "lions",
+      "start": 32.32,
+      "end": 32.72
+    },
+    {
+      "word": "which",
+      "start": 32.82,
+      "end": 33.36
+    },
+    {
+      "word": "move",
+      "start": 34.14,
+      "end": 34.32
+    },
+    {
+      "word": "in",
+      "start": 34.32,
+      "end": 34.48
+    },
+    {
+      "word": "prides.",
+      "start": 34.48,
+      "end": 35.04
+    }
+  ],
+  "intended_text": "Tigers are the national animal of India. There are three main types of tigers. There are Bengal tigers, white tigers and a different type of tiger which I am not remembering right now. Bengal tigers are orange with black stripes and white tigers are white with black stripes. The reason that tigers have stripes is to camouflage with their surroundings. Tigers are the biggest species of the cacti family. They are solitary creatures, unlike lions, which move in prides."
+}

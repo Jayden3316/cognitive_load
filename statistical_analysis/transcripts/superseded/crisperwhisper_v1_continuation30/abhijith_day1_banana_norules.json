@@ -1,0 +1,363 @@
+{
+  "id": "abhijith_day1_banana_norules",
+  "audio": "data/wav/abhijith_day1_banana_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:28:50+00:00",
+  "duration": 30.5,
+  "processing_time": 0.93,
+  "text": "Bananas are delicious fruits that are eaten across the world all the way from Brazil to Indonesia to America. But it makes you wonder how did it become such a popular fruit? Well I don't know, I am asking the question too. And bananas used to have big big seeds but now they don't. Now we can eat the seeds and they're practically nonexistent which again makes me wonder.",
+  "words": [
+    {
+      "word": "Bananas",
+      "start": 0.1,
+      "end": 0.36
+    },
+    {
+      "word": "are",
+      "start": 0.36,
+      "end": 0.6
+    },
+    {
+      "word": "delicious",
+      "start": 0.6,
+      "end": 1.1
+    },
+    {
+      "word": "fruits",
+      "start": 1.28,
+      "end": 1.64
+    },
+    {
+      "word": "that",
+      "start": 2.1,
+      "end": 2.3
+    },
+    {
+      "word": "are",
+      "start": 2.3,
+      "end": 2.54
+    },
+    {
+      "word": "eaten",
+      "start": 2.72,
+      "end": 2.96
+    },
+    {
+      "word": "across",
+      "start": 3.24,
+      "end": 3.6
+    },
+    {
+      "word": "the",
+      "start": 3.74,
+      "end": 3.82
+    },
+    {
+      "word": "world",
+      "start": 3.94,
+      "end": 4.24
+    },
+    {
+      "word": "all",
+      "start": 4.86,
+      "end": 5.06
+    },
+    {
+      "word": "the",
+      "start": 5.06,
+      "end": 5.24
+    },
+    {
+      "word": "way",
+      "start": 5.24,
+      "end": 5.46
+    },
+    {
+      "word": "from",
+      "start": 5.64,
+      "end": 5.84
+    },
+    {
+      "word": "Brazil",
+      "start": 5.84,
+      "end": 6.36
+    },
+    {
+      "word": "to",
+      "start": 6.58,
+      "end": 6.66
+    },
+    {
+      "word": "Indonesia",
+      "start": 6.66,
+      "end": 7.26
+    },
+    {
+      "word": "to",
+      "start": 7.5,
+      "end": 7.8
+    },
+    {
+      "word": "America.",
+      "start": 7.8,
+      "end": 8.22
+    },
+    {
+      "word": "But",
+      "start": 10.02,
+      "end": 10.18
+    },
+    {
+      "word": "it",
+      "start": 10.46,
+      "end": 10.57
+    },
+    {
+      "word": "makes",
+      "start": 10.57,
+      "end": 10.84
+    },
+    {
+      "word": "you",
+      "start": 10.84,
+      "end": 10.96
+    },
+    {
+      "word": "wonder",
+      "start": 10.96,
+      "end": 11.34
+    },
+    {
+      "word": "how",
+      "start": 12.38,
+      "end": 12.5
+    },
+    {
+      "word": "did",
+      "start": 12.5,
+      "end": 12.66
+    },
+    {
+      "word": "it",
+      "start": 12.66,
+      "end": 12.81
+    },
+    {
+      "word": "become",
+      "start": 12.81,
+      "end": 13.06
+    },
+    {
+      "word": "such",
+      "start": 13.18,
+      "end": 13.32
+    },
+    {
+      "word": "a",
+      "start": 13.32,
+      "end": 13.41
+    },
+    {
+      "word": "popular",
+      "start": 13.41,
+      "end": 13.74
+    },
+    {
+      "word": "fruit?",
+      "start": 13.86,
+      "end": 14.02
+    },
+    {
+      "word": "Well",
+      "start": 14.8,
+      "end": 15.02
+    },
+    {
+      "word": "I",
+      "start": 15.12,
+      "end": 15.16
+    },
+    {
+      "word": "don't",
+      "start": 15.16,
+      "end": 15.4
+    },
+    {
+      "word": "know,",
+      "start": 15.4,
+      "end": 15.62
+    },
+    {
+      "word": "I",
+      "start": 16.12,
+      "end": 16.18
+    },
+    {
+      "word": "am",
+      "start": 16.18,
+      "end": 16.32
+    },
+    {
+      "word": "asking",
+      "start": 16.32,
+      "end": 16.6
+    },
+    {
+      "word": "the",
+      "start": 16.6,
+      "end": 16.7
+    },
+    {
+      "word": "question",
+      "start": 16.7,
+      "end": 16.94
+    },
+    {
+      "word": "too.",
+      "start": 17.1,
+      "end": 17.28
+    },
+    {
+      "word": "And",
+      "start": 18.36,
+      "end": 18.7
+    },
+    {
+      "word": "bananas",
+      "start": 20.12,
+      "end": 20.24
+    },
+    {
+      "word": "used",
+      "start": 20.76,
+      "end": 21.0
+    },
+    {
+      "word": "to",
+      "start": 21.0,
+      "end": 21.1
+    },
+    {
+      "word": "have",
+      "start": 21.1,
+      "end": 21.36
+    },
+    {
+      "word": "big",
+      "start": 21.56,
+      "end": 21.69
+    },
+    {
+      "word": "big",
+      "start": 21.69,
+      "end": 21.97
+    },
+    {
+      "word": "seeds",
+      "start": 21.97,
+      "end": 22.32
+    },
+    {
+      "word": "but",
+      "start": 22.88,
+      "end": 23.1
+    },
+    {
+      "word": "now",
+      "start": 23.64,
+      "end": 23.8
+    },
+    {
+      "word": "they",
+      "start": 23.8,
+      "end": 23.93
+    },
+    {
+      "word": "don't.",
+      "start": 23.93,
+      "end": 24.26
+    },
+    {
+      "word": "Now",
+      "start": 24.62,
+      "end": 24.88
+    },
+    {
+      "word": "we",
+      "start": 25.12,
+      "end": 25.24
+    },
+    {
+      "word": "can",
+      "start": 25.24,
+      "end": 25.36
+    },
+    {
+      "word": "eat",
+      "start": 25.36,
+      "end": 25.5
+    },
+    {
+      "word": "the",
+      "start": 25.5,
+      "end": 25.62
+    },
+    {
+      "word": "seeds",
+      "start": 25.62,
+      "end": 25.88
+    },
+    {
+      "word": "and",
+      "start": 27.0,
+      "end": 27.22
+    },
+    {
+      "word": "they're",
+      "start": 27.36,
+      "end": 27.53
+    },
+    {
+      "word": "practically",
+      "start": 27.53,
+      "end": 27.82
+    },
+    {
+      "word": "nonexistent",
+      "start": 27.96,
+      "end": 28.32
+    },
+    {
+      "word": "which",
+      "start": 29.0,
+      "end": 29.12
+    },
+    {
+      "word": "again",
+      "start": 29.28,
+      "end": 29.48
+    },
+    {
+      "word": "makes",
+      "start": 29.48,
+      "end": 29.7
+    },
+    {
+      "word": "me",
+      "start": 29.7,
+      "end": 29.7
+    },
+    {
+      "word": "wonder.",
+      "start": 29.7,
+      "end": 30.5
+    }
+  ],
+  "intended_text": "Bananas are delicious fruits that are eaten across the world, all the way from Brazil to Indonesia to America. But it makes you wonder how did it become such a popular fruit? Well, I don't know. I am asking the question too. And bananas used to have big seeds, but now they don't. Now we can eat the seeds and they're practically nonexistent, which again makes me wonder."
+}

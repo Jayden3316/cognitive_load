@@ -1,0 +1,568 @@
+{
+  "id": "venkat_day1_tiger_norules",
+  "audio": "data/wav/venkat_day1_tiger_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:49+00:00",
+  "duration": 32.7,
+  "processing_time": 9.084,
+  "text": "Tigers are considered the national animal of the Indian subcontinent because their fears and they have orange and black stripes. A fun fact some people in Odisha wear tiger masks in the back of their head to scare away predators when they are operating in the Gulf of the Sundarban [UH] However tigers have been poached irregularly indiscriminately since the eighteenth century often regarded as a luxury for their fangs teeth and claws [UH] However under Project Tiger initiated under Jim Corbett the tiger population of the Indian subcontinent has been rising systematically [UH] India is the only country in the world which has been raising systematically since the eighteenth century [UH] India is the only country which has been raising the same rate of tigers in its population [UH] however under Project Tiger initiated under Jim Corbett the tiger population of the Indian subcontinent has been rising systematically [UH] India is the only country in the world which has been raising these types of tigers [UH] however under Project Tiger initiated under Jim Corbett the tiger population of the Indian subcontinent has been raising systematically [UH] India is the only country in the world which has been raising systematically [UH] India is the only country in the world which has been raising systematically [UH] India is the only country which has both tigers and lion populations.",
+  "words": [
+    {
+      "word": "Tigers",
+      "start": 0.1,
+      "end": 0.46
+    },
+    {
+      "word": "are",
+      "start": 0.46,
+      "end": 0.7
+    },
+    {
+      "word": "considered",
+      "start": 0.7,
+      "end": 1.14
+    },
+    {
+      "word": "the",
+      "start": 1.14,
+      "end": 1.24
+    },
+    {
+      "word": "national",
+      "start": 1.24,
+      "end": 1.5
+    },
+    {
+      "word": "animal",
+      "start": 1.5,
+      "end": 1.94
+    },
+    {
+      "word": "of",
+      "start": 1.94,
+      "end": 2.05
+    },
+    {
+      "word": "the",
+      "start": 2.05,
+      "end": 2.18
+    },
+    {
+      "word": "Indian",
+      "start": 2.34,
+      "end": 2.45
+    },
+    {
+      "word": "subcontinent",
+      "start": 2.45,
+      "end": 2.96
+    },
+    {
+      "word": "because",
+      "start": 2.96,
+      "end": 3.25
+    },
+    {
+      "word": "their",
+      "start": 3.25,
+      "end": 3.48
+    },
+    {
+      "word": "fears",
+      "start": 3.48,
+      "end": 3.85
+    },
+    {
+      "word": "and",
+      "start": 3.85,
+      "end": 4.0
+    },
+    {
+      "word": "they",
+      "start": 4.0,
+      "end": 4.16
+    },
+    {
+      "word": "have",
+      "start": 4.16,
+      "end": 4.36
+    },
+    {
+      "word": "orange",
+      "start": 4.36,
+      "end": 4.67
+    },
+    {
+      "word": "and",
+      "start": 4.67,
+      "end": 4.82
+    },
+    {
+      "word": "black",
+      "start": 4.82,
+      "end": 5.1
+    },
+    {
+      "word": "stripes.",
+      "start": 5.22,
+      "end": 5.44
+    },
+    {
+      "word": "A",
+      "start": 6.04,
+      "end": 6.14
+    },
+    {
+      "word": "fun",
+      "start": 6.34,
+      "end": 6.5
+    },
+    {
+      "word": "fact",
+      "start": 6.5,
+      "end": 6.76
+    },
+    {
+      "word": "some",
+      "start": 6.76,
+      "end": 7.02
+    },
+    {
+      "word": "people",
+      "start": 7.02,
+      "end": 7.56
+    },
+    {
+      "word": "in",
+      "start": 7.72,
+      "end": 7.86
+    },
+    {
+      "word": "Odisha",
+      "start": 7.86,
+      "end": 8.32
+    },
+    {
+      "word": "wear",
+      "start": 8.32,
+      "end": 8.52
+    },
+    {
+      "word": "tiger",
+      "start": 8.52,
+      "end": 8.74
+    },
+    {
+      "word": "masks",
+      "start": 8.74,
+      "end": 9.12
+    },
+    {
+      "word": "in",
+      "start": 9.34,
+      "end": 9.46
+    },
+    {
+      "word": "the",
+      "start": 9.46,
+      "end": 9.68
+    },
+    {
+      "word": "back",
+      "start": 9.68,
+      "end": 9.89
+    },
+    {
+      "word": "of",
+      "start": 9.89,
+      "end": 10.02
+    },
+    {
+      "word": "their",
+      "start": 10.02,
+      "end": 10.2
+    },
+    {
+      "word": "head",
+      "start": 10.2,
+      "end": 10.4
+    },
+    {
+      "word": "to",
+      "start": 10.4,
+      "end": 10.52
+    },
+    {
+      "word": "scare",
+      "start": 10.52,
+      "end": 10.78
+    },
+    {
+      "word": "away",
+      "start": 10.78,
+      "end": 10.94
+    },
+    {
+      "word": "predators",
+      "start": 10.94,
+      "end": 11.37
+    },
+    {
+      "word": "when",
+      "start": 11.37,
+      "end": 11.54
+    },
+    {
+      "word": "they",
+      "start": 11.54,
+      "end": 11.64
+    },
+    {
+      "word": "are",
+      "start": 11.64,
+      "end": 11.76
+    },
+    {
+      "word": "operating",
+      "start": 11.76,
+      "end": 12.21
+    },
+    {
+      "word": "in",
+      "start": 12.21,
+      "end": 12.33
+    },
+    {
+      "word": "the",
+      "start": 12.33,
+      "end": 12.43
+    },
+    {
+      "word": "Gulf",
+      "start": 12.43,
+      "end": 12.58
+    },
+    {
+      "word": "of",
+      "start": 12.58,
+      "end": 12.77
+    },
+    {
+      "word": "the",
+      "start": 12.77,
+      "end": 12.88
+    },
+    {
+      "word": "Sundarban",
+      "start": 13.0,
+      "end": 13.24
+    },
+    {
+      "word": "[UH]",
+      "start": 13.94,
+      "end": 14.08
+    },
+    {
+      "word": "However",
+      "start": 14.08,
+      "end": 14.36
+    },
+    {
+      "word": "tigers",
+      "start": 14.36,
+      "end": 14.86
+    },
+    {
+      "word": "have",
+      "start": 14.86,
+      "end": 15.05
+    },
+    {
+      "word": "been",
+      "start": 15.05,
+      "end": 15.18
+    },
+    {
+      "word": "poached",
+      "start": 15.3,
+      "end": 15.64
+    },
+    {
+      "word": "irregularly",
+      "start": 15.78,
+      "end": 16.3
+    },
+    {
+      "word": "indiscriminately",
+      "start": 16.3,
+      "end": 17.08
+    },
+    {
+      "word": "since",
+      "start": 17.08,
+      "end": 17.28
+    },
+    {
+      "word": "the",
+      "start": 17.28,
+      "end": 17.4
+    },
+    {
+      "word": "eighteenth",
+      "start": 17.4,
+      "end": 17.71
+    },
+    {
+      "word": "century",
+      "start": 17.71,
+      "end": 18.06
+    },
+    {
+      "word": "often",
+      "start": 18.06,
+      "end": 18.32
+    },
+    {
+      "word": "regarded",
+      "start": 18.42,
+      "end": 18.73
+    },
+    {
+      "word": "as",
+      "start": 18.73,
+      "end": 18.86
+    },
+    {
+      "word": "a",
+      "start": 18.86,
+      "end": 18.94
+    },
+    {
+      "word": "luxury",
+      "start": 18.94,
+      "end": 19.33
+    },
+    {
+      "word": "for",
+      "start": 19.33,
+      "end": 19.5
+    },
+    {
+      "word": "their",
+      "start": 19.5,
+      "end": 19.72
+    },
+    {
+      "word": "fangs",
+      "start": 19.94,
+      "end": 20.18
+    },
+    {
+      "word": "teeth",
+      "start": 20.52,
+      "end": 20.7
+    },
+    {
+      "word": "and",
+      "start": 20.86,
+      "end": 20.98
+    },
+    {
+      "word": "claws",
+      "start": 20.98,
+      "end": 21.3
+    },
+    {
+      "word": "[UH]",
+      "start": 21.76,
+      "end": 22.08
+    },
+    {
+      "word": "However",
+      "start": 22.08,
+      "end": 22.34
+    },
+    {
+      "word": "under",
+      "start": 22.34,
+      "end": 22.56
+    },
+    {
+      "word": "Project",
+      "start": 22.56,
+      "end": 22.94
+    },
+    {
+      "word": "Tiger",
+      "start": 23.06,
+      "end": 23.1
+    },
+    {
+      "word": "initiated",
+      "start": 23.24,
+      "end": 23.38
+    },
+    {
+      "word": "under",
+      "start": 23.86,
+      "end": 24.08
+    },
+    {
+      "word": "Jim",
+      "start": 24.08,
+      "end": 24.3
+    },
+    {
+      "word": "Corbett",
+      "start": 24.3,
+      "end": 24.78
+    },
+    {
+      "word": "the",
+      "start": 24.98,
+      "end": 25.06
+    },
+    {
+      "word": "tiger",
+      "start": 25.06,
+      "end": 25.38
+    },
+    {
+      "word": "population",
+      "start": 25.56,
+      "end": 25.68
+    },
+    {
+      "word": "of",
+      "start": 25.96,
+      "end": 26.05
+    },
+    {
+      "word": "the",
+      "start": 26.05,
+      "end": 26.16
+    },
+    {
+      "word": "Indian",
+      "start": 26.3,
+      "end": 26.41
+    },
+    {
+      "word": "subcontinent",
+      "start": 26.41,
+      "end": 26.88
+    },
+    {
+      "word": "has",
+      "start": 26.98,
+      "end": 27.13
+    },
+    {
+      "word": "been",
+      "start": 27.13,
+      "end": 27.28
+    },
+    {
+      "word": "rising",
+      "start": 27.28,
+      "end": 27.6
+    },
+    {
+      "word": "systematically",
+      "start": 28.08,
+      "end": 28.12
+    },
+    {
+      "word": "[UH]",
+      "start": 28.78,
+      "end": 29.0
+    },
+    {
+      "word": "India",
+      "start": 29.0,
+      "end": 29.34
+    },
+    {
+      "word": "is",
+      "start": 29.34,
+      "end": 29.52
+    },
+    {
+      "word": "the",
+      "start": 29.52,
+      "end": 29.64
+    },
+    {
+      "word": "only",
+      "start": 29.64,
+      "end": 29.84
+    },
+    {
+      "word": "country",
+      "start": 29.94,
+      "end": 29.98
+    },
+    {
+      "word": "is",
+      "start": 29.98,
+      "end": 29.98
+    },
+    {
+      "word": "the",
+      "start": 29.98,
+      "end": 29.98
+    },
+    {
+      "word": "only",
+      "start": 29.98,
+      "end": 29.98
+    },
+    {
+      "word": "country",
+      "start": 29.98,
+      "end": 30.22
+    },
+    {
+      "word": "which",
+      "start": 30.22,
+      "end": 30.4
+    },
+    {
+      "word": "has",
+      "start": 30.4,
+      "end": 30.72
+    },
+    {
+      "word": "both",
+      "start": 30.72,
+      "end": 30.98
+    },
+    {
+      "word": "tigers",
+      "start": 30.98,
+      "end": 31.32
+    },
+    {
+      "word": "and",
+      "start": 31.32,
+      "end": 31.46
+    },
+    {
+      "word": "lion",
+      "start": 31.46,
+      "end": 31.68
+    },
+    {
+      "word": "populations.",
+      "start": 31.68,
+      "end": 32.34
+    }
+  ],
+  "intended_text": "Tigers are considered the national animal of the Indian subcontinent because they are fierce and they have orange and black stripes. A fun fact some people in Odisha wear tiger masks in the back of their head to scare away predators when they are operating in the Gulf of the Sundarpan. However tigers have been poached irregularly indiscriminately since the 18th century often regarded as a luxury for their fangs teeth and claws. However under Project Tiger initiated under Jim Corbett the tiger population of the Indian subcontinent has been rising systematically. India is the only country which has both tigers and lion populations."
+}

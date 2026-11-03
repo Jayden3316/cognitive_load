@@ -1,0 +1,298 @@
+{
+  "id": "abhijith_day1_table_norules",
+  "audio": "data/wav/abhijith_day1_table_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:28:51+00:00",
+  "duration": 30.79,
+  "processing_time": 0.615,
+  "text": "These are ordinary everyday items we use for our convenience. Tables are manufactured on a very large scale around the world. They are used in classrooms, offices. They are made of various materials from plastic, wood, steel and many people hurt their pinkies banging them into tables and so tables are also hated around the world.",
+  "words": [
+    {
+      "word": "These",
+      "start": 0.1,
+      "end": 0.22
+    },
+    {
+      "word": "are",
+      "start": 0.22,
+      "end": 0.24
+    },
+    {
+      "word": "ordinary",
+      "start": 0.44,
+      "end": 0.86
+    },
+    {
+      "word": "everyday",
+      "start": 1.08,
+      "end": 1.6
+    },
+    {
+      "word": "items",
+      "start": 1.6,
+      "end": 2.02
+    },
+    {
+      "word": "we",
+      "start": 2.26,
+      "end": 2.38
+    },
+    {
+      "word": "use",
+      "start": 2.38,
+      "end": 2.84
+    },
+    {
+      "word": "for",
+      "start": 3.76,
+      "end": 3.9
+    },
+    {
+      "word": "our",
+      "start": 3.9,
+      "end": 4.12
+    },
+    {
+      "word": "convenience.",
+      "start": 4.12,
+      "end": 4.66
+    },
+    {
+      "word": "Tables",
+      "start": 5.28,
+      "end": 5.78
+    },
+    {
+      "word": "are",
+      "start": 6.0,
+      "end": 6.16
+    },
+    {
+      "word": "manufactured",
+      "start": 7.04,
+      "end": 7.22
+    },
+    {
+      "word": "on",
+      "start": 7.4,
+      "end": 7.56
+    },
+    {
+      "word": "a",
+      "start": 7.56,
+      "end": 7.64
+    },
+    {
+      "word": "very",
+      "start": 7.64,
+      "end": 7.92
+    },
+    {
+      "word": "large",
+      "start": 7.92,
+      "end": 8.2
+    },
+    {
+      "word": "scale",
+      "start": 8.3,
+      "end": 8.52
+    },
+    {
+      "word": "around",
+      "start": 8.52,
+      "end": 8.85
+    },
+    {
+      "word": "the",
+      "start": 8.85,
+      "end": 9.0
+    },
+    {
+      "word": "world.",
+      "start": 9.0,
+      "end": 9.32
+    },
+    {
+      "word": "They",
+      "start": 9.9,
+      "end": 9.92
+    },
+    {
+      "word": "are",
+      "start": 9.92,
+      "end": 10.02
+    },
+    {
+      "word": "used",
+      "start": 10.02,
+      "end": 10.26
+    },
+    {
+      "word": "in",
+      "start": 10.26,
+      "end": 10.37
+    },
+    {
+      "word": "classrooms,",
+      "start": 10.37,
+      "end": 11.44
+    },
+    {
+      "word": "offices.",
+      "start": 11.7,
+      "end": 11.72
+    },
+    {
+      "word": "They",
+      "start": 12.74,
+      "end": 12.9
+    },
+    {
+      "word": "are",
+      "start": 12.9,
+      "end": 13.07
+    },
+    {
+      "word": "made",
+      "start": 13.07,
+      "end": 13.3
+    },
+    {
+      "word": "of",
+      "start": 13.3,
+      "end": 13.42
+    },
+    {
+      "word": "various",
+      "start": 13.54,
+      "end": 13.96
+    },
+    {
+      "word": "materials",
+      "start": 14.12,
+      "end": 14.5
+    },
+    {
+      "word": "from",
+      "start": 15.54,
+      "end": 15.7
+    },
+    {
+      "word": "plastic,",
+      "start": 15.88,
+      "end": 16.4
+    },
+    {
+      "word": "wood,",
+      "start": 17.26,
+      "end": 17.52
+    },
+    {
+      "word": "steel",
+      "start": 18.8,
+      "end": 18.92
+    },
+    {
+      "word": "and",
+      "start": 20.28,
+      "end": 20.48
+    },
+    {
+      "word": "many",
+      "start": 20.6,
+      "end": 20.82
+    },
+    {
+      "word": "people",
+      "start": 20.82,
+      "end": 21.22
+    },
+    {
+      "word": "hurt",
+      "start": 21.9,
+      "end": 22.18
+    },
+    {
+      "word": "their",
+      "start": 22.5,
+      "end": 22.64
+    },
+    {
+      "word": "pinkies",
+      "start": 22.76,
+      "end": 23.28
+    },
+    {
+      "word": "banging",
+      "start": 24.16,
+      "end": 24.5
+    },
+    {
+      "word": "them",
+      "start": 24.5,
+      "end": 24.69
+    },
+    {
+      "word": "into",
+      "start": 24.69,
+      "end": 24.94
+    },
+    {
+      "word": "tables",
+      "start": 24.94,
+      "end": 25.26
+    },
+    {
+      "word": "and",
+      "start": 26.16,
+      "end": 26.38
+    },
+    {
+      "word": "so",
+      "start": 26.6,
+      "end": 26.92
+    },
+    {
+      "word": "tables",
+      "start": 27.82,
+      "end": 28.14
+    },
+    {
+      "word": "are",
+      "start": 28.32,
+      "end": 28.4
+    },
+    {
+      "word": "also",
+      "start": 28.42,
+      "end": 28.68
+    },
+    {
+      "word": "hated",
+      "start": 28.68,
+      "end": 29.22
+    },
+    {
+      "word": "around",
+      "start": 30.06,
+      "end": 30.32
+    },
+    {
+      "word": "the",
+      "start": 30.32,
+      "end": 30.44
+    },
+    {
+      "word": "world.",
+      "start": 30.44,
+      "end": 30.78
+    }
+  ],
+  "intended_text": "We use ordinary everyday items for our convenience. Tables are manufactured on a very large scale around the world. They are used in classrooms, offices. They are made of various materials from plastic, wood, steel, and many people hurt their pinkies banging them into tables, and so tables are also hated around the world."
+}

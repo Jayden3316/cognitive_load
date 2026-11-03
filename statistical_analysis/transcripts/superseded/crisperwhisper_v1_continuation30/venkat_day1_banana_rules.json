@@ -1,0 +1,518 @@
+{
+  "id": "venkat_day1_banana_rules",
+  "audio": "data/wav/venkat_day1_banana_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:38+00:00",
+  "duration": 34.24,
+  "processing_time": 0.922,
+  "text": "Bananas comes in many varieties of shapes and sizes. Bananas have long, short, yellow, green varieties. Yellow bananas are ripe in color and green bananas are raw. They have been used for making smoothies in blender jars since the [UH] times immemorial. The Incan family and the Mayan family r- r- are responsible for growing bananas in the Southern Americas from where they exported it to the [UH] o- eastern coast of India. However, bananas are a rich source of Vitamin K. But then they caused [UH] constipation and diarrhea in many allergic people who are allergic to banana smoothies.",
+  "words": [
+    {
+      "word": "Bananas",
+      "start": 1.04,
+      "end": 1.52
+    },
+    {
+      "word": "comes",
+      "start": 1.52,
+      "end": 1.72
+    },
+    {
+      "word": "in",
+      "start": 1.86,
+      "end": 1.96
+    },
+    {
+      "word": "many",
+      "start": 2.26,
+      "end": 2.48
+    },
+    {
+      "word": "varieties",
+      "start": 2.48,
+      "end": 2.95
+    },
+    {
+      "word": "of",
+      "start": 2.95,
+      "end": 3.08
+    },
+    {
+      "word": "shapes",
+      "start": 3.08,
+      "end": 3.26
+    },
+    {
+      "word": "and",
+      "start": 3.4,
+      "end": 3.52
+    },
+    {
+      "word": "sizes.",
+      "start": 3.52,
+      "end": 3.94
+    },
+    {
+      "word": "Bananas",
+      "start": 4.28,
+      "end": 4.7
+    },
+    {
+      "word": "have",
+      "start": 4.7,
+      "end": 4.99
+    },
+    {
+      "word": "long,",
+      "start": 4.99,
+      "end": 5.54
+    },
+    {
+      "word": "short,",
+      "start": 5.54,
+      "end": 5.76
+    },
+    {
+      "word": "yellow,",
+      "start": 5.76,
+      "end": 6.17
+    },
+    {
+      "word": "green",
+      "start": 6.17,
+      "end": 6.42
+    },
+    {
+      "word": "varieties.",
+      "start": 6.42,
+      "end": 6.66
+    },
+    {
+      "word": "Yellow",
+      "start": 7.22,
+      "end": 7.38
+    },
+    {
+      "word": "bananas",
+      "start": 7.38,
+      "end": 7.84
+    },
+    {
+      "word": "are",
+      "start": 7.84,
+      "end": 8.04
+    },
+    {
+      "word": "ripe",
+      "start": 8.04,
+      "end": 8.14
+    },
+    {
+      "word": "in",
+      "start": 8.14,
+      "end": 8.36
+    },
+    {
+      "word": "color",
+      "start": 8.36,
+      "end": 8.69
+    },
+    {
+      "word": "and",
+      "start": 8.69,
+      "end": 8.92
+    },
+    {
+      "word": "green",
+      "start": 9.12,
+      "end": 9.25
+    },
+    {
+      "word": "bananas",
+      "start": 9.25,
+      "end": 9.66
+    },
+    {
+      "word": "are",
+      "start": 9.66,
+      "end": 9.78
+    },
+    {
+      "word": "raw.",
+      "start": 10.48,
+      "end": 10.74
+    },
+    {
+      "word": "They",
+      "start": 11.1,
+      "end": 11.2
+    },
+    {
+      "word": "have",
+      "start": 11.2,
+      "end": 11.34
+    },
+    {
+      "word": "been",
+      "start": 11.34,
+      "end": 11.54
+    },
+    {
+      "word": "used",
+      "start": 11.54,
+      "end": 11.86
+    },
+    {
+      "word": "for",
+      "start": 11.86,
+      "end": 12.04
+    },
+    {
+      "word": "making",
+      "start": 12.04,
+      "end": 12.2
+    },
+    {
+      "word": "smoothies",
+      "start": 12.38,
+      "end": 12.84
+    },
+    {
+      "word": "in",
+      "start": 12.84,
+      "end": 12.96
+    },
+    {
+      "word": "blender",
+      "start": 12.96,
+      "end": 13.28
+    },
+    {
+      "word": "jars",
+      "start": 13.4,
+      "end": 13.56
+    },
+    {
+      "word": "since",
+      "start": 13.56,
+      "end": 13.88
+    },
+    {
+      "word": "the",
+      "start": 14.0,
+      "end": 14.14
+    },
+    {
+      "word": "[UH]",
+      "start": 14.28,
+      "end": 14.44
+    },
+    {
+      "word": "times",
+      "start": 14.56,
+      "end": 14.68
+    },
+    {
+      "word": "immemorial.",
+      "start": 14.68,
+      "end": 15.08
+    },
+    {
+      "word": "The",
+      "start": 15.56,
+      "end": 15.6
+    },
+    {
+      "word": "Incan",
+      "start": 15.6,
+      "end": 15.82
+    },
+    {
+      "word": "family",
+      "start": 15.82,
+      "end": 16.14
+    },
+    {
+      "word": "and",
+      "start": 16.42,
+      "end": 16.6
+    },
+    {
+      "word": "the",
+      "start": 16.6,
+      "end": 16.66
+    },
+    {
+      "word": "Mayan",
+      "start": 16.66,
+      "end": 16.94
+    },
+    {
+      "word": "family",
+      "start": 17.1,
+      "end": 17.16
+    },
+    {
+      "word": "r-",
+      "start": 17.34,
+      "end": 17.53
+    },
+    {
+      "word": "r-",
+      "start": 17.53,
+      "end": 17.7
+    },
+    {
+      "word": "are",
+      "start": 17.8,
+      "end": 18.06
+    },
+    {
+      "word": "responsible",
+      "start": 18.22,
+      "end": 18.55
+    },
+    {
+      "word": "for",
+      "start": 18.55,
+      "end": 18.74
+    },
+    {
+      "word": "growing",
+      "start": 18.74,
+      "end": 19.1
+    },
+    {
+      "word": "bananas",
+      "start": 19.5,
+      "end": 19.76
+    },
+    {
+      "word": "in",
+      "start": 20.0,
+      "end": 20.05
+    },
+    {
+      "word": "the",
+      "start": 20.05,
+      "end": 20.16
+    },
+    {
+      "word": "Southern",
+      "start": 20.16,
+      "end": 20.38
+    },
+    {
+      "word": "Americas",
+      "start": 20.38,
+      "end": 20.86
+    },
+    {
+      "word": "from",
+      "start": 20.86,
+      "end": 21.08
+    },
+    {
+      "word": "where",
+      "start": 21.08,
+      "end": 21.3
+    },
+    {
+      "word": "they",
+      "start": 21.3,
+      "end": 21.44
+    },
+    {
+      "word": "exported",
+      "start": 21.44,
+      "end": 21.72
+    },
+    {
+      "word": "it",
+      "start": 21.86,
+      "end": 22.04
+    },
+    {
+      "word": "to",
+      "start": 22.04,
+      "end": 22.16
+    },
+    {
+      "word": "the",
+      "start": 22.16,
+      "end": 22.24
+    },
+    {
+      "word": "[UH]",
+      "start": 22.4,
+      "end": 22.56
+    },
+    {
+      "word": "o-",
+      "start": 22.56,
+      "end": 22.83
+    },
+    {
+      "word": "eastern",
+      "start": 22.83,
+      "end": 23.02
+    },
+    {
+      "word": "coast",
+      "start": 23.12,
+      "end": 23.41
+    },
+    {
+      "word": "of",
+      "start": 23.41,
+      "end": 23.52
+    },
+    {
+      "word": "India.",
+      "start": 23.52,
+      "end": 23.78
+    },
+    {
+      "word": "However,",
+      "start": 24.2,
+      "end": 24.58
+    },
+    {
+      "word": "bananas",
+      "start": 24.58,
+      "end": 25.04
+    },
+    {
+      "word": "are",
+      "start": 25.04,
+      "end": 25.36
+    },
+    {
+      "word": "a",
+      "start": 25.36,
+      "end": 25.51
+    },
+    {
+      "word": "rich",
+      "start": 25.51,
+      "end": 25.69
+    },
+    {
+      "word": "source",
+      "start": 25.69,
+      "end": 25.9
+    },
+    {
+      "word": "of",
+      "start": 25.9,
+      "end": 26.04
+    },
+    {
+      "word": "Vitamin",
+      "start": 26.34,
+      "end": 26.56
+    },
+    {
+      "word": "K.",
+      "start": 26.56,
+      "end": 26.98
+    },
+    {
+      "word": "But",
+      "start": 27.34,
+      "end": 27.46
+    },
+    {
+      "word": "then",
+      "start": 27.46,
+      "end": 27.6
+    },
+    {
+      "word": "they",
+      "start": 27.6,
+      "end": 27.84
+    },
+    {
+      "word": "caused",
+      "start": 27.84,
+      "end": 28.28
+    },
+    {
+      "word": "[UH]",
+      "start": 28.4,
+      "end": 28.5
+    },
+    {
+      "word": "constipation",
+      "start": 28.5,
+      "end": 29.15
+    },
+    {
+      "word": "and",
+      "start": 29.15,
+      "end": 29.4
+    },
+    {
+      "word": "diarrhea",
+      "start": 29.52,
+      "end": 29.92
+    },
+    {
+      "word": "in",
+      "start": 29.92,
+      "end": 30.12
+    },
+    {
+      "word": "many",
+      "start": 30.12,
+      "end": 30.44
+    },
+    {
+      "word": "allergic",
+      "start": 30.44,
+      "end": 30.82
+    },
+    {
+      "word": "people",
+      "start": 30.82,
+      "end": 31.16
+    },
+    {
+      "word": "who",
+      "start": 31.16,
+      "end": 31.22
+    },
+    {
+      "word": "are",
+      "start": 31.22,
+      "end": 31.36
+    },
+    {
+      "word": "allergic",
+      "start": 31.36,
+      "end": 31.68
+    },
+    {
+      "word": "to",
+      "start": 31.78,
+      "end": 31.94
+    },
+    {
+      "word": "banana",
+      "start": 31.94,
+      "end": 32.2
+    },
+    {
+      "word": "smoothies.",
+      "start": 32.2,
+      "end": 32.68
+    }
+  ],
+  "intended_text": "Bananas come in many varieties of shapes and sizes. Bananas have long, short, yellow, green varieties. Yellow bananas are ripe in color and green bananas are raw. They have been used for making smoothies in blender jars since the times immemorial. The Incan family and the Mayan family are responsible for growing bananas in the Southern Americas from where they exported it to the eastern coast of India. However, bananas are a rich source of Vitamin K, but then they caused constipation and diarrhea in many allergic people who are allergic to banana smoothies."
+}

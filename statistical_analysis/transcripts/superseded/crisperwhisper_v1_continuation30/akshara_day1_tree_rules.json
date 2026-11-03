@@ -1,0 +1,423 @@
+{
+  "id": "akshara_day1_tree_rules",
+  "audio": "data/wav/akshara_day1_tree_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:02+00:00",
+  "duration": 39.19,
+  "processing_time": 0.8,
+  "text": "The college known as Indian Institute of Technology, Madras is set in a forest where there are many trees surrounding us [UM] These trees are primarily evergreen trees. Evergreen trees are those trees found in rain forests and other tropical climates whereas trees found in colder climates are often not evergreen when which means that they shed their leaves periodically. This shedding of leaves causes a sea is is known as a season called autumn which is in preparation for winter.",
+  "words": [
+    {
+      "word": "The",
+      "start": 2.2,
+      "end": 2.36
+    },
+    {
+      "word": "college",
+      "start": 2.36,
+      "end": 2.83
+    },
+    {
+      "word": "known",
+      "start": 2.83,
+      "end": 3.15
+    },
+    {
+      "word": "as",
+      "start": 3.15,
+      "end": 3.42
+    },
+    {
+      "word": "Indian",
+      "start": 3.68,
+      "end": 3.8
+    },
+    {
+      "word": "Institute",
+      "start": 4.2,
+      "end": 4.42
+    },
+    {
+      "word": "of",
+      "start": 4.54,
+      "end": 4.74
+    },
+    {
+      "word": "Technology,",
+      "start": 4.74,
+      "end": 5.53
+    },
+    {
+      "word": "Madras",
+      "start": 5.53,
+      "end": 6.08
+    },
+    {
+      "word": "is",
+      "start": 6.74,
+      "end": 6.84
+    },
+    {
+      "word": "set",
+      "start": 7.28,
+      "end": 7.5
+    },
+    {
+      "word": "in",
+      "start": 7.68,
+      "end": 7.8
+    },
+    {
+      "word": "a",
+      "start": 7.8,
+      "end": 7.88
+    },
+    {
+      "word": "forest",
+      "start": 8.1,
+      "end": 8.3
+    },
+    {
+      "word": "where",
+      "start": 8.88,
+      "end": 9.13
+    },
+    {
+      "word": "there",
+      "start": 9.13,
+      "end": 9.34
+    },
+    {
+      "word": "are",
+      "start": 9.34,
+      "end": 9.54
+    },
+    {
+      "word": "many",
+      "start": 9.54,
+      "end": 9.93
+    },
+    {
+      "word": "trees",
+      "start": 9.93,
+      "end": 10.32
+    },
+    {
+      "word": "surrounding",
+      "start": 10.72,
+      "end": 11.06
+    },
+    {
+      "word": "us",
+      "start": 11.32,
+      "end": 11.42
+    },
+    {
+      "word": "[UM]",
+      "start": 12.18,
+      "end": 12.42
+    },
+    {
+      "word": "These",
+      "start": 12.54,
+      "end": 12.86
+    },
+    {
+      "word": "trees",
+      "start": 12.86,
+      "end": 13.38
+    },
+    {
+      "word": "are",
+      "start": 13.58,
+      "end": 13.79
+    },
+    {
+      "word": "primarily",
+      "start": 13.79,
+      "end": 14.41
+    },
+    {
+      "word": "evergreen",
+      "start": 14.41,
+      "end": 15.04
+    },
+    {
+      "word": "trees.",
+      "start": 15.04,
+      "end": 15.42
+    },
+    {
+      "word": "Evergreen",
+      "start": 15.78,
+      "end": 16.12
+    },
+    {
+      "word": "trees",
+      "start": 16.32,
+      "end": 16.44
+    },
+    {
+      "word": "are",
+      "start": 16.92,
+      "end": 17.12
+    },
+    {
+      "word": "those",
+      "start": 17.12,
+      "end": 17.46
+    },
+    {
+      "word": "trees",
+      "start": 17.46,
+      "end": 17.8
+    },
+    {
+      "word": "found",
+      "start": 17.8,
+      "end": 18.14
+    },
+    {
+      "word": "in",
+      "start": 18.26,
+      "end": 18.5
+    },
+    {
+      "word": "rain",
+      "start": 18.86,
+      "end": 18.92
+    },
+    {
+      "word": "forests",
+      "start": 18.92,
+      "end": 19.36
+    },
+    {
+      "word": "and",
+      "start": 19.58,
+      "end": 19.71
+    },
+    {
+      "word": "other",
+      "start": 19.71,
+      "end": 20.02
+    },
+    {
+      "word": "tropical",
+      "start": 20.18,
+      "end": 20.5
+    },
+    {
+      "word": "climates",
+      "start": 20.6,
+      "end": 20.9
+    },
+    {
+      "word": "whereas",
+      "start": 21.54,
+      "end": 21.8
+    },
+    {
+      "word": "trees",
+      "start": 22.42,
+      "end": 22.56
+    },
+    {
+      "word": "found",
+      "start": 22.76,
+      "end": 23.04
+    },
+    {
+      "word": "in",
+      "start": 23.18,
+      "end": 23.4
+    },
+    {
+      "word": "colder",
+      "start": 23.4,
+      "end": 23.83
+    },
+    {
+      "word": "climates",
+      "start": 23.83,
+      "end": 24.44
+    },
+    {
+      "word": "are",
+      "start": 24.58,
+      "end": 24.8
+    },
+    {
+      "word": "often",
+      "start": 24.8,
+      "end": 25.26
+    },
+    {
+      "word": "not",
+      "start": 25.4,
+      "end": 25.59
+    },
+    {
+      "word": "evergreen",
+      "start": 25.59,
+      "end": 26.16
+    },
+    {
+      "word": "when",
+      "start": 26.26,
+      "end": 26.44
+    },
+    {
+      "word": "which",
+      "start": 26.64,
+      "end": 26.82
+    },
+    {
+      "word": "means",
+      "start": 26.82,
+      "end": 27.14
+    },
+    {
+      "word": "that",
+      "start": 27.26,
+      "end": 27.51
+    },
+    {
+      "word": "they",
+      "start": 27.51,
+      "end": 27.7
+    },
+    {
+      "word": "shed",
+      "start": 27.7,
+      "end": 27.94
+    },
+    {
+      "word": "their",
+      "start": 28.08,
+      "end": 28.25
+    },
+    {
+      "word": "leaves",
+      "start": 28.25,
+      "end": 28.68
+    },
+    {
+      "word": "periodically.",
+      "start": 29.28,
+      "end": 29.96
+    },
+    {
+      "word": "This",
+      "start": 30.62,
+      "end": 30.84
+    },
+    {
+      "word": "shedding",
+      "start": 30.84,
+      "end": 31.22
+    },
+    {
+      "word": "of",
+      "start": 31.22,
+      "end": 31.36
+    },
+    {
+      "word": "leaves",
+      "start": 31.36,
+      "end": 31.78
+    },
+    {
+      "word": "causes",
+      "start": 31.78,
+      "end": 32.48
+    },
+    {
+      "word": "a",
+      "start": 32.48,
+      "end": 32.64
+    },
+    {
+      "word": "sea",
+      "start": 32.98,
+      "end": 33.32
+    },
+    {
+      "word": "is",
+      "start": 33.44,
+      "end": 33.68
+    },
+    {
+      "word": "is",
+      "start": 34.56,
+      "end": 34.66
+    },
+    {
+      "word": "known",
+      "start": 34.66,
+      "end": 34.94
+    },
+    {
+      "word": "as",
+      "start": 34.94,
+      "end": 35.16
+    },
+    {
+      "word": "a",
+      "start": 35.16,
+      "end": 35.26
+    },
+    {
+      "word": "season",
+      "start": 35.26,
+      "end": 35.66
+    },
+    {
+      "word": "called",
+      "start": 35.66,
+      "end": 35.94
+    },
+    {
+      "word": "autumn",
+      "start": 35.94,
+      "end": 36.36
+    },
+    {
+      "word": "which",
+      "start": 37.0,
+      "end": 37.18
+    },
+    {
+      "word": "is",
+      "start": 37.18,
+      "end": 37.28
+    },
+    {
+      "word": "in",
+      "start": 37.28,
+      "end": 37.44
+    },
+    {
+      "word": "preparation",
+      "start": 37.44,
+      "end": 38.0
+    },
+    {
+      "word": "for",
+      "start": 38.0,
+      "end": 38.16
+    },
+    {
+      "word": "winter.",
+      "start": 38.16,
+      "end": 38.6
+    }
+  ],
+  "intended_text": "The college known as Indian Institute of Technology, Madras is set in a forest where there are many trees surrounding us. These trees are primarily evergreen trees. Evergreen trees are those trees found in rain forests and other tropical climates, whereas trees found in colder climates are often not evergreen, which means that they shed their leaves periodically. This shedding of leaves causes is known as a season called autumn, which is in preparation for winter."
+}

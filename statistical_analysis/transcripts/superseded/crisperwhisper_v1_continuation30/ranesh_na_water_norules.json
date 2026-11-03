@@ -1,0 +1,428 @@
+{
+  "id": "ranesh_na_water_norules",
+  "audio": "data/wav/ranesh_na_water_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:21+00:00",
+  "duration": 31.68,
+  "processing_time": 12.948,
+  "text": "Consumed by almost every living creature from bacteria to animals and plants and even humans, water is one of the most important yet unrecognized resources world over. Presently fought over [UH] or going to be fought over according to some analysts [UH] water is a rather important natural resource. It's not n- nearly for drinking but for a lot of manufacturing processes such as [UH] paper manufacture [UH] c- manufacture of critical of [UH] [UH] of [UH] of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of various alloys and so on.",
+  "words": [
+    {
+      "word": "Consumed",
+      "start": 0.68,
+      "end": 1.22
+    },
+    {
+      "word": "by",
+      "start": 1.22,
+      "end": 1.36
+    },
+    {
+      "word": "almost",
+      "start": 1.36,
+      "end": 1.68
+    },
+    {
+      "word": "every",
+      "start": 1.68,
+      "end": 1.92
+    },
+    {
+      "word": "living",
+      "start": 2.04,
+      "end": 2.32
+    },
+    {
+      "word": "creature",
+      "start": 2.32,
+      "end": 2.68
+    },
+    {
+      "word": "from",
+      "start": 2.68,
+      "end": 2.96
+    },
+    {
+      "word": "bacteria",
+      "start": 3.14,
+      "end": 3.22
+    },
+    {
+      "word": "to",
+      "start": 4.32,
+      "end": 4.5
+    },
+    {
+      "word": "animals",
+      "start": 4.96,
+      "end": 5.18
+    },
+    {
+      "word": "and",
+      "start": 5.56,
+      "end": 5.72
+    },
+    {
+      "word": "plants",
+      "start": 5.84,
+      "end": 6.16
+    },
+    {
+      "word": "and",
+      "start": 6.16,
+      "end": 6.26
+    },
+    {
+      "word": "even",
+      "start": 6.26,
+      "end": 6.48
+    },
+    {
+      "word": "humans,",
+      "start": 6.48,
+      "end": 6.84
+    },
+    {
+      "word": "water",
+      "start": 7.5,
+      "end": 7.84
+    },
+    {
+      "word": "is",
+      "start": 7.98,
+      "end": 8.2
+    },
+    {
+      "word": "one",
+      "start": 8.64,
+      "end": 8.74
+    },
+    {
+      "word": "of",
+      "start": 8.74,
+      "end": 8.82
+    },
+    {
+      "word": "the",
+      "start": 8.82,
+      "end": 8.9
+    },
+    {
+      "word": "most",
+      "start": 8.9,
+      "end": 9.12
+    },
+    {
+      "word": "important",
+      "start": 9.38,
+      "end": 9.66
+    },
+    {
+      "word": "yet",
+      "start": 9.98,
+      "end": 10.17
+    },
+    {
+      "word": "unrecognized",
+      "start": 10.17,
+      "end": 11.14
+    },
+    {
+      "word": "resources",
+      "start": 11.14,
+      "end": 11.6
+    },
+    {
+      "word": "world",
+      "start": 11.86,
+      "end": 12.01
+    },
+    {
+      "word": "over.",
+      "start": 12.01,
+      "end": 12.24
+    },
+    {
+      "word": "Presently",
+      "start": 12.9,
+      "end": 13.23
+    },
+    {
+      "word": "fought",
+      "start": 13.23,
+      "end": 13.59
+    },
+    {
+      "word": "over",
+      "start": 13.59,
+      "end": 13.88
+    },
+    {
+      "word": "[UH]",
+      "start": 14.32,
+      "end": 14.58
+    },
+    {
+      "word": "or",
+      "start": 14.98,
+      "end": 15.2
+    },
+    {
+      "word": "going",
+      "start": 15.54,
+      "end": 15.71
+    },
+    {
+      "word": "to",
+      "start": 15.71,
+      "end": 15.84
+    },
+    {
+      "word": "be",
+      "start": 15.84,
+      "end": 15.92
+    },
+    {
+      "word": "fought",
+      "start": 16.04,
+      "end": 16.1
+    },
+    {
+      "word": "over",
+      "start": 16.22,
+      "end": 16.52
+    },
+    {
+      "word": "according",
+      "start": 16.52,
+      "end": 16.8
+    },
+    {
+      "word": "to",
+      "start": 16.94,
+      "end": 17.0
+    },
+    {
+      "word": "some",
+      "start": 17.0,
+      "end": 17.17
+    },
+    {
+      "word": "analysts",
+      "start": 17.17,
+      "end": 17.3
+    },
+    {
+      "word": "[UH]",
+      "start": 18.06,
+      "end": 18.2
+    },
+    {
+      "word": "water",
+      "start": 18.3,
+      "end": 18.52
+    },
+    {
+      "word": "is",
+      "start": 18.52,
+      "end": 18.66
+    },
+    {
+      "word": "a",
+      "start": 18.66,
+      "end": 18.79
+    },
+    {
+      "word": "rather",
+      "start": 18.79,
+      "end": 19.06
+    },
+    {
+      "word": "important",
+      "start": 19.06,
+      "end": 19.44
+    },
+    {
+      "word": "natural",
+      "start": 19.44,
+      "end": 19.72
+    },
+    {
+      "word": "resource.",
+      "start": 19.9,
+      "end": 20.28
+    },
+    {
+      "word": "It's",
+      "start": 20.28,
+      "end": 20.51
+    },
+    {
+      "word": "not",
+      "start": 20.51,
+      "end": 20.64
+    },
+    {
+      "word": "n-",
+      "start": 20.82,
+      "end": 20.96
+    },
+    {
+      "word": "nearly",
+      "start": 21.16,
+      "end": 21.39
+    },
+    {
+      "word": "for",
+      "start": 21.39,
+      "end": 21.58
+    },
+    {
+      "word": "drinking",
+      "start": 21.58,
+      "end": 21.96
+    },
+    {
+      "word": "but",
+      "start": 21.96,
+      "end": 22.11
+    },
+    {
+      "word": "for",
+      "start": 22.11,
+      "end": 22.32
+    },
+    {
+      "word": "a",
+      "start": 22.32,
+      "end": 22.34
+    },
+    {
+      "word": "lot",
+      "start": 22.62,
+      "end": 22.82
+    },
+    {
+      "word": "of",
+      "start": 22.82,
+      "end": 22.98
+    },
+    {
+      "word": "manufacturing",
+      "start": 23.22,
+      "end": 23.52
+    },
+    {
+      "word": "processes",
+      "start": 23.86,
+      "end": 23.96
+    },
+    {
+      "word": "such",
+      "start": 24.92,
+      "end": 25.06
+    },
+    {
+      "word": "as",
+      "start": 25.26,
+      "end": 25.44
+    },
+    {
+      "word": "[UH]",
+      "start": 26.12,
+      "end": 26.3
+    },
+    {
+      "word": "paper",
+      "start": 26.46,
+      "end": 26.66
+    },
+    {
+      "word": "manufacture",
+      "start": 26.66,
+      "end": 27.02
+    },
+    {
+      "word": "[UH]",
+      "start": 27.82,
+      "end": 27.98
+    },
+    {
+      "word": "c-",
+      "start": 28.12,
+      "end": 28.38
+    },
+    {
+      "word": "manufacture",
+      "start": 28.52,
+      "end": 28.68
+    },
+    {
+      "word": "of",
+      "start": 28.68,
+      "end": 29.16
+    },
+    {
+      "word": "critical",
+      "start": 29.16,
+      "end": 29.26
+    },
+    {
+      "word": "of",
+      "start": 29.56,
+      "end": 29.72
+    },
+    {
+      "word": "[UH]",
+      "start": 29.94,
+      "end": 29.96
+    },
+    {
+      "word": "[UH]",
+      "start": 29.96,
+      "end": 29.98
+    },
+    {
+      "word": "of",
+      "start": 29.98,
+      "end": 29.98
+    },
+    {
+      "word": "of",
+      "start": 29.98,
+      "end": 29.98
+    },
+    {
+      "word": "various",
+      "start": 30.04,
+      "end": 30.34
+    },
+    {
+      "word": "alloys",
+      "start": 30.34,
+      "end": 30.86
+    },
+    {
+      "word": "and",
+      "start": 30.86,
+      "end": 31.0
+    },
+    {
+      "word": "so",
+      "start": 31.0,
+      "end": 31.12
+    },
+    {
+      "word": "on.",
+      "start": 31.12,
+      "end": 31.36
+    }
+  ],
+  "intended_text": "Consumed by almost every living creature from bacteria to animals and plants and even humans. Water is one of the most important yet unrecognized resources word. Over presenty thought over, or going to be, thought over, according to some analysts water is a rather important natural resource. It is not me, a newly for drinking, but for a lot of manufacturing processes, such as paper manufacture. Or manufacture of various alloys and so on."
+}

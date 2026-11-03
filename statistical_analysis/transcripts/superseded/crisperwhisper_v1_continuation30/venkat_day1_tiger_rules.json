@@ -1,0 +1,573 @@
+{
+  "id": "venkat_day1_tiger_rules",
+  "audio": "data/wav/venkat_day1_tiger_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:52+00:00",
+  "duration": 37.14,
+  "processing_time": 3.48,
+  "text": "Tigers are the national animal of a subcontinent called India. India ho- houses more than fifteen percentage of the world's population. Tigers have been c- hunted indiscriminately for their fur because they have been considered a symbol of luxury and the symbol of nobility for times immemorial. However, under the p- [UH] supervision of an e- entrepreneur called Jim Corbett, the number of tigers in India have been [UH] rising steadily since the year two thousand and eight. However, in the past decade tigers have been victim to many [UH] forms of pollution such as carbon dioxide pollution to name a few and the number of tigers have been [UH] okay.",
+  "words": [
+    {
+      "word": "Tigers",
+      "start": 0.72,
+      "end": 1.14
+    },
+    {
+      "word": "are",
+      "start": 1.14,
+      "end": 1.33
+    },
+    {
+      "word": "the",
+      "start": 1.33,
+      "end": 1.51
+    },
+    {
+      "word": "national",
+      "start": 1.51,
+      "end": 1.99
+    },
+    {
+      "word": "animal",
+      "start": 1.99,
+      "end": 2.46
+    },
+    {
+      "word": "of",
+      "start": 2.46,
+      "end": 2.58
+    },
+    {
+      "word": "a",
+      "start": 2.68,
+      "end": 2.78
+    },
+    {
+      "word": "subcontinent",
+      "start": 3.2,
+      "end": 3.68
+    },
+    {
+      "word": "called",
+      "start": 3.8,
+      "end": 3.96
+    },
+    {
+      "word": "India.",
+      "start": 4.08,
+      "end": 4.42
+    },
+    {
+      "word": "India",
+      "start": 4.82,
+      "end": 5.1
+    },
+    {
+      "word": "ho-",
+      "start": 5.1,
+      "end": 5.32
+    },
+    {
+      "word": "houses",
+      "start": 5.32,
+      "end": 5.7
+    },
+    {
+      "word": "more",
+      "start": 5.84,
+      "end": 6.08
+    },
+    {
+      "word": "than",
+      "start": 6.08,
+      "end": 6.27
+    },
+    {
+      "word": "fifteen",
+      "start": 6.27,
+      "end": 6.42
+    },
+    {
+      "word": "percentage",
+      "start": 6.62,
+      "end": 7.22
+    },
+    {
+      "word": "of",
+      "start": 7.34,
+      "end": 7.48
+    },
+    {
+      "word": "the",
+      "start": 7.48,
+      "end": 7.6
+    },
+    {
+      "word": "world's",
+      "start": 7.6,
+      "end": 8.02
+    },
+    {
+      "word": "population.",
+      "start": 8.02,
+      "end": 8.66
+    },
+    {
+      "word": "Tigers",
+      "start": 9.06,
+      "end": 9.2
+    },
+    {
+      "word": "have",
+      "start": 9.6,
+      "end": 9.75
+    },
+    {
+      "word": "been",
+      "start": 9.75,
+      "end": 9.95
+    },
+    {
+      "word": "c-",
+      "start": 9.95,
+      "end": 10.2
+    },
+    {
+      "word": "hunted",
+      "start": 10.2,
+      "end": 10.43
+    },
+    {
+      "word": "indiscriminately",
+      "start": 10.43,
+      "end": 11.24
+    },
+    {
+      "word": "for",
+      "start": 11.24,
+      "end": 11.4
+    },
+    {
+      "word": "their",
+      "start": 11.4,
+      "end": 11.54
+    },
+    {
+      "word": "fur",
+      "start": 11.76,
+      "end": 11.88
+    },
+    {
+      "word": "because",
+      "start": 12.18,
+      "end": 12.25
+    },
+    {
+      "word": "they",
+      "start": 12.25,
+      "end": 12.44
+    },
+    {
+      "word": "have",
+      "start": 12.44,
+      "end": 12.62
+    },
+    {
+      "word": "been",
+      "start": 12.62,
+      "end": 12.86
+    },
+    {
+      "word": "considered",
+      "start": 12.86,
+      "end": 13.34
+    },
+    {
+      "word": "a",
+      "start": 13.34,
+      "end": 13.38
+    },
+    {
+      "word": "symbol",
+      "start": 13.62,
+      "end": 13.7
+    },
+    {
+      "word": "of",
+      "start": 13.7,
+      "end": 13.84
+    },
+    {
+      "word": "luxury",
+      "start": 13.84,
+      "end": 14.22
+    },
+    {
+      "word": "and",
+      "start": 14.4,
+      "end": 14.64
+    },
+    {
+      "word": "the",
+      "start": 14.64,
+      "end": 14.8
+    },
+    {
+      "word": "symbol",
+      "start": 14.8,
+      "end": 15.06
+    },
+    {
+      "word": "of",
+      "start": 15.06,
+      "end": 15.14
+    },
+    {
+      "word": "nobility",
+      "start": 15.28,
+      "end": 15.68
+    },
+    {
+      "word": "for",
+      "start": 15.68,
+      "end": 15.91
+    },
+    {
+      "word": "times",
+      "start": 15.91,
+      "end": 16.13
+    },
+    {
+      "word": "immemorial.",
+      "start": 16.13,
+      "end": 16.38
+    },
+    {
+      "word": "However,",
+      "start": 17.14,
+      "end": 17.58
+    },
+    {
+      "word": "under",
+      "start": 17.58,
+      "end": 17.84
+    },
+    {
+      "word": "the",
+      "start": 17.84,
+      "end": 17.99
+    },
+    {
+      "word": "p-",
+      "start": 17.99,
+      "end": 18.02
+    },
+    {
+      "word": "[UH]",
+      "start": 18.48,
+      "end": 18.6
+    },
+    {
+      "word": "supervision",
+      "start": 18.6,
+      "end": 18.92
+    },
+    {
+      "word": "of",
+      "start": 19.06,
+      "end": 19.16
+    },
+    {
+      "word": "an",
+      "start": 19.16,
+      "end": 19.24
+    },
+    {
+      "word": "e-",
+      "start": 19.24,
+      "end": 19.32
+    },
+    {
+      "word": "entrepreneur",
+      "start": 19.46,
+      "end": 19.96
+    },
+    {
+      "word": "called",
+      "start": 19.96,
+      "end": 20.22
+    },
+    {
+      "word": "Jim",
+      "start": 20.22,
+      "end": 20.38
+    },
+    {
+      "word": "Corbett,",
+      "start": 20.38,
+      "end": 20.88
+    },
+    {
+      "word": "the",
+      "start": 20.88,
+      "end": 20.98
+    },
+    {
+      "word": "number",
+      "start": 20.98,
+      "end": 21.2
+    },
+    {
+      "word": "of",
+      "start": 21.2,
+      "end": 21.36
+    },
+    {
+      "word": "tigers",
+      "start": 21.5,
+      "end": 21.9
+    },
+    {
+      "word": "in",
+      "start": 21.9,
+      "end": 22.1
+    },
+    {
+      "word": "India",
+      "start": 22.1,
+      "end": 22.38
+    },
+    {
+      "word": "have",
+      "start": 22.38,
+      "end": 22.56
+    },
+    {
+      "word": "been",
+      "start": 22.56,
+      "end": 22.74
+    },
+    {
+      "word": "[UH]",
+      "start": 22.88,
+      "end": 23.02
+    },
+    {
+      "word": "rising",
+      "start": 23.02,
+      "end": 23.39
+    },
+    {
+      "word": "steadily",
+      "start": 23.39,
+      "end": 23.76
+    },
+    {
+      "word": "since",
+      "start": 23.76,
+      "end": 24.06
+    },
+    {
+      "word": "the",
+      "start": 24.06,
+      "end": 24.2
+    },
+    {
+      "word": "year",
+      "start": 24.2,
+      "end": 24.36
+    },
+    {
+      "word": "two",
+      "start": 24.46,
+      "end": 24.52
+    },
+    {
+      "word": "thousand",
+      "start": 24.52,
+      "end": 24.98
+    },
+    {
+      "word": "and",
+      "start": 24.98,
+      "end": 25.18
+    },
+    {
+      "word": "eight.",
+      "start": 25.3,
+      "end": 25.42
+    },
+    {
+      "word": "However,",
+      "start": 25.92,
+      "end": 26.31
+    },
+    {
+      "word": "in",
+      "start": 26.31,
+      "end": 26.44
+    },
+    {
+      "word": "the",
+      "start": 26.44,
+      "end": 26.5
+    },
+    {
+      "word": "past",
+      "start": 26.6,
+      "end": 26.82
+    },
+    {
+      "word": "decade",
+      "start": 26.82,
+      "end": 27.16
+    },
+    {
+      "word": "tigers",
+      "start": 27.32,
+      "end": 27.49
+    },
+    {
+      "word": "have",
+      "start": 27.49,
+      "end": 27.81
+    },
+    {
+      "word": "been",
+      "start": 27.81,
+      "end": 27.98
+    },
+    {
+      "word": "victim",
+      "start": 28.12,
+      "end": 28.38
+    },
+    {
+      "word": "to",
+      "start": 28.52,
+      "end": 28.58
+    },
+    {
+      "word": "many",
+      "start": 28.58,
+      "end": 28.78
+    },
+    {
+      "word": "[UH]",
+      "start": 29.06,
+      "end": 29.14
+    },
+    {
+      "word": "forms",
+      "start": 29.32,
+      "end": 29.54
+    },
+    {
+      "word": "of",
+      "start": 29.54,
+      "end": 29.66
+    },
+    {
+      "word": "pollution",
+      "start": 29.66,
+      "end": 30.1
+    },
+    {
+      "word": "such",
+      "start": 30.1,
+      "end": 30.3
+    },
+    {
+      "word": "as",
+      "start": 30.3,
+      "end": 30.46
+    },
+    {
+      "word": "carbon",
+      "start": 30.46,
+      "end": 30.76
+    },
+    {
+      "word": "dioxide",
+      "start": 30.76,
+      "end": 31.22
+    },
+    {
+      "word": "pollution",
+      "start": 31.4,
+      "end": 32.0
+    },
+    {
+      "word": "to",
+      "start": 32.44,
+      "end": 32.6
+    },
+    {
+      "word": "name",
+      "start": 32.6,
+      "end": 32.8
+    },
+    {
+      "word": "a",
+      "start": 32.8,
+      "end": 32.9
+    },
+    {
+      "word": "few",
+      "start": 32.9,
+      "end": 33.18
+    },
+    {
+      "word": "and",
+      "start": 33.54,
+      "end": 33.82
+    },
+    {
+      "word": "the",
+      "start": 33.82,
+      "end": 33.96
+    },
+    {
+      "word": "number",
+      "start": 33.96,
+      "end": 34.18
+    },
+    {
+      "word": "of",
+      "start": 34.18,
+      "end": 34.3
+    },
+    {
+      "word": "tigers",
+      "start": 34.3,
+      "end": 34.7
+    },
+    {
+      "word": "have",
+      "start": 34.7,
+      "end": 34.85
+    },
+    {
+      "word": "been",
+      "start": 34.85,
+      "end": 35.08
+    },
+    {
+      "word": "[UH]",
+      "start": 35.08,
+      "end": 35.32
+    },
+    {
+      "word": "okay.",
+      "start": 36.44,
+      "end": 36.64
+    }
+  ],
+  "intended_text": "Tigers are the national animal of a subcontinent called India. India houses more than 15% of the world's population. Tigers have been hunted indiscriminately for their fur because they have been considered a symbol of luxury and the symbol of nobility for times immemorial. However, under the supervision of an entrepreneur called Jim Corbett, the number of tigers in India has been rising steadily since the year 2008. However, in the past decade tigers have been victim to many forms of pollution such as carbon dioxide pollution to name a few, and the number of tigers have been."
+}

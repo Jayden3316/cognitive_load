@@ -1,0 +1,332 @@
+{
+  "id": "sanjith_day1_tree_norules",
+  "audio": "data/wav/sanjith_day1_tree_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:16+00:00",
+  "duration": 31.6786875,
+  "processing_time": 0.683,
+  "text": "[UH] Trees are electrifying examples of electrons and photons re- reimbursed by the nature of [UH] gray colored paint [UH] Gray colored paint is also utilized in fire extinguishers and trees in the construction [UH] for cars, automobiles and other. [UH] fire hydrants [UH] flowers along with [UH] tables and trees make the constituent nature of the country of India.",
+  "words": [
+    {
+      "word": "[UH]",
+      "start": 0.24,
+      "end": 0.54
+    },
+    {
+      "word": "Trees",
+      "start": 1.02,
+      "end": 1.32
+    },
+    {
+      "word": "are",
+      "start": 1.32,
+      "end": 1.46
+    },
+    {
+      "word": "electrifying",
+      "start": 1.46,
+      "end": 2.12
+    },
+    {
+      "word": "examples",
+      "start": 2.12,
+      "end": 2.72
+    },
+    {
+      "word": "of",
+      "start": 2.72,
+      "end": 2.96
+    },
+    {
+      "word": "electrons",
+      "start": 3.36,
+      "end": 3.87
+    },
+    {
+      "word": "and",
+      "start": 3.87,
+      "end": 4.04
+    },
+    {
+      "word": "photons",
+      "start": 4.04,
+      "end": 4.52
+    },
+    {
+      "word": "re-",
+      "start": 4.52,
+      "end": 4.92
+    },
+    {
+      "word": "reimbursed",
+      "start": 5.46,
+      "end": 6.1
+    },
+    {
+      "word": "by",
+      "start": 6.1,
+      "end": 6.28
+    },
+    {
+      "word": "the",
+      "start": 6.28,
+      "end": 6.38
+    },
+    {
+      "word": "nature",
+      "start": 6.38,
+      "end": 6.76
+    },
+    {
+      "word": "of",
+      "start": 6.76,
+      "end": 7.06
+    },
+    {
+      "word": "[UH]",
+      "start": 7.64,
+      "end": 7.94
+    },
+    {
+      "word": "gray",
+      "start": 7.94,
+      "end": 8.22
+    },
+    {
+      "word": "colored",
+      "start": 8.22,
+      "end": 8.52
+    },
+    {
+      "word": "paint",
+      "start": 8.52,
+      "end": 8.9
+    },
+    {
+      "word": "[UH]",
+      "start": 9.62,
+      "end": 10.0
+    },
+    {
+      "word": "Gray",
+      "start": 10.84,
+      "end": 11.06
+    },
+    {
+      "word": "colored",
+      "start": 11.06,
+      "end": 11.32
+    },
+    {
+      "word": "paint",
+      "start": 11.32,
+      "end": 11.61
+    },
+    {
+      "word": "is",
+      "start": 11.61,
+      "end": 11.78
+    },
+    {
+      "word": "also",
+      "start": 11.78,
+      "end": 12.26
+    },
+    {
+      "word": "utilized",
+      "start": 12.96,
+      "end": 13.48
+    },
+    {
+      "word": "in",
+      "start": 13.48,
+      "end": 13.58
+    },
+    {
+      "word": "fire",
+      "start": 13.58,
+      "end": 13.88
+    },
+    {
+      "word": "extinguishers",
+      "start": 13.88,
+      "end": 14.52
+    },
+    {
+      "word": "and",
+      "start": 14.52,
+      "end": 14.72
+    },
+    {
+      "word": "trees",
+      "start": 14.72,
+      "end": 15.08
+    },
+    {
+      "word": "in",
+      "start": 15.56,
+      "end": 15.66
+    },
+    {
+      "word": "the",
+      "start": 15.66,
+      "end": 15.76
+    },
+    {
+      "word": "construction",
+      "start": 15.76,
+      "end": 16.44
+    },
+    {
+      "word": "[UH]",
+      "start": 16.64,
+      "end": 16.92
+    },
+    {
+      "word": "for",
+      "start": 16.92,
+      "end": 17.24
+    },
+    {
+      "word": "cars,",
+      "start": 17.58,
+      "end": 18.06
+    },
+    {
+      "word": "automobiles",
+      "start": 18.46,
+      "end": 19.26
+    },
+    {
+      "word": "and",
+      "start": 19.78,
+      "end": 20.02
+    },
+    {
+      "word": "other.",
+      "start": 20.02,
+      "end": 20.4
+    },
+    {
+      "word": "[UH]",
+      "start": 20.83,
+      "end": 20.99
+    },
+    {
+      "word": "fire",
+      "start": 20.99,
+      "end": 21.25
+    },
+    {
+      "word": "hydrants",
+      "start": 21.25,
+      "end": 21.75
+    },
+    {
+      "word": "[UH]",
+      "start": 22.85,
+      "end": 23.03
+    },
+    {
+      "word": "flowers",
+      "start": 23.03,
+      "end": 23.73
+    },
+    {
+      "word": "along",
+      "start": 23.73,
+      "end": 24.37
+    },
+    {
+      "word": "with",
+      "start": 24.37,
+      "end": 24.53
+    },
+    {
+      "word": "[UH]",
+      "start": 25.35,
+      "end": 25.65
+    },
+    {
+      "word": "tables",
+      "start": 25.65,
+      "end": 26.05
+    },
+    {
+      "word": "and",
+      "start": 26.05,
+      "end": 26.25
+    },
+    {
+      "word": "trees",
+      "start": 26.25,
+      "end": 26.65
+    },
+    {
+      "word": "make",
+      "start": 26.99,
+      "end": 27.23
+    },
+    {
+      "word": "the",
+      "start": 27.23,
+      "end": 27.43
+    },
+    {
+      "word": "constituent",
+      "start": 27.43,
+      "end": 28.07
+    },
+    {
+      "word": "nature",
+      "start": 28.07,
+      "end": 28.49
+    },
+    {
+      "word": "of",
+      "start": 28.73,
+      "end": 28.93
+    },
+    {
+      "word": "the",
+      "start": 28.93,
+      "end": 29.01
+    },
+    {
+      "word": "country",
+      "start": 29.01,
+      "end": 29.37
+    },
+    {
+      "word": "of",
+      "start": 29.37,
+      "end": 29.6
+    },
+    {
+      "word": "India.",
+      "start": 29.6,
+      "end": 29.93
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      20.75
+    ],
+    [
+      20.75,
+      31.679
+    ]
+  ],
+  "intended_text": "Trees are electrifying examples of electrons and photons reimbursed by the nature of gray colored paint. Gray colored paint is also utilized in fire extinguishers and trees in the construction for cars automobiles and other. Fire hydrants flowers along with tables and trees make the constituent nature of the country of India."
+}

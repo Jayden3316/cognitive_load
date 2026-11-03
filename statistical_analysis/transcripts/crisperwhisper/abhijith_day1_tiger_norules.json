@@ -1,0 +1,317 @@
+{
+  "id": "abhijith_day1_tiger_norules",
+  "audio": "data/wav/abhijith_day1_tiger_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:43:56+00:00",
+  "duration": 31.104,
+  "processing_time": 0.598,
+  "text": "Pigeons are ferocious animals known to hunt viciously, they dig their claws and their teeth deep into their prey, inflicting enormous amounts of pain and stopping the animal right in its tracks. They then tear the animal's skin open and feast while the animal is still alive. Tigers are beautiful creatures with beautiful stripes in their fur.",
+  "words": [
+    {
+      "word": "Pigeons",
+      "start": 0.1,
+      "end": 0.22
+    },
+    {
+      "word": "are",
+      "start": 0.22,
+      "end": 0.32
+    },
+    {
+      "word": "ferocious",
+      "start": 0.32,
+      "end": 1.06
+    },
+    {
+      "word": "animals",
+      "start": 1.06,
+      "end": 1.7
+    },
+    {
+      "word": "known",
+      "start": 1.7,
+      "end": 2.04
+    },
+    {
+      "word": "to",
+      "start": 2.04,
+      "end": 2.2
+    },
+    {
+      "word": "hunt",
+      "start": 2.2,
+      "end": 2.62
+    },
+    {
+      "word": "viciously,",
+      "start": 3.22,
+      "end": 3.98
+    },
+    {
+      "word": "they",
+      "start": 4.34,
+      "end": 4.54
+    },
+    {
+      "word": "dig",
+      "start": 4.54,
+      "end": 4.76
+    },
+    {
+      "word": "their",
+      "start": 4.76,
+      "end": 5.08
+    },
+    {
+      "word": "claws",
+      "start": 5.08,
+      "end": 5.76
+    },
+    {
+      "word": "and",
+      "start": 5.76,
+      "end": 5.96
+    },
+    {
+      "word": "their",
+      "start": 5.96,
+      "end": 6.2
+    },
+    {
+      "word": "teeth",
+      "start": 6.2,
+      "end": 6.64
+    },
+    {
+      "word": "deep",
+      "start": 6.64,
+      "end": 7.08
+    },
+    {
+      "word": "into",
+      "start": 7.08,
+      "end": 7.3
+    },
+    {
+      "word": "their",
+      "start": 7.3,
+      "end": 7.5
+    },
+    {
+      "word": "prey,",
+      "start": 7.5,
+      "end": 7.98
+    },
+    {
+      "word": "inflicting",
+      "start": 9.22,
+      "end": 10.04
+    },
+    {
+      "word": "enormous",
+      "start": 10.04,
+      "end": 10.64
+    },
+    {
+      "word": "amounts",
+      "start": 10.64,
+      "end": 11.02
+    },
+    {
+      "word": "of",
+      "start": 11.02,
+      "end": 11.16
+    },
+    {
+      "word": "pain",
+      "start": 11.16,
+      "end": 11.6
+    },
+    {
+      "word": "and",
+      "start": 11.72,
+      "end": 11.88
+    },
+    {
+      "word": "stopping",
+      "start": 11.88,
+      "end": 12.34
+    },
+    {
+      "word": "the",
+      "start": 12.34,
+      "end": 12.5
+    },
+    {
+      "word": "animal",
+      "start": 12.5,
+      "end": 12.9
+    },
+    {
+      "word": "right",
+      "start": 12.9,
+      "end": 13.18
+    },
+    {
+      "word": "in",
+      "start": 13.18,
+      "end": 13.28
+    },
+    {
+      "word": "its",
+      "start": 13.28,
+      "end": 13.56
+    },
+    {
+      "word": "tracks.",
+      "start": 13.56,
+      "end": 14.12
+    },
+    {
+      "word": "They",
+      "start": 14.6,
+      "end": 14.72
+    },
+    {
+      "word": "then",
+      "start": 14.72,
+      "end": 14.98
+    },
+    {
+      "word": "tear",
+      "start": 15.18,
+      "end": 15.68
+    },
+    {
+      "word": "the",
+      "start": 16.08,
+      "end": 16.24
+    },
+    {
+      "word": "animal's",
+      "start": 16.24,
+      "end": 16.88
+    },
+    {
+      "word": "skin",
+      "start": 16.88,
+      "end": 17.1
+    },
+    {
+      "word": "open",
+      "start": 17.1,
+      "end": 17.61
+    },
+    {
+      "word": "and",
+      "start": 17.61,
+      "end": 17.97
+    },
+    {
+      "word": "feast",
+      "start": 17.97,
+      "end": 18.68
+    },
+    {
+      "word": "while",
+      "start": 19.28,
+      "end": 19.5
+    },
+    {
+      "word": "the",
+      "start": 19.5,
+      "end": 19.64
+    },
+    {
+      "word": "animal",
+      "start": 19.64,
+      "end": 20.2
+    },
+    {
+      "word": "is",
+      "start": 20.5,
+      "end": 20.64
+    },
+    {
+      "word": "still",
+      "start": 20.64,
+      "end": 21.02
+    },
+    {
+      "word": "alive.",
+      "start": 21.14,
+      "end": 21.74
+    },
+    {
+      "word": "Tigers",
+      "start": 23.02,
+      "end": 23.76
+    },
+    {
+      "word": "are",
+      "start": 24.1,
+      "end": 24.56
+    },
+    {
+      "word": "beautiful",
+      "start": 25.3,
+      "end": 25.77
+    },
+    {
+      "word": "creatures",
+      "start": 25.77,
+      "end": 26.5
+    },
+    {
+      "word": "with",
+      "start": 26.88,
+      "end": 27.3
+    },
+    {
+      "word": "beautiful",
+      "start": 28.1,
+      "end": 28.56
+    },
+    {
+      "word": "stripes",
+      "start": 28.56,
+      "end": 29.26
+    },
+    {
+      "word": "in",
+      "start": 30.12,
+      "end": 30.28
+    },
+    {
+      "word": "their",
+      "start": 30.28,
+      "end": 30.46
+    },
+    {
+      "word": "fur.",
+      "start": 30.46,
+      "end": 30.9
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      14.38
+    ],
+    [
+      14.38,
+      31.104
+    ]
+  ],
+  "intended_text": "These are ferocious animals known to hunt viciously. They dig their claws and their teeth deep into their prey, inflicting enormous amounts of pain and stopping the animal right in its tracks. They then tear the animal's skin open and feast while the animal is still alive. Tigers are beautiful creatures with beautiful stripes in their fur."
+}

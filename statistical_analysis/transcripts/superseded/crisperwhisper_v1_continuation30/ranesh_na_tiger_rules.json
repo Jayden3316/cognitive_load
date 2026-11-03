@@ -1,0 +1,17 @@
+{
+  "id": "ranesh_na_tiger_rules",
+  "audio": "data/wav/ranesh_na_tiger_rules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:07+00:00",
+  "duration": 30.52,
+  "processing_time": 0.223,
+  "text": "",
+  "words": [],
+  "intended_text": ""
+}

@@ -1,0 +1,423 @@
+{
+  "id": "akshara_day1_water_norules",
+  "audio": "data/wav/akshara_day1_water_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:29:03+00:00",
+  "duration": 31.25,
+  "processing_time": 0.865,
+  "text": "Water is arguably the most essential thing for life to exist on earth [UM] Even though seventy-five percent of the earth is covered with water, most of it is not drinkable [UM] es- because it's salt water found in the oceans. The main sources of fresh water currently are ground water which is used for daily use and [UH] ninety percent of the earth's fresh water is trapped in the glaciers and the ice caps in on the in the bowls.",
+  "words": [
+    {
+      "word": "Water",
+      "start": 0.72,
+      "end": 1.04
+    },
+    {
+      "word": "is",
+      "start": 1.16,
+      "end": 1.29
+    },
+    {
+      "word": "arguably",
+      "start": 1.29,
+      "end": 1.77
+    },
+    {
+      "word": "the",
+      "start": 1.77,
+      "end": 1.9
+    },
+    {
+      "word": "most",
+      "start": 2.1,
+      "end": 2.14
+    },
+    {
+      "word": "essential",
+      "start": 2.52,
+      "end": 2.68
+    },
+    {
+      "word": "thing",
+      "start": 2.82,
+      "end": 2.9
+    },
+    {
+      "word": "for",
+      "start": 3.18,
+      "end": 3.34
+    },
+    {
+      "word": "life",
+      "start": 3.34,
+      "end": 3.7
+    },
+    {
+      "word": "to",
+      "start": 3.7,
+      "end": 3.86
+    },
+    {
+      "word": "exist",
+      "start": 3.86,
+      "end": 4.29
+    },
+    {
+      "word": "on",
+      "start": 4.29,
+      "end": 4.44
+    },
+    {
+      "word": "earth",
+      "start": 4.58,
+      "end": 4.6
+    },
+    {
+      "word": "[UM]",
+      "start": 5.42,
+      "end": 5.66
+    },
+    {
+      "word": "Even",
+      "start": 5.8,
+      "end": 5.94
+    },
+    {
+      "word": "though",
+      "start": 6.22,
+      "end": 6.38
+    },
+    {
+      "word": "seventy-five",
+      "start": 6.52,
+      "end": 7.14
+    },
+    {
+      "word": "percent",
+      "start": 7.14,
+      "end": 7.5
+    },
+    {
+      "word": "of",
+      "start": 7.62,
+      "end": 7.76
+    },
+    {
+      "word": "the",
+      "start": 7.76,
+      "end": 7.88
+    },
+    {
+      "word": "earth",
+      "start": 7.88,
+      "end": 8.16
+    },
+    {
+      "word": "is",
+      "start": 8.16,
+      "end": 8.33
+    },
+    {
+      "word": "covered",
+      "start": 8.33,
+      "end": 8.62
+    },
+    {
+      "word": "with",
+      "start": 8.62,
+      "end": 8.74
+    },
+    {
+      "word": "water,",
+      "start": 8.9,
+      "end": 9.34
+    },
+    {
+      "word": "most",
+      "start": 9.34,
+      "end": 9.58
+    },
+    {
+      "word": "of",
+      "start": 9.58,
+      "end": 9.68
+    },
+    {
+      "word": "it",
+      "start": 9.68,
+      "end": 9.86
+    },
+    {
+      "word": "is",
+      "start": 9.86,
+      "end": 10.14
+    },
+    {
+      "word": "not",
+      "start": 10.14,
+      "end": 10.38
+    },
+    {
+      "word": "drinkable",
+      "start": 11.56,
+      "end": 11.94
+    },
+    {
+      "word": "[UM]",
+      "start": 12.6,
+      "end": 12.88
+    },
+    {
+      "word": "es-",
+      "start": 13.4,
+      "end": 13.52
+    },
+    {
+      "word": "because",
+      "start": 13.52,
+      "end": 13.95
+    },
+    {
+      "word": "it's",
+      "start": 13.95,
+      "end": 14.14
+    },
+    {
+      "word": "salt",
+      "start": 14.14,
+      "end": 14.42
+    },
+    {
+      "word": "water",
+      "start": 14.42,
+      "end": 14.74
+    },
+    {
+      "word": "found",
+      "start": 14.74,
+      "end": 14.99
+    },
+    {
+      "word": "in",
+      "start": 14.99,
+      "end": 15.1
+    },
+    {
+      "word": "the",
+      "start": 15.1,
+      "end": 15.25
+    },
+    {
+      "word": "oceans.",
+      "start": 15.25,
+      "end": 15.58
+    },
+    {
+      "word": "The",
+      "start": 16.34,
+      "end": 16.42
+    },
+    {
+      "word": "main",
+      "start": 16.42,
+      "end": 16.66
+    },
+    {
+      "word": "sources",
+      "start": 16.66,
+      "end": 16.96
+    },
+    {
+      "word": "of",
+      "start": 16.96,
+      "end": 17.14
+    },
+    {
+      "word": "fresh",
+      "start": 17.14,
+      "end": 17.38
+    },
+    {
+      "word": "water",
+      "start": 17.38,
+      "end": 17.94
+    },
+    {
+      "word": "currently",
+      "start": 18.1,
+      "end": 18.3
+    },
+    {
+      "word": "are",
+      "start": 18.7,
+      "end": 19.06
+    },
+    {
+      "word": "ground",
+      "start": 19.06,
+      "end": 19.38
+    },
+    {
+      "word": "water",
+      "start": 19.38,
+      "end": 19.82
+    },
+    {
+      "word": "which",
+      "start": 20.08,
+      "end": 20.23
+    },
+    {
+      "word": "is",
+      "start": 20.23,
+      "end": 20.43
+    },
+    {
+      "word": "used",
+      "start": 20.43,
+      "end": 20.82
+    },
+    {
+      "word": "for",
+      "start": 20.82,
+      "end": 21.0
+    },
+    {
+      "word": "daily",
+      "start": 21.0,
+      "end": 21.3
+    },
+    {
+      "word": "use",
+      "start": 21.42,
+      "end": 21.5
+    },
+    {
+      "word": "and",
+      "start": 21.76,
+      "end": 22.08
+    },
+    {
+      "word": "[UH]",
+      "start": 23.0,
+      "end": 23.1
+    },
+    {
+      "word": "ninety",
+      "start": 23.44,
+      "end": 23.6
+    },
+    {
+      "word": "percent",
+      "start": 23.6,
+      "end": 24.04
+    },
+    {
+      "word": "of",
+      "start": 24.2,
+      "end": 24.46
+    },
+    {
+      "word": "the",
+      "start": 24.56,
+      "end": 24.64
+    },
+    {
+      "word": "earth's",
+      "start": 24.64,
+      "end": 25.14
+    },
+    {
+      "word": "fresh",
+      "start": 25.14,
+      "end": 25.42
+    },
+    {
+      "word": "water",
+      "start": 25.42,
+      "end": 25.75
+    },
+    {
+      "word": "is",
+      "start": 25.75,
+      "end": 25.9
+    },
+    {
+      "word": "trapped",
+      "start": 25.9,
+      "end": 26.2
+    },
+    {
+      "word": "in",
+      "start": 26.36,
+      "end": 26.64
+    },
+    {
+      "word": "the",
+      "start": 27.12,
+      "end": 27.19
+    },
+    {
+      "word": "glaciers",
+      "start": 27.19,
+      "end": 27.76
+    },
+    {
+      "word": "and",
+      "start": 28.18,
+      "end": 28.39
+    },
+    {
+      "word": "the",
+      "start": 28.39,
+      "end": 28.48
+    },
+    {
+      "word": "ice",
+      "start": 28.48,
+      "end": 28.79
+    },
+    {
+      "word": "caps",
+      "start": 28.79,
+      "end": 28.96
+    },
+    {
+      "word": "in",
+      "start": 29.14,
+      "end": 29.28
+    },
+    {
+      "word": "on",
+      "start": 29.62,
+      "end": 29.7
+    },
+    {
+      "word": "the",
+      "start": 29.7,
+      "end": 29.8
+    },
+    {
+      "word": "in",
+      "start": 29.8,
+      "end": 29.82
+    },
+    {
+      "word": "the",
+      "start": 29.82,
+      "end": 30.12
+    },
+    {
+      "word": "bowls.",
+      "start": 30.12,
+      "end": 30.6
+    }
+  ],
+  "intended_text": "Water is arguably the most essential thing for life to exist on earth. Even though 75% of the earth is covered with water, most of it is not drinkable because it's salt water found in the oceans. The main sources of fresh water currently are ground water which is used for daily use and 90% of the earth's fresh water is trapped in the glaciers and the ice caps in the bowls."
+}

@@ -1,0 +1,402 @@
+{
+  "id": "ranesh_na_tiger_norules",
+  "audio": "data/wav/ranesh_na_tiger_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:09+00:00",
+  "duration": 30.9106875,
+  "processing_time": 0.6990000000000001,
+  "text": "[UH] With orange coats and black stripes tigers are one of the most famous predators in the world [UH] and are the national animal of India. Tigers hunt down a variety of prey such as deer and [UH] tend to be solo hunters preferring not. To [UH] hunt in packs or with their families. However [UH] tiger populations have been plummeting with time, although various conservation efforts have been dedi- dedicated towards saving them.",
+  "words": [
+    {
+      "word": "[UH]",
+      "start": 1.06,
+      "end": 1.26
+    },
+    {
+      "word": "With",
+      "start": 1.26,
+      "end": 1.42
+    },
+    {
+      "word": "orange",
+      "start": 1.42,
+      "end": 1.76
+    },
+    {
+      "word": "coats",
+      "start": 1.76,
+      "end": 2.34
+    },
+    {
+      "word": "and",
+      "start": 2.48,
+      "end": 2.83
+    },
+    {
+      "word": "black",
+      "start": 2.83,
+      "end": 3.16
+    },
+    {
+      "word": "stripes",
+      "start": 3.16,
+      "end": 3.5
+    },
+    {
+      "word": "tigers",
+      "start": 3.5,
+      "end": 3.78
+    },
+    {
+      "word": "are",
+      "start": 3.78,
+      "end": 4.26
+    },
+    {
+      "word": "one",
+      "start": 4.58,
+      "end": 4.68
+    },
+    {
+      "word": "of",
+      "start": 4.68,
+      "end": 4.74
+    },
+    {
+      "word": "the",
+      "start": 4.74,
+      "end": 4.82
+    },
+    {
+      "word": "most",
+      "start": 4.82,
+      "end": 5.04
+    },
+    {
+      "word": "famous",
+      "start": 5.04,
+      "end": 5.34
+    },
+    {
+      "word": "predators",
+      "start": 5.34,
+      "end": 5.94
+    },
+    {
+      "word": "in",
+      "start": 5.94,
+      "end": 6.08
+    },
+    {
+      "word": "the",
+      "start": 6.08,
+      "end": 6.18
+    },
+    {
+      "word": "world",
+      "start": 6.18,
+      "end": 6.48
+    },
+    {
+      "word": "[UH]",
+      "start": 6.94,
+      "end": 7.1
+    },
+    {
+      "word": "and",
+      "start": 7.1,
+      "end": 7.4
+    },
+    {
+      "word": "are",
+      "start": 7.72,
+      "end": 7.95
+    },
+    {
+      "word": "the",
+      "start": 7.95,
+      "end": 8.08
+    },
+    {
+      "word": "national",
+      "start": 8.08,
+      "end": 8.44
+    },
+    {
+      "word": "animal",
+      "start": 8.44,
+      "end": 8.72
+    },
+    {
+      "word": "of",
+      "start": 8.72,
+      "end": 8.88
+    },
+    {
+      "word": "India.",
+      "start": 8.88,
+      "end": 9.16
+    },
+    {
+      "word": "Tigers",
+      "start": 10.16,
+      "end": 10.63
+    },
+    {
+      "word": "hunt",
+      "start": 10.63,
+      "end": 11.02
+    },
+    {
+      "word": "down",
+      "start": 11.02,
+      "end": 11.2
+    },
+    {
+      "word": "a",
+      "start": 11.2,
+      "end": 11.28
+    },
+    {
+      "word": "variety",
+      "start": 11.28,
+      "end": 11.68
+    },
+    {
+      "word": "of",
+      "start": 11.68,
+      "end": 11.84
+    },
+    {
+      "word": "prey",
+      "start": 11.84,
+      "end": 12.16
+    },
+    {
+      "word": "such",
+      "start": 12.52,
+      "end": 12.7
+    },
+    {
+      "word": "as",
+      "start": 12.7,
+      "end": 12.88
+    },
+    {
+      "word": "deer",
+      "start": 12.88,
+      "end": 13.2
+    },
+    {
+      "word": "and",
+      "start": 13.72,
+      "end": 13.97
+    },
+    {
+      "word": "[UH]",
+      "start": 13.97,
+      "end": 14.06
+    },
+    {
+      "word": "tend",
+      "start": 14.68,
+      "end": 15.1
+    },
+    {
+      "word": "to",
+      "start": 15.1,
+      "end": 15.26
+    },
+    {
+      "word": "be",
+      "start": 15.26,
+      "end": 15.38
+    },
+    {
+      "word": "solo",
+      "start": 15.38,
+      "end": 15.7
+    },
+    {
+      "word": "hunters",
+      "start": 15.7,
+      "end": 16.16
+    },
+    {
+      "word": "preferring",
+      "start": 16.48,
+      "end": 16.92
+    },
+    {
+      "word": "not.",
+      "start": 16.92,
+      "end": 17.36
+    },
+    {
+      "word": "To",
+      "start": 17.86,
+      "end": 18.26
+    },
+    {
+      "word": "[UH]",
+      "start": 18.26,
+      "end": 18.64
+    },
+    {
+      "word": "hunt",
+      "start": 18.64,
+      "end": 18.86
+    },
+    {
+      "word": "in",
+      "start": 18.86,
+      "end": 19.0
+    },
+    {
+      "word": "packs",
+      "start": 19.0,
+      "end": 19.5
+    },
+    {
+      "word": "or",
+      "start": 19.8,
+      "end": 20.02
+    },
+    {
+      "word": "with",
+      "start": 20.02,
+      "end": 20.16
+    },
+    {
+      "word": "their",
+      "start": 20.16,
+      "end": 20.38
+    },
+    {
+      "word": "families.",
+      "start": 20.38,
+      "end": 20.86
+    },
+    {
+      "word": "However",
+      "start": 21.44,
+      "end": 21.82
+    },
+    {
+      "word": "[UH]",
+      "start": 22.28,
+      "end": 22.52
+    },
+    {
+      "word": "tiger",
+      "start": 23.52,
+      "end": 23.82
+    },
+    {
+      "word": "populations",
+      "start": 23.82,
+      "end": 24.18
+    },
+    {
+      "word": "have",
+      "start": 24.66,
+      "end": 24.9
+    },
+    {
+      "word": "been",
+      "start": 24.9,
+      "end": 25.04
+    },
+    {
+      "word": "plummeting",
+      "start": 25.04,
+      "end": 25.52
+    },
+    {
+      "word": "with",
+      "start": 25.52,
+      "end": 25.74
+    },
+    {
+      "word": "time,",
+      "start": 25.74,
+      "end": 26.12
+    },
+    {
+      "word": "although",
+      "start": 26.48,
+      "end": 26.84
+    },
+    {
+      "word": "various",
+      "start": 26.84,
+      "end": 27.38
+    },
+    {
+      "word": "conservation",
+      "start": 27.38,
+      "end": 27.86
+    },
+    {
+      "word": "efforts",
+      "start": 27.86,
+      "end": 28.12
+    },
+    {
+      "word": "have",
+      "start": 28.12,
+      "end": 28.26
+    },
+    {
+      "word": "been",
+      "start": 28.26,
+      "end": 28.34
+    },
+    {
+      "word": "dedi-",
+      "start": 28.34,
+      "end": 28.66
+    },
+    {
+      "word": "dedicated",
+      "start": 28.66,
+      "end": 29.34
+    },
+    {
+      "word": "towards",
+      "start": 29.34,
+      "end": 29.8
+    },
+    {
+      "word": "saving",
+      "start": 29.94,
+      "end": 30.26
+    },
+    {
+      "word": "them.",
+      "start": 30.26,
+      "end": 30.44
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      17.8
+    ],
+    [
+      17.8,
+      30.911
+    ]
+  ],
+  "intended_text": "With orange coats and black stripes tigers are one of the most famous predators in the world and are the national animal of India. Tigers hunt down a variety of prey such as deer and tend to be solo hunters preferring not. To hunt in packs or with their families. However, tiger populations have been plummeting with time, although various conservation efforts have been dedicated towards saving them."
+}

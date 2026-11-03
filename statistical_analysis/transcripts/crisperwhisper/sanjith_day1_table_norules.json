@@ -1,0 +1,392 @@
+{
+  "id": "sanjith_day1_table_norules",
+  "audio": "data/wav/sanjith_day1_table_norules.wav",
+  "model": "large",
+  "backend": "ct2",
+  "compute_type": "float16",
+  "crisperwhisper_version": "2.0.3",
+  "language": "en",
+  "hallucination_mitigation": true,
+  "longform_strategy": "continuation",
+  "chunk_duration": 30.0,
+  "stride": 26.0,
+  "split_at_pause": true,
+  "mode": "verbatim",
+  "created": "2026-11-02T06:44:13+00:00",
+  "duration": 32.1906875,
+  "processing_time": 0.745,
+  "text": "Tables are prehistoric examples of chair when they were under constructed along the range of oceans [laughter] and trees [UH] You can make flowers out of tables since they're [UH] nothing but [UH] examples of steel reinforced with [UH] more magma and bikes. This is n- this is a crucif- a crucifying example of tables that are kept alongside palm trees because palm trees and cycles have [UH] grass in common. Yeah.",
+  "words": [
+    {
+      "word": "Tables",
+      "start": 1.1,
+      "end": 1.48
+    },
+    {
+      "word": "are",
+      "start": 1.48,
+      "end": 1.62
+    },
+    {
+      "word": "prehistoric",
+      "start": 1.62,
+      "end": 2.28
+    },
+    {
+      "word": "examples",
+      "start": 2.28,
+      "end": 2.81
+    },
+    {
+      "word": "of",
+      "start": 2.81,
+      "end": 3.0
+    },
+    {
+      "word": "chair",
+      "start": 3.0,
+      "end": 3.36
+    },
+    {
+      "word": "when",
+      "start": 3.6,
+      "end": 3.76
+    },
+    {
+      "word": "they",
+      "start": 3.76,
+      "end": 3.92
+    },
+    {
+      "word": "were",
+      "start": 3.92,
+      "end": 4.04
+    },
+    {
+      "word": "under",
+      "start": 4.04,
+      "end": 4.5
+    },
+    {
+      "word": "constructed",
+      "start": 4.5,
+      "end": 4.9
+    },
+    {
+      "word": "along",
+      "start": 5.36,
+      "end": 5.66
+    },
+    {
+      "word": "the",
+      "start": 5.66,
+      "end": 5.82
+    },
+    {
+      "word": "range",
+      "start": 5.82,
+      "end": 6.1
+    },
+    {
+      "word": "of",
+      "start": 6.1,
+      "end": 6.24
+    },
+    {
+      "word": "oceans",
+      "start": 6.24,
+      "end": 6.78
+    },
+    {
+      "word": "[laughter]",
+      "start": 6.9,
+      "end": 7.38
+    },
+    {
+      "word": "and",
+      "start": 7.62,
+      "end": 7.96
+    },
+    {
+      "word": "trees",
+      "start": 7.96,
+      "end": 8.32
+    },
+    {
+      "word": "[UH]",
+      "start": 8.72,
+      "end": 9.22
+    },
+    {
+      "word": "You",
+      "start": 9.68,
+      "end": 9.88
+    },
+    {
+      "word": "can",
+      "start": 9.88,
+      "end": 10.02
+    },
+    {
+      "word": "make",
+      "start": 10.02,
+      "end": 10.22
+    },
+    {
+      "word": "flowers",
+      "start": 10.22,
+      "end": 10.62
+    },
+    {
+      "word": "out",
+      "start": 10.62,
+      "end": 10.78
+    },
+    {
+      "word": "of",
+      "start": 10.78,
+      "end": 10.94
+    },
+    {
+      "word": "tables",
+      "start": 10.94,
+      "end": 11.48
+    },
+    {
+      "word": "since",
+      "start": 11.8,
+      "end": 12.1
+    },
+    {
+      "word": "they're",
+      "start": 12.1,
+      "end": 12.38
+    },
+    {
+      "word": "[UH]",
+      "start": 12.5,
+      "end": 12.76
+    },
+    {
+      "word": "nothing",
+      "start": 12.76,
+      "end": 13.12
+    },
+    {
+      "word": "but",
+      "start": 13.12,
+      "end": 13.4
+    },
+    {
+      "word": "[UH]",
+      "start": 13.4,
+      "end": 13.77
+    },
+    {
+      "word": "examples",
+      "start": 13.77,
+      "end": 14.3
+    },
+    {
+      "word": "of",
+      "start": 14.3,
+      "end": 14.46
+    },
+    {
+      "word": "steel",
+      "start": 14.46,
+      "end": 14.82
+    },
+    {
+      "word": "reinforced",
+      "start": 15.56,
+      "end": 16.11
+    },
+    {
+      "word": "with",
+      "start": 16.11,
+      "end": 16.28
+    },
+    {
+      "word": "[UH]",
+      "start": 16.4,
+      "end": 16.8
+    },
+    {
+      "word": "more",
+      "start": 16.8,
+      "end": 17.1
+    },
+    {
+      "word": "magma",
+      "start": 17.1,
+      "end": 17.64
+    },
+    {
+      "word": "and",
+      "start": 17.64,
+      "end": 17.86
+    },
+    {
+      "word": "bikes.",
+      "start": 17.86,
+      "end": 18.36
+    },
+    {
+      "word": "This",
+      "start": 18.86,
+      "end": 19.08
+    },
+    {
+      "word": "is",
+      "start": 19.08,
+      "end": 19.42
+    },
+    {
+      "word": "n-",
+      "start": 19.76,
+      "end": 19.9
+    },
+    {
+      "word": "this",
+      "start": 20.04,
+      "end": 20.26
+    },
+    {
+      "word": "is",
+      "start": 20.26,
+      "end": 20.4
+    },
+    {
+      "word": "a",
+      "start": 20.4,
+      "end": 20.52
+    },
+    {
+      "word": "crucif-",
+      "start": 20.52,
+      "end": 21.1
+    },
+    {
+      "word": "a",
+      "start": 21.1,
+      "end": 21.24
+    },
+    {
+      "word": "crucifying",
+      "start": 21.24,
+      "end": 21.86
+    },
+    {
+      "word": "example",
+      "start": 21.86,
+      "end": 22.4
+    },
+    {
+      "word": "of",
+      "start": 22.4,
+      "end": 22.66
+    },
+    {
+      "word": "tables",
+      "start": 23.1,
+      "end": 23.6
+    },
+    {
+      "word": "that",
+      "start": 23.6,
+      "end": 23.78
+    },
+    {
+      "word": "are",
+      "start": 23.78,
+      "end": 23.9
+    },
+    {
+      "word": "kept",
+      "start": 23.9,
+      "end": 24.22
+    },
+    {
+      "word": "alongside",
+      "start": 24.22,
+      "end": 24.74
+    },
+    {
+      "word": "palm",
+      "start": 24.74,
+      "end": 25.1
+    },
+    {
+      "word": "trees",
+      "start": 25.1,
+      "end": 25.42
+    },
+    {
+      "word": "because",
+      "start": 25.7,
+      "end": 25.92
+    },
+    {
+      "word": "palm",
+      "start": 25.92,
+      "end": 26.36
+    },
+    {
+      "word": "trees",
+      "start": 26.36,
+      "end": 26.7
+    },
+    {
+      "word": "and",
+      "start": 27.32,
+      "end": 27.5
+    },
+    {
+      "word": "cycles",
+      "start": 27.5,
+      "end": 28.08
+    },
+    {
+      "word": "have",
+      "start": 28.8,
+      "end": 29.08
+    },
+    {
+      "word": "[UH]",
+      "start": 29.08,
+      "end": 29.38
+    },
+    {
+      "word": "grass",
+      "start": 29.38,
+      "end": 29.84
+    },
+    {
+      "word": "in",
+      "start": 29.84,
+      "end": 29.96
+    },
+    {
+      "word": "common.",
+      "start": 29.96,
+      "end": 30.36
+    },
+    {
+      "word": "Yeah.",
+      "start": 30.82,
+      "end": 31.14
+    }
+  ],
+  "segments": [
+    [
+      0.0,
+      18.46
+    ],
+    [
+      18.46,
+      32.191
+    ]
+  ],
+  "intended_text": "Tables are prehistoric examples of chair when they were under constructed along the range of oceans and trees. You can make flowers out of tables since they're nothing but examples of steel reinforced with more magma and bikes. This is a crucifying example of tables that are kept alongside palm trees because palm trees and cycles have grass in common."
+}
